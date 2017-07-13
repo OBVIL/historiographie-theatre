@@ -1,1 +1,1 @@
-Ficchiers XML/TEI du projet Historiographie du théâtre.
+Fichiers XML/TEI du projet Historiographie du théâtre.
