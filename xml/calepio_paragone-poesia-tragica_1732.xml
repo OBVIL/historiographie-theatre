@@ -24,10 +24,10 @@
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.paris-sorbonne.fr/corpus/historiographie-theatre/calepio_paragone-poesia-tragica_1732/</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/historiographie-theatre/calepio_paragone-poesia-tragica_1732.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/historiographie-theatre/calepio_paragone-poesia-tragica_1732.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/historiographie-theatre/calepio_paragone-poesia-tragica_1732.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/historiographie-theatre/calepio_paragone-poesia-tragica_1732.txt</idno>
+        <idno type="tei">http://obvil.paris-sorbonne.fr/corpus/historiographie-theatre/calepio_paragone-poesia-tragica_1732.xml</idno>
+        <idno type="html">http://obvil.paris-sorbonne.fr/corpus/historiographie-theatre/calepio_paragone-poesia-tragica_1732.html</idno>
+        <idno type="epub">http://obvil.paris-sorbonne.fr/corpus/historiographie-theatre/calepio_paragone-poesia-tragica_1732.epub</idno>
+        <idno type="txt">http://obvil.paris-sorbonne.fr/corpus/historiographie-theatre/calepio_paragone-poesia-tragica_1732.txt</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
