@@ -60,6 +60,7 @@ if ( $doc ) {
   echo '<a target="_blank" href="epub/'.$doc['code'].'.epub">epub</a>';
   echo ', <a target="_blank" href="kindle/'.$doc['code'].'.mobi">kindle</a>';
   echo ', <a target="_blank" href="markdown/'.$doc['code'].'.md">txt</a>';
+  echo ', <a target="_blank" href="iramuteq/'.$doc['code'].'.txt"">iramuteq</a>';
   echo ', <a target="_blank" href="html/'.$doc['code'].'.html">html</a>';
   echo '.</nav>';
   
