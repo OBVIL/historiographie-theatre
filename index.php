@@ -56,6 +56,13 @@ else {
           <?php
 if ( $doc ) {
   // if (isset($doc['download'])) echo $doc['download'];
+  echo "\n".'<nav id="download"><small>Télécharger :</small>';
+  echo '<a target="_blank" href="epub/'.$doc['code'].'.epub">epub</a>';
+  echo ', <a target="_blank" href="kindle/'.$doc['code'].'.mobi">kindle</a>';
+  echo ', <a target="_blank" href="markdown/'.$doc['code'].'.md">txt</a>';
+  echo ', <a target="_blank" href="html/'.$doc['code'].'.html">html</a>';
+  echo '.</nav>';
+  
   // auteur, titre, date
   echo "\n".'<header>';
   if ($doc['byline']) echo "\n".'<div class="byline">'.$doc['byline'] .'</div>';
