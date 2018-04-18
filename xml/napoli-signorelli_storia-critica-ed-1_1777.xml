@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it">
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it" n="Napoli Signorelli (1777)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,14 +15,14 @@
           <resp>OCR, stylage sémantique</resp>
         </respStmt>
         <respStmt>
-          <name>éric Thiébaud </name>
+          <name>Éric Thiébaud </name>
           <resp>Stylage sémantique</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/historiographie-theatrale/napoli-signorelli_storia-critica-teatri/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/historiographie-theatre/napoli-signorelli_storia-critica-ed-1_1777/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -34,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Pietro Napoli Signorelli</author>, <title>Storia critica de’ teatri antichi et moderni. Libri III</title>, <edition>1<hi rend="sup">ère</hi> édition</edition>, <pubPlace>Napoli</pubPlace>, <publisher>Nella Stamperia Simoniana</publisher>, <date>1777</date>, XX-468 p.</bibl>
+        <bibl>Pietro <author>Napoli Signorelli, <title>Storia critica de’ teatri antichi et moderni. Libri III</title>, <edition>1<hi rend="sup">ère</hi> édition</edition>, <pubPlace>Napoli</pubPlace>, <publisher>Nella Stamperia Simoniana</publisher>, <date>1777</date>, XX-468 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
