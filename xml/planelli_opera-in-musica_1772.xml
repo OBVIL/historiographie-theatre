@@ -25,11 +25,11 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2018"/>
-        <idno>http://obvil.sorbonne-universite.sit/corpus/historiographie-theatrale/planelli_opera-in-musica_1772/</idno>
-        <idno type="tei">http://obvil.sorbonne-universite.sit/corpus/historiographie-theatrale/planelli_opera-in-musica_1772.xml/</idno>
-        <idno type="epub">http://obvil.sorbonne-universite.sit/corpus/historiographie-theatrale/planelli_opera-in-musica_1772.epub/</idno>
-        <idno type="html">http://obvil.sorbonne-universite.sit/corpus/historiographie-theatrale/planelli_opera-in-musica_1772.html/</idno>
-        <idno type="txt">http://obvil.sorbonne-universite.sit/corpus/historiographie-theatrale/planelli_opera-in-musica_1772.txt/</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/planelli_opera-in-musica_1772/</idno>
+        <idno type="tei">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/planelli_opera-in-musica_1772.xml/</idno>
+        <idno type="epub">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/planelli_opera-in-musica_1772.epub/</idno>
+        <idno type="html">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/planelli_opera-in-musica_1772.html/</idno>
+        <idno type="txt">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/planelli_opera-in-musica_1772.txt/</idno>
         <availability status="restricted">
           <licence target="#http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence

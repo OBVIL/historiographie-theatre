@@ -26,10 +26,10 @@
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2018"/>
         <idno>http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/salfi_della-declamazione/</idno>
-        <idno type="tei">http://obvil.sorbonne-universite.sit/corpus/historiographie-theatrale/salfi_della-declamazione.xml/</idno>
-        <idno type="epub">http://obvil.sorbonne-universite.sit/corpus/historiographie-theatrale/salfi_della-declamazione.epub/</idno>
-        <idno type="html">http://obvil.sorbonne-universite.sit/corpus/historiographie-theatrale/salfi_della-declamazione.html/</idno>
-        <idno type="txt">http://obvil.sorbonne-universite.sit/corpus/historiographie-theatrale/salfi_della-declamazione.txt/</idno>
+        <idno type="tei">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/salfi_della-declamazione.xml/</idno>
+        <idno type="epub">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/salfi_della-declamazione.epub/</idno>
+        <idno type="html">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/salfi_della-declamazione.html/</idno>
+        <idno type="txt">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/salfi_della-declamazione.txt/</idno>
         <availability status="restricted">
           <licence target="#http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence
