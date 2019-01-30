@@ -5,8 +5,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="http://gallica.bnf.fr/ark:/12148/bpt6k65346899">Observations sur la comédie et sur le génie de Molière</title>
-        <author key="Riccoboni, Luigi (1676-1753)">Luigi Riccoboni</author>
+        <title>Observations sur la comédie et sur le génie de Molière</title>
+        <author key="Riccoboni, Luigi (1676-1753)" ref="https://data.bnf.fr/fr/11998321/luigi_riccoboni/">Luigi Riccoboni</author>
         <editor key="Sansa, Anna">Anna Sansa</editor>
       </titleStmt>
       <editionStmt>
@@ -23,15 +23,15 @@
           <name>Stella Louis</name>
           <resp>Encodage TEI</resp>
         </respStmt>
+        <respStmt>
+          <name>Anne-Laure Huet</name>
+          <resp>édition TEI</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2015"/>
         <idno>http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/riccoboni_observations/</idno>
-        <idno type="tei">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/riccoboni_observations.xml</idno>
-        <idno type="html">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/riccoboni_observations.html</idno>
-        <idno type="text">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/riccoboni_observations.txt</idno>
-        <idno type="epub">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/riccoboni_observations.epub</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -43,7 +43,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Luigi Riccoboni</author>, <title>Observations sur la comédie et sur le génie de Molière, par Louis Riccoboni</title>, <pubPlace>Paris</pubPlace>, <publisher>Vve Pissot</publisher>, <date>1736</date>, XX-[4]-357-[1] p. ; in-12. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k65346899">Gallica</ref>.</bibl>
+        <bibl>Luigi Riccoboni, <hi rend="i">Observations sur la comédie et sur le génie de Molière, par Louis Riccoboni</hi>, <pubPlace>Paris</pubPlace>, <publisher>Vve Pissot</publisher>, <date>1736</date>, XX-[4]-357-[1] p. ; in-12. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k65346899">Gallica</ref>.</bibl> 
       </sourceDesc>
     </fileDesc>
     <profileDesc>
