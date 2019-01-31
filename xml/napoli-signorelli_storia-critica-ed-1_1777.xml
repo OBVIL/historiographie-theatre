@@ -65,6 +65,7 @@
     </profileDesc>
   </teiHeader>
   <text>
+    <!-- <front> à laisser en commentaire. Informations que l'on retrouve dans le <bibl> -->
     <!--
     <front>
       <titlePage>
