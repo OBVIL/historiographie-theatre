@@ -3,13 +3,13 @@
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--Odette: 2018-10-16T16:20:40+02:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ita">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Dell’opera in musica 1772</title>
         <author key="Planelli, Antonio (1737-1803)">Antonio Planelli</author>
-        <editor>Franco Arato</editor>
+        <editor key="Arato, Franco (1960-....)">Franco Arato</editor>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>Della tragedia antica e moderna</title>
-        <author key="Martello, Pier Jacopo (1665-1727)">Pier Jacopo Martello</author>
+        <author key="Martello, Pier Jacopo (1665-1727)" ref="https://data.bnf.fr/fr/12323446/pier_jacopo_martello/">Pier Jacopo Martello</author>
         <editor>Valentina Gallo</editor>
       </titleStmt>
       <editionStmt>
@@ -27,8 +27,7 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2018"/>
-        <idno>http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/martello_della-tragedia-antica-e-moderna_1715/</idno>
+        <date when="2018"/> <idno>http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/martello_della-tragedia-antica-e-moderna_1715/</idno>
         <availability status="restricted">
           <licence target="#http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
