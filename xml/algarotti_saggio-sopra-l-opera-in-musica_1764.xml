@@ -2,12 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2018-01-25T13:51:00+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ita" n="Algarotti (1764)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ita">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Saggio sopra l’opera in musica</title>
-        <author key="Algarotti, Francesco (1712-1764)">Francesco Algarotti</author>
+        <author key="Algarotti, Francesco (1712-1764)" ref="https://data.bnf.fr/fr/12090007/francesco_algarotti/">Francesco Algarotti</author>
         <editor>Silvia Tatti</editor>
       </titleStmt>
       <editionStmt>
@@ -20,7 +20,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2018"/>
         <idno>http://http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/algarotti_saggio-sopra-l-opera-in-musica_1764/</idno>
         <availability status="restricted">
@@ -34,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Francesco Algarotti, <hi rend="i">Saggio sopra l’opera in musica</hi>, in <hi rend="i">Opere del conte Algarotti</hi>, Tomo II, Livorno, Coltellini, 1764, pp. 251-390.</bibl>
+        <bibl>Francesco Algarotti, « Saggio sopra l’opera in musica », in <hi rend="i">Opere del conte Algarotti</hi>, Tomo II, <pubPlace>Livorno</pubPlace>, <publisher>Coltellini</publisher>, <date>1764</date>, pp. 251-390.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

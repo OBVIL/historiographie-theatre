@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ita">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Storia critica de’ teatri antichi e moderni (2e éd.). Tome V</title>
-                <author key="Napoli Signorelli, Pietro (1731-1815)">Pietro Napoli Signorelli</author>
+                <title>Storia critica de’ teatri antichi e moderni. Tome V</title>
+                <author key="Napoli Signorelli, Pietro (1731-1815)" ref="https://data.bnf.fr/fr/11930036/pietro_napoli_signorelli/">Pietro Napoli Signorelli</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>
@@ -24,7 +24,7 @@
                 </respStmt>
             </editionStmt>
             <publicationStmt>
-                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <publisher>Sorbonne Université, LABEX OBVIL</publisher>
                 <date when="2017"/>
                 <idno>http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/napoli-signorelli_storia-critica-ed2-05_1789</idno>
                 <availability status="restricted">
@@ -38,7 +38,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl><author>Pietro Napoli Signorelli</author>, <title>Storia critica de’ teatri antichi e moderni di Pietro Napoli-Signorelli Napoletano</title>, tomo quinto, <pubPlace>In Napoli</pubPlace>, <publisher>Presso Vincenzo Orsino</publisher>, <date>1789</date>, 276 p. Source : <ref target="http://reader.digitale-sammlungen.de/resolve/display/bsb10574361.html">Bayerische Staatsbibliothek, München</ref></bibl>
+                <bibl>Pietro Napoli Signorelli, <hi rend="i">Storia critica de’ teatri antichi e moderni di Pietro Napoli-Signorelli Napoletano</hi>, <edition> 2<hi rend="sup">ème</hi> édition</edition>, tomo quinto, In <pubPlace>Napoli</pubPlace>, <publisher>Presso Vincenzo Orsino</publisher>, <date>1789</date>, 276 p. PDF : <ref target="http://reader.digitale-sammlungen.de/resolve/display/bsb10574361.html">Bayerische Staatsbibliothek, München</ref>.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>

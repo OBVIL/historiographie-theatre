@@ -3,13 +3,13 @@
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--Odette: 2018-10-16T16:20:40+02:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ita">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Dell’opera in musica 1772</title>
         <author key="Planelli, Antonio (1737-1803)">Antonio Planelli</author>
-        <editor>Franco Arato</editor>
+        <editor key="Arato, Franco (1960-....)">Franco Arato</editor>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -21,15 +21,15 @@
           <name>Éric Thiébaud </name>
           <resp>XML-TEI</resp>
         </respStmt>
+        <respStmt>
+          <name>Anne-Laure Huet </name>
+          <resp>édition TEI</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2018"/>
         <idno>http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/planelli_opera-in-musica_1772/</idno>
-        <idno type="tei">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/planelli_opera-in-musica_1772.xml/</idno>
-        <idno type="epub">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/planelli_opera-in-musica_1772.epub/</idno>
-        <idno type="html">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/planelli_opera-in-musica_1772.html/</idno>
-        <idno type="txt">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/planelli_opera-in-musica_1772.txt/</idno>
         <availability status="restricted">
           <licence target="#http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence
@@ -51,7 +51,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Antonio Planelli</author>, <title>Dell’opera in musica, tratatto del cavaliere Antonio Planelli, dell’ordine gerosolimitano</title>, <pubPlace>Napoli</pubPlace>, <publisher>Nella Stamperia di Donato Campo</publisher>, <date>1772</date>, <biblScope>in-8º, 272 p.</biblScope> PDF : <ref target="#https://archive.org/details/delloperainmusic00plan">Internet Archive</ref>.</bibl>
+        <bibl>Antonio Planelli, <hi rend="i">Dell’opera in musica, tratatto del cavaliere Antonio Planelli, dell’ordine gerosolimitano</hi>, <pubPlace>Napoli</pubPlace>, <publisher>Nella Stamperia di Donato Campo</publisher>, <date>1772</date>, in-8º, 272 p. PDF : <ref target="#https://archive.org/details/delloperainmusic00plan">Internet Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -136,7 +136,7 @@
           </p>
           <p>
             <hi rend="i">Adm. Rev. Dominiti P. Girardus de Angelis Ord. Minimorum S. Th. Professor revideat et in scriptis referat. 
-        Datum die 3. Decembris 1770.</hi>
+              Datum die 3. Decembris 1770.</hi>
           </p>
           <signed>F. X. Episc. Venafranæ Ill.</signed>
           <signed>J. Sparanus Can. Dep.</signed>
@@ -148,10 +148,10 @@
         </div>
         <div>
           <head>Sezione I. 
-<lb/>Che sia opera in musica. Suoi progressi e perfezione</head>
+            <lb/>Che sia opera in musica. Suoi progressi e perfezione</head>
           <div>
             <head>Cap. I. 
-<lb/>Che s’intenda per opera in musica. Storia di questo spettacolo</head>
+              <lb/>Che s’intenda per opera in musica. Storia di questo spettacolo</head>
             <p>[Sez.I.1.0.1] L’opera in musica è un dramma rappresentato cantando. Quando questo spettacolo nascesse in Italia è malagevole a diffinire: egli nasconde la sua origine nelle tenebre d’una rimota antichità, la quale non tramandò a noi monumenti bastevoli a determinare sì fatta epoca. Quel solo che con maggior franchezza possa asserirsi, è che il suo uso è antichissimo.</p>
             <p><ref xml:id="testo_Sez.I.1.0.2" target="#commento_Sez.I.1.0.2">[Sez.I.1.0.2]</ref> In effetti Albertino Mussato, storico padovano, il quale, secondo il Muratori, nacque verso il 1260, parla del pronunziar su’ teatri col canto e in volgar lingua le gesta de’ duci e de’ monarchi, come d’un costume non recente. Dalla maniera dunque, onde il lodato storico fa menzione di queste volgari e cantate tragedie<note place="bottom">Ecco le precise parole del Mussato: <quote>«SOLERE…… amplissima regum ducumque gesta, quo se vulgi intelligentiis conferant, pedum syllabarumque mensuris variis linguis in VULGARES traduci SERMONES, et in theatris et pulpitis CANTILENARUM MODULATIONE proferri»</quote>. Prolog. lib. IX De gestis italic. nel tomo X degli Scrittori delle cose d’Italia del Muratori.</note>, par verisimile, ch’esse ben prima del secolo nel quale nacque il Mussato avessero avuta origine.</p>
             <p><ref xml:id="testo_Sez.I.1.0.3" target="#commento_Sez.I.1.0.3">[Sez.I.1.0.3]</ref> Anche l’anonimo autore d’una cronica manoscritta di Milano (scrittore anch’esso di molta antichità) descrivendo l’antico teatro de’ milanesi, attesta che in quello erano da istrioni cantate avventure di principi e di grandi; e che terminato il canto, si dava principio alla danza, come si costuma anche in oggi<note place="bottom"><quote>«Super quo (theatro) histriones CANTABANT sicut modo CANTANTUR de Rolando et Oliverio. Finito cantu, bufoni et mimi in citharis pulsabant et decenti motu corporis se circumvolvebant»</quote>. Ap. Muratori, Antiq. Ital. Med. Aev., tomo II, diss. XXIX.</note>.</p>
@@ -179,7 +179,7 @@
           </div>
           <div>
             <head>Cap. II. 
-<lb/>Dove consista la perfezione dell’opera in musica</head>
+              <lb/>Dove consista la perfezione dell’opera in musica</head>
             <p>[Sez.I.2.0.1] Dalla storia esposta nel capo antecedente si è potuto agevolmente ritrarre che il secolo presente è uno de’ più felici per l’opera in musica. Nondimeno perché si conosca se con tutto ciò ella sia oggimai pervenuta alla sua perfezione, convien prima esaminare dove questa perfezione consista.</p>
             <p>[Sez.I.2.0.2] In qualunque opera, sia della natura o dell’arte, perfezione appelliamo l’uniformità della tendenza delle parti a un fine medesimo. Così perfetta diciamo una macchina, se ciascuno de’ pezzi che la compongono tenda a quella funzione a cui la macchina è destinata; e al contrario imperfetta, se alcun di quelli, o perché mal formato o perché male cogli altri connesso, non tenda a quel fine.</p>
             <p><ref xml:id="testo_Sez.I.2.0.3" target="#commento_Sez.I.2.0.3">[Sez.I.2.0.3]</ref> Ora alla formazione dell’opera in musica concorrono la poesia, la musica, la pronunziazione e la decorazione; alle quali facultà un’altra aggiugner si suole, non essenziale a quello spettacolo com’è ciascuna delle annoverate, ma dichiarata quasi tale dall’uso, e questa è la danza. Perché dunque l’opera in musica possa dirsi perfetta e bella (da che bellezza non è dove non è perfezione) conviene che tutte queste facultà talmente concorrano a un fine medesimo, ch’esse compongano un solo tutto: atteso che, siccome il Casa con eleganza e da filosofo scrisse: <quote>«vuol essere la bellezza uno quanto si può il più, e la bruttezza per lo contrario è molti»</quote><note place="bottom">Riporterò qui per intiero l’accennato passo del Casa, giovando a dichiarar sempre meglio il mio proposito; e ‘l fo tanto più volentieri quanto che con la sua naturalezza e leggiadria non può mancar di piacere a’ miei lettori : <quote>«Vuol essere la bellezza uno (così egli nel Galateo) quanto si può il più, e la bruttezza per lo contrario è molti, sì come tu vedi che sono i visi delle belle e delle leggiadre giovani; perciocché le fattezze di ciascuna di loro paion create pure per uno stesso viso, il che nelle brutte non addiviene; perciocché avendo elle per avventura gli occhi molto grossi e rilevati, e ‘l naso picciolo, e le guance paffute, e la bocca piatta, e ‘l mento in fuori, e la pelle bruna, pare che quel viso non sia d’una sola donna, ma sia composto di visi di molte e fatto di pezzi. E trovasene di quelle i membri delle quali sono bellissimi a riguardare ciascuno per sé, ma tutti insieme sono spiacevoli e tozzi, non per altro se non che sono fattezze di più belle donne e non di quest’una, sicché pare ch’ella le abbia prese in prestanza da questa e da quell’altra»</quote>.</note>.</p>
@@ -189,7 +189,7 @@
           </div>
           <div>
             <head>Cap. III. 
-<lb/>Delle belle arti in generale</head>
+              <lb/>Delle belle arti in generale</head>
             <div>
               <head>§ I. Che sieno belle arti: loro origine ed importanza</head>
               <p><ref xml:id="testo_Sez.I.3.1.1" target="#commento_Sez.I.3.1.1">[Sez.I.3.1.1]</ref> Belle arti sono le arti destinate al movimento delle passioni. Di questo numero è la poesia, l’eloquenza, la musica, l’architettura, la pittura, la scultura e la danza, colle loro spezie. Si faccia attenzione a qualunque opera che a queste facultà s’appartenga; né si durerà fatica a penetrare che esse tutte sono intese a svegliare alcuna delle nostre passioni; e quelle che ad altro mirano impropriamente il nome di queste facultà si attribuiscono. Impropriamente per esempio alla poesia didascalica si da il nome di poesia: poiché non contenendo che la storia o i dommi di qualche scienza o mestiere, non al cuore, ma all’intendimento ragiona, e di poesia non ha che la bellezza esteriore che ne usurpa: come un ritratto, a cui si attribuisce il nome della persona, onde imita l’esteriori fattezze. Così ancora quella parte d’un’orazione che comprende le pruove, non è propriamente un pezzo d’eloquenza, ma di dialettica; né da’ precetti dell’arte di ben dire, ma da quelli di ben ragionare è regolata; e d’eloquenza non ha che le materiali sembianze. Il nome d’eloquente è propriamente riserbato a quella parte che tende a muovere i nostri affetti: e quando noi ce ne sentiamo effettivamente mossi, diciamo esser quello un bel pezzo d’eloquenza.</p>
@@ -232,11 +232,11 @@
         </div>
         <div>
           <head>Sezione II. 
-<lb/>Del Melodramma</head>
+            <lb/>Del Melodramma</head>
           <p>[Sez.II.0.0.1] Dopo aver data un’occhiata alle belle arti in generale, entrando ora a considerare particolarmente ciascuna di quelle che concorrono nell’opera in musica, ci facciamo dalla poesia: perciocché, dovendo tutte le altre seguire le vestigia di questa, sarà più agevole a diriggere il cammino ch’esse debbono tenere, dappoi che si sarà veduto quello della poesia.</p>
           <div>
             <head>Cap. I. 
-<lb/>Dell’estetico del melodramma</head>
+              <lb/>Dell’estetico del melodramma</head>
             <div>
               <head>§ I. Quali sieno i fonti dell’estetico della poesia</head>
               <p>[Sez.II.1.1.1] Sono gli uomini dalla natura medesima portati a dividere colle loro azioni il tempo in parti eguali. Se respirano, se camminano, se lavorano, se cantano, se danzano, le loro respirazioni, i loro passi, il lor lavoro, la cadenza del lor canto e del lor ballo, dividono il tempo in parti eguali. In cadenze equidistanti si muove il remigante, l’agricoltore, il tessitore, il fabbro; e non ordinaria pena essi pruovano quando alcun accidente gli costringa a muoversi fuor di cadenza. Dopo le premesse riflessioni sulle belle arti non si durerà stento ad indagare la segreta sorgente di questo umano istinto. La natura del nostro spirito ne porta a cercar da per tutto la simmetria ed a metterla dovunque possiamo, e tra tutte le simmetria quella che nasce dalla ragione d’uguaglianza è sovra ogni altra, siccome ivi fu dimostrato, la favorita del nostro spirito; talmenteché anche una goccia d’acqua, che cada in tempi eguali, è piacevole a sentire, come ben notò Cicerone parlando del numero oratorio. Perciò ne’ nostri movimenti questa simmetria d’uguaglianza per naturale istinto a tutt’altra preferiamo, questa sopra ogni altra vogliam che campeggi nelle opere nostre.</p>
@@ -461,13 +461,13 @@
           </div>
           <div>
             <head>Cap. II. 
-<lb/>Del patetico del melodramma. Sua differenza da quello dell’antica tragedia.</head>
+              <lb/>Del patetico del melodramma. Sua differenza da quello dell’antica tragedia.</head>
             <p><ref xml:id="testo_Sez.II.2.0.1" target="#commento_Sez.II.2.0.1">[Sez.II.2.0.1]</ref> Già altrove si disse che per patetico delle belle arti voleasi intendere l’artifizio da esse adoperato per isvegliare le nostre passioni, e che un tale artifizio consiste nello scegliere per suggetti delle opere di quelle arti i più perfetti oggetti di nostre passioni e nelle regole di ben imitargli. Tai regole differiscono secondochè le mentovate discipline differiscono l’una dall’altra. Ora il melodramma è un dramma tragico, siccome ben s’avvisarono il Muratori<note place="bottom"><hi rend="i"> Perf. poes.</hi>, lib. III, cap. IV. </note>, il Calsabigi<note place="bottom">Diss. sulle poes. drammat. del Metast.</note>, il Voltaire<note place="bottom">Diss. sur la tragédie ancienne et moderne, part. I.</note>, l’Algarotti<note place="bottom">Saggio sull’ op. in musica.</note> ed altri valentuomini; talmenteché la tragedia in generale va divisa in due spezie cioè in melodramma e in tragedia antica, alla quale si riferiscono quelle ancora che oggi sull’antico modello si formano. Di qui è che le regole che riguardano il patetico del melodramma sono quelle medesime della tragedia; né di proprio esso ne ha che pochissime, le quali formano la sua differenza dalla tragedia antica. Il che essendo, niuno in questo luogo da me si aspetti un’esposizione di quelle regole che appartengono alla tragedia in generale, tanto più che a me altro presso a poco non toccherebbe che ripetere ciò che su questa materia è stato scritto del tempo d’Aristotile insino a noi, per gli tanti scienziati uomini che le leggi della tragedia insegnarono. La qual ripetizione, comeché scusabil fosse in chi della tragedia in generale impreso avesse trattato, non così certamente sarebbe in chi alla sola opera in musica destinò le sue osservazioni.</p>
             <p>[Sez.II.2.0.2] A noi dunque non altro appartiene che il divisare in che il melodramma differisca dall’antica tragedia. Ora una tal differenza tutta sta in poche mutazioni fatte alle leggi di questa, per ragione della diversità che passa tra’ nostri costumi e quelli che regnavano nella nazione e nel tempo che furono dettate le leggi dell’antica tragedia, e per ragione altresì del progresso da noi fatto in alcune arti. Questa mutazione riguarda particolarmente le leggi appartenenti all’unità del luogo, all’esito tristo o lieto della favola, al carattere del protagonista, al numero degli atti e al verso tragico. La qual mutazione da taluni vien riprovata, o perché ingiustamente prevenuti contro tutto ciò ch’è moderno, o per pizzicore di passare per eruditi nell’arte drammatica, non riflettendo che ciò che in un luogo e in un tempo è un difetto, sotto altro tempo e cielo possa essere un pregio. Perciò entrando noi ne’ seguenti capitoli a ragionare di questi cinque punti, in cui sta tutta la differenza del melodramma dall’antica tragedia, faremo primieramente osservare che le mutazioni in essi ragionevolmente, e non per ignoranza o per capriccio, furono introdotte, e di poi, dove uopo il richieda, le avvertenze che intorno a’ medesimi punti usar debbono i melodrammatici poeti, additeremo succintamente. Per soddisfare al quale impegno saremo obbligati ad entrare in brevi discussioni forse non men curiose che interessanti; giacché ci converrà investigar la ragione, lo spirito (diciamolo alla moda) delle leggi dell’antica tragedia attenenti a que’ particolari capi, e le contrarie ragioni che indussero i nostri poeti a modificarle. Le quali discussioni, nel tempo stesso che saranno per avventura non inutili a’ nostri poeti per condurre il melodramma alla sua perfezione, serviranno a questo dramma d’una breve difesa.</p>
           </div>
           <div>
             <head>Cap. III. 
-<lb/>Dell’unità del luogo</head>
+              <lb/>Dell’unità del luogo</head>
             <p>[Sez.II.3.0.1] Furono gli antichi tragici severissimi osservatori dell’unità del luogo, e questo era sovente una publica piazza, sulla quale riduceano tutta l’azione. I melodrammatici per opposto soglion mutare, e talora più volte, la scena.</p>
             <p><ref xml:id="testo_Sez.II.3.0.2" target="#commento_Sez.II.3.0.2">[Sez.II.3.0.2]</ref> Ma la rigidezza de’ primi spesso, anzi che rendere verisimile la favola, adoperava il contrario, costringendo gli attori a fare o dire in publico ciò che un uom di senno appena fa o dice ne’ più segreti penetrali di sua casa. Rendeva in oltre povera ed uniforme l’antica tragedia, obbligandola ad aggirarsi sempre sopra i medesimi o simili suggetti, perché poche erano le favole che quella rigida unità potessero tollerare. La quale povertà ed uniformità dell’antica tragedia non sole apparisce da ciò che di essa ne rimane, ma ancora (perché altri non dica che da pochi avanzi di quella mal si argomenta ciò ch’essa fu) lo conferma Aristotile, il quale nel Capo XIII della <hi rend="i">Poetica</hi> confessa che le migliori tragedie si aggiravano intorno a poche famiglie, come a quella d’Oreste, d’Edipo ed a qualche altra.</p>
             <p><ref xml:id="testo_Sez.II.3.0.3" target="#commento_Sez.II.3.0.3">[Sez.II.3.0.3]</ref> Né poteano essi dar compenso a tali inconvenienti coll’introdurre mutazioni di scene nella tragedia: perciocché loro mancava l’arte che oggi si ammira su’ teatri d’Europa, di cambiare sì prontamente e con tal garbo la scena, che lo spettatore non se ne accorga. Si mutavano le loro scena con tanta lentezza, che i poeti drammatici non osarono mai di valersi di tal mutazione in mezzo al dramma, sicuri, che una tanta lentezza avrebbe annoiato sommamente gli spettatori ed estinta la drammatica illusione<note place="bottom">Non mi si opponga il verso di Virgilio <hi rend="i">Georg.</hi>, III, v. 24: <quote>«Vel scena ut versis discedat frontibus»</quote>.La mutazione di scena che qui indica il poeta era dagli antichi eseguita nel fine del dramma qualora a questo se ne fosse sostituito immediatamente un altro, essendo strato costume degli antichi di far succedere a un tragico un comico o mimico dramma, sì che non era difficile il vedere in un giorno tre e quattro diversi drammi sopra un teatro medesimo.</note>. Ma se avessero avuta cognizione di quelle macchine che fanno con tal prontezza variare le nostre scene, io son certo ch’eglino sarebbero stati men tenacemente attaccati a questa loro unità. Non avrebbe Sofocle menati Oreste, Pilade ed Elettra sul frequentato atrio del palazzo d’Egisto a ordinare una congiura contro questo tiranno, come dottamente notò il Calsabigi<note place="bottom"><hi rend="i">Diss. sulle poesie drammat.</hi> del Metast.</note>. Uomini di senno, quali sono appo Sofocle que’ personaggì, non si governano sì negligentemente e con tanta imprudenza in affari di quella importanza. Molti altri simili esempi, ove uopo fosse, recar si potrebbero di falli contro al verisimile e al decoro, a cui obbligò i più eccellenti poeti la troppo rigorosa unità di luogo.</p>
@@ -476,7 +476,7 @@
           </div>
           <div>
             <head>Cap. IV. 
-<lb/>Del finimento tristo e lieto</head>
+              <lb/>Del finimento tristo e lieto</head>
             <p>[Sez.II.4.0.1] L’antica tragedia sì amava il finimento tristo, che quelle poche che di lieto finimento si videro composte, furono dagli antichi maestri giudicate di catastrofe non tragica, ma comica. Per opposito la moderna tragedia, o sia il melodramma, ama il finimento lieto e pochissime se ne incontrano di tristo.</p>
             <p>[Sez.II.4.0.2] Questo passaggio fatto per la tragedia dal tristo al lieto fine è una pruova ben certa del progresso fatto dal genere umano nella placidezza, nella urbanità, nella demenza, che che si dicano i nostri misantropi. Nella nascita dell’antica tragedia era la Grecia abitata da nazioni bellicose e feroci, che conservavano ancora in mezzo alle più colte città un resto di loro antica selvatichezza. Le tragedie, che di essa rimangono, spirano da per tutto questo carattere della nazione: essendo i personaggi di quelle magnanimi e grandi, ma a un tempo stesso impetuosi e inumani. La svantaggiosa opinione che i Greci aveano del commercio, come d’un mestiere infame e indegno d’un cittadino, e le frequenti discordie che la gelosia e ‘l desiderio di primeggiare accendeva tra le loro città, contribuivano a rendergli crudeli. Che più? La loro stessa religione, la medesima teologia aumentavano la loro ferocia, avendo quella de’ barbari riti e che disonorano l’umanità, e presentando questa nella divinità i più abbominevoli esempi d’ire, di vendette, d’ingiustizie, d’omicidi, di tradimenti. Per muovere adunque un popolo di tal carattere ebbe mestieri l’antica tragedia d’adoperar favole di somma atrocità, che terminassero con esili, miserie, morti di personaggi del più alto affare: altrimenti pochissimo effetto avrebbe potuto promettersi nell’animo degli spettatori.</p>
             <p><ref xml:id="testo_Sez.II.4.0.3" target="#commento_Sez.II.4.0.3">[Sez.II.4.0.3]</ref> Ma la moderna tragedia, nata in mezzo a un popolo da molti secoli incivilito, amico del commercio e degli stranieri, e professante una religione che ispira la carità, la mansuetudine, la pace, la compassione, la beneficenza, dovette scemare d’atrocità, se anzi che muovere non volesse disgustare, come fa in oggi la sola lettura delle tragedie greche. Il che è sì vero, che quelle medesime tragedie che sul modello delle antiche e di tristo fine si compongono oggi tra noi, sono astrette a mitigare quel terribile delle greche. Ed a ragione l’ingegnosissimo autore del <hi rend="i">Rutzvanscad il giovine</hi>, deride que’ moderni che, non badando alla diversità de’ tempi, posero nelle loro tragedie tutta l’atrocità delle antiche; difetto in cui incorse a’ dì nostri il Crebillon e ‘l Lazzarini.</p>
@@ -484,7 +484,7 @@
           </div>
           <div>
             <head>Cap. V. 
-<lb/>Del carattere del protagonista</head>
+              <lb/>Del carattere del protagonista</head>
             <p><ref xml:id="testo_Sez.II.5.0.1" target="#commento_Sez.II.5.0.1">[Sez.II.5.0.1]</ref> Il protagonista dell’antica tragedia era né sovranamente virtuoso, né malvagio. Egli dovea tenere un certo mezzo tra questi caratteri, perciocché dovendo ordinariamente la tragedia terminare colla rovina di lui, s’egli fosse stato assolutamente vizioso, questa rovina non avrebbe fatta tentazione alcuna; da che noi non sentiamo troppa compassione e terrore della sciagura d’un tristo meritevolmente punito, e molto meno sentivala il feroce animo greco; e se virtuoso, avrebbe dato da mormorare contro la provvidenza, che in vece di proteggere l’innocenza, la sacrificava all’altrui scelleratezza.</p>
             <p>[Sez.II.5.0.2] Ma la moderna tragedia, siccome quella che non è a finimento tristo obbligata, può (può, dico, non dee) avere un protagonista sovranamente virtuoso. Ciò rende questa ben più istruttiva dell’antica e più atta a formare i nostri costumi, potendo nella persona del protagonista esporre l’esempio delle virtù più eminenti; il che, per la soprallegata ragione non era permesso all’antica. Rendela in oltre ben più interessante di questa: mercecché lo spettatore tanto più ama il protagonista, quanto questi è più virtuoso. Perciò il protagonista dell’antica tragedia ci attacca assai meno di quello del melodramma. Il nostro cuore non siegue con tanta agitazione le varie vicende del primo, vedendo in lui delle qualità poco amabili, ed accorgendosi aver egli con qualche suo fallo meritati que’ rovesci di fortuna. Ma il protagonista del melodramma, avendo colle sue qualità guadagnato il nostro affetto, c’interessa mirabilmente nelle sue disgrazie. Noi ci sentiamo per lui ondeggiare il cuore fra li timore, la compassione, la speranza: e giunti finalmente allo scioglimento proviamo un sentimento totalmente straniero all’antica tragedia, qual è il passaggio da quell’agitazione al contento di vedere il personaggio, che noi amiamo, passar di misero in prospero stato.</p>
             <p>[Sez.II.5.0.3] Si dirà, forse, che la mancanza di questo dolce sentimento è abbastanza compensata nelle tragedie greche dall’istruzione che dà al popolo la rovina del protagonista, mostrando i falli severamente dal cielo puniti anche ne’ gran personaggi, ed esortando a sostenere in pace i sopportabili incomodi della sua condizione, col mostrar la grandezza sottoposta a’ mali di gran lunga più dolorosi. Ma vale almeno altrettanto l’istruzione che noi caviamo dalle vicende del protagonista del melodramma, le quali efficacemente ci persuadono ad entrare nel cammino della virtù, che veggiamo dalla provvidenza sì dichiaratamente difesa e ricompensata.</p>
@@ -492,7 +492,7 @@
           </div>
           <div>
             <head>Cap. VI. 
-<lb/>Del numero degli atti</head>
+              <lb/>Del numero degli atti</head>
             <p><ref xml:id="testo_Sez.II.6.0.1" target="#commento_Sez.II.6.0.1">[Sez.II.6.0.1]</ref> È noto su questo proposito il precetto d’Orazio, osservato dall’antica tragedia:</p>
             <quote>
               <l> Neve minor, neu sit quinto productior actu</l>
@@ -504,7 +504,7 @@
           </div>
           <div>
             <head>Cap. VII. 
-<lb/>Del verso tragico</head>
+              <lb/>Del verso tragico</head>
             <div>
               <head>§ I. Se sia biasimevole nella tragedia la mescolanza de’ versi</head>
               <p>[Sez.II.7.1.1] L’antica tragedia non ama mescolanza di versi, e biasimati vennero que’ tragici che in essa varie ragioni di versi insieme accoppiarono. Per questo medesimo fu da taluni biasimato il melodramma, che nel recitativo frammette il settenario all’endecasillabo, essendo tal mescolanza, secondo essi, poco accomodata alla tragica gravità. La più corta e più convincente difesa del melodramma è la lettura d’alcuno de’ suoi recitativi, i quali ad ogni persona che sappia gustare anche ciò che non sa d’antico, parrà nobile e grave, quanto qual altro pezzo che si scelga di tragedia fatta al conio greco, ma più naturale e più vario di questo, il quale coll’uniformità de’ versi riesce spesso rincrescevole e poco verisimile.</p>
@@ -567,11 +567,11 @@
         </div>
         <div>
           <head>Sezione III. 
-<lb/>Della musica teatrale</head>
+            <lb/>Della musica teatrale</head>
           <p>[Sez.III.0.0.1] Il melodramma composto così dal poeta passa nelle mani del maestro di cappella. Le nostre osservazioni ancora procedendo allo stesso cammino, s’aggireranno in questa sezione sulla musica richiesta da quel dramma, ch’io chiamerò musica teatrale. Per dichiarare a mio potere la materia che qui propongo, non gravi al mio lettore che sulla generazione del suono e sulla natura della musica in genere io premetta alcune osservazioni facilissime ed accomodate alla portata d’ognuno, dovendo tali osservazioni servir di princìpi alle regole appartenenti allo stile della musica teatrale, e in altre sezioni ancora a quelle che riguarderanno la decorazione e la danza teatrale.</p>
           <div>
             <head>Cap. I. 
-<lb/>Della musica in generale</head>
+              <lb/>Della musica in generale</head>
             <div>
               <head>§. I. Quali sieno i fonti dell’estetico di questa facultà</head>
               <p>[Sez.III.1.1.1] L’oscillazione d’un corpo sonoro produce nell’aria che lo circonda un ondeggiamento, simile a quello che produce nell’acqua d’un lago l’urto d’un sassolino che vi sia lanciato, o d’un uccello che vi s’immerga. I quali ondeggiamenti in ciò differiscono tra loro, che questo dell’acqua circolarmente, quello dell’aria sfericamente si diffonde, esercitando l’aria compressa l’elasticità sua per tutti i lati. È il centro di queste sfera occupato dal corpo sonante, la superficie è formata dall’onda che sia da sì fatto centro la più lontana, e coloro che si trovano dentro quest’ampia sfera, ascoltano il suono che parte da quel centro. Questo suono uno o un altro tuono darà, secondoché diverso grado avrà d’acutezza, giacché tuono altro non è che il grado d’acutezza d’un suono.</p>
@@ -612,7 +612,7 @@
           </div>
           <div>
             <head>Cap. II. 
-<lb/>Stile della musica teatrale.</head>
+              <lb/>Stile della musica teatrale.</head>
             <div>
               <head>§ I. Prima legge di questo stile</head>
               <p>[Sez.III.2.1.1] Fu la musica teatrale ammessa nel nostro spettacolo per dare maggior forza alle parole del dramma, a cui va unita, e col quale ha un medesimo e comun fine, qual è il movimento d’una determinata passione<note place="bottom">V. il cap. II della <hi rend="sc">I s</hi>ez.</note>. Di qui nasce il particolare stile, onde abbisogna questo genere di musica, destinato a un tempo stesso a sostener la parola e a muovere gli affetti.</p>
@@ -649,7 +649,7 @@
           </div>
           <div>
             <head>Cap. III. 
-<lb/>Dello stile proprio di ciascuna parte della musica teatrale</head>
+              <lb/>Dello stile proprio di ciascuna parte della musica teatrale</head>
             <div>
               <head>§. I. Stile della sinfonia d’apertura</head>
               <p>[Sez.III.3.1.1] Dopo avere co’ più necessari tratti delineato lo stile della musica teatrale, non ci crederemmo d’avere, quanto è in noi, promossa la perfezione di questa, se non iscendessimo a particolarmente favellare dello stile proprio della sinfonia d’apertura, de’ recitativi e delle arie, parti in cui questa musica è comunemente divisa.</p>
@@ -705,11 +705,11 @@
         </div>
         <div>
           <head>Sezione IV. 
-<lb/>Della pronunziazione dell’opera in musica</head>
+            <lb/>Della pronunziazione dell’opera in musica</head>
           <p>[Sez.IV.0.0.1] Messo così in musica il libricciuolo, egli passa nelle mani de’ cantanti, perché vi aggiungano un’idonea pronunziazione. Veggiamo adunque nella sezione presente qual pronunziazione convenga all’opera in musica.</p>
           <div>
             <head>Cap. I. 
-<lb/>Importanza della pronunziazione nell’opera in musica</head>
+              <lb/>Importanza della pronunziazione nell’opera in musica</head>
             <p><ref xml:id="testo_Sez.IV.1.0.1" target="#commento_Sez.IV.1.0.1">[Sez.IV.1.0.1]</ref> Per pronunziazione io intendo l’arte d’esprimere co’ moti del corpo e colla modificazione della voce, i diversi sentimenti che si vogliono comunicare ad altrui<note place="bottom"><quote>«Pronuntiatio dividitur in vocis figuram et corporis motum»</quote><hi rend="i">. Ad Heren.</hi> III.</note>. Ella fa una parte dell’arte di persuadere, ed è quasi l’eloquenza del corpo<note place="bottom"><quote>«Est actio quasi corporis quædam eloquentia»</quote>. Cic., <hi rend="i">Ad Brut</hi>.</note>. Conciosiaché siccome l’eloquenza dello spirito consiste in un’avventuruosa scelta ed ordino d’idee, capaci di formare nell’animo altrui quelle disposizioni, che noi vi desideriamo, così l’eloquenza del corpo consiste in disegnare, dipingere e comunicar queste idee in tutta la loro energia e bellezza.</p>
             <p><ref xml:id="testo_Sez.IV.1.0.2" target="#commento_Sez.IV.1.0.2">[Sez.IV.1.0.2]</ref> La pronunziazione adunque mette sotto i sensi quello che la parola presenta all’intendimento. E poiché ciò che fa impressione su’ nostri sensi, più ci muove che quello che va dirittamente allo spirito, perciò in questa consiste la parte più vigorose dell’arte del dire; se pur con Demostene non si voglia solo in essa far consistere tal arte. Infatti noi proviamo tutto dì, che un eloquentissimo discorso, ma insipidamente pronunziato, ci costringe a sbadigliare, e che al contrario un discorso mediocre, pronunziato maestrevolmente, ci par dettato dalla persuasione medesima<note place="bottom"><quote>«Actio, inquam, in dicendo una dominatur: sine hac summus orator esse in numero nullo potest ; mediocris, hac instructus, summos saepe superare. Huic primas dedisse Demosthenes dicitur cum rogaretur quid in dicendo esset primum; huic secundas, huic tertias»</quote>. Cic., <hi rend="i">De orat</hi>., Iib. III.</note>. Tali erano le aringhe d’Ortensio, le quali in publicandosi caddero di riputazione, e non più parvero quelle che aveano tante volte trionfato nella capitale del mondo, e ottenuto all’autor loro il primato tra’ romani oratori.</p>
             <p><ref xml:id="testo_Sez.IV.1.0.3" target="#commento_Sez.IV.1.0.3">[Sez.IV.1.0.3]</ref> Le parole adunque hanno mestieri della pronunziazione, massimamente quelle destinate al movimento dell’animo<note place="bottom"><quote>«Affectus omnes languescant necesse est, nisi voce, vultu, totius prope corporis habitu inardescant»</quote>. Quintil., lib. XI, cap. V.</note>. Ciò basta a far comprendere quanto sia questa necessaria all’opera in musica. Il poeta e ‘l maestro di cappella, quando pure avessero composti de’ capolavori nelle loro arti, possono essere sicuri d’aver gittate al vento le opere loro, se gli attori non aggiungano ad esse una convenevole pronunziazione, senza la quale lo spettacolo, ben lungi dal muovere, infallibilmente ci tedierà. Perciocché chi parlando di cose interessanti con maniere ancora interessanti non le pronunzi, non ottiene da noi alcuna fede<note place="bottom"><quote>«Si vultus ac gestus ab oratione dissentiant, tristia dicamus hilares, affirmemus renuentes; non auctoritas modo verbis, sed fides desit»</quote>. Quintil., lib. XI. Cap. III.</note> , perché la sua sconvenevole pronunziazione ci sia accorgere essere egli il primo a non credere sì fatte cose. E gli uomini non che s’annoino, ma si sdegnano anzi contro chi voglia spacciar loro per vero, ciò ch’egli medesimo faccia conoscere inverisimile.</p>
@@ -720,7 +720,7 @@
           </div>
           <div>
             <head>Cap. II. 
-<lb/>Della pronunziazione propria dell’opera in musica</head>
+              <lb/>Della pronunziazione propria dell’opera in musica</head>
             <div>
               <head>§ I. Del gesto</head>
               <p>[Sez.IV.2.1.1] Per vedere ora qual sia la pronunziazione di cui abbisogna l’opera in musica, la considereremo relativamente al gesto e alla voce, che sono i due oggetti di quest’arte.</p>
@@ -765,7 +765,7 @@
           </div>
           <div>
             <head>Cap. III. 
-<lb/>De’ mezzi d’acquistare la bella pronunziazione</head>
+              <lb/>De’ mezzi d’acquistare la bella pronunziazione</head>
             <p><ref xml:id="testo_Sez.IV.3.0.1" target="#commento_Sez.IV.3.0.1">[Sez.IV.3.0.1]</ref> Il primo mezzo, e per avventura il più efficace, si è l’esame del proprio temperamento. Tutti gli uomini, siccome nelle sembianze, così differiscono ancora nel parlare e nel gestire. Ciascuno ha in ciò una maniera sua propria, la quale, ove sia giudiziosamente adoperata, è sempre più bella di qualunque studiata e artifiziosa pronunziazione. Più delle copiate vagliono le grazie originali; e chi trascura di coltivarle rimarrà sempre tra lo stuolo servile degl’imitatori<note place="bottom"><quote>«O imitatores servum pecus»</quote>. Oraz., lib. I, <hi rend="i">Epist</hi>. XIX.</note>.</p>
             <p><ref xml:id="testo_Sez.IV.3.0.2" target="#commento_Sez.IV.3.0.2">[Sez.IV.3.0.2]</ref> Non già ch’io disapprovi l’imitazione, quando vada unita alla coltura delle grazie naturali. Anzi, l’imitazione de’ grandi attori è un mezzo efficacissimo di giugnere alla bella pronunziazione: nulla essendo tanto naturale agli uomini, quanto il contraffare quelle maniere di parlare e di gestire, che osservano in altrui. Così Eroe a’ tempi di Cicerone divenne eccellente, imitando Roscio. Così Baron, il degno discepolo di Molière, si rendé celebre imitando questo Roscio francese. Ma però l’Imitazione mestieri di non picciolo discernimento, per non imitare anche i difetti: ne’ grandi uomini non tutto è grande.</p>
             <p><ref xml:id="testo_Sez.IV.3.0.3" target="#commento_Sez.IV.3.0.3">[Sez.IV.3.0.3]</ref> Le opere di scultura e di pittura somministreranno a un attore intelligente un altro secondo mezzo. I modelli che offrono agli occhi di lui queste due belle arti, sono per lo più perfettissimi, come quelli che presentano i gesti più energici e più nobili. Mercecché, non potendo l’artista dare che un solo gesto alla sua figura, egli fa consistere la sua principale attenzione in isceglier quello che meglio esprima la passione dell’eroe della sua opera, e che, secondo il precetto dell’Albani<note place="bottom">In una sua lettera inserita nella vita che di lui scrisse il Malvasia, nella p. 4 della <hi rend="i">Felsina pittrice</hi>.</note>, spieghi non solo ciò che il personaggio allora fa, ma quello ancora che ha fatto, e quello ch’è per fare. E quest’unico gesto è talora sì felicemente assortito, che la sua impressione scende fino al più profondo e al più sereno dell’animo. Chassé, il migliore attore che oggi fiorisca in Francia, deve la sua bella pronunziazione a’ gran modelli di pittura e di scultura, da lui con diligenza esaminati<note place="bottom">V. <hi rend="i">L’Encyclopédie</hi>, art. Déclamation.</note>.</p>
@@ -779,11 +779,11 @@
         </div>
         <div>
           <head>Sezione V. 
-<lb/>Della decorazione dell’opera in musica</head>
+            <lb/>Della decorazione dell’opera in musica</head>
           <p>[Sez.V.0.0.1] Esercitati che sieno gli attori a pronunziare con dignità il melodramma, si vuole par ultimo che il luogo dell’azione sia convenientemente decorato. È la decorazione l’arte d’abbellire e rendere verisimile all’occhio il luogo dell’azione. Essa regola il vestimento, le scene, le macchine, e la struttura medesima del teatro.</p>
           <div>
             <head>Cap. I. 
-<lb/>Del vestimento degli attori dell’opera in musica</head>
+              <lb/>Del vestimento degli attori dell’opera in musica</head>
             <p>[Sez.V.1.0.1] All’inventore degli abiti è conceduta maggior libertà, che non agli altri artisti dell’opera in musica. Nel vestire un personaggio greco o romano, egli noti dee così scrupolosamente seguire quella maniera di vestire usata dalle mentovate nazioni, come ce la rappresentano gli scrittori delle costumanze greche o romane, e i monumenti che ne rimangono delle medesime: da che que’ buon uomini vestivano sì positivo, che le’ loro fogge non potrebbero ammettere la vaghezza, che si richiede negli abbigliamenti delle opere musicali.</p>
             <p>[Sez.V.1.0.2] Ma per evitare questo inconveniente egli si guardi d’incorrere in quell’altro più biasimevole ancora, di adoperare le mode d’oggidì. Talvolta per difetto d’invenzione una Fedra, o un Ippolito compariscono in teatro senza la menoma traccia di caratteristico vestimento, e sì sembrano due signorini sbarcati pure allora di Parigi, che gli spettatori non si possono contenere di dar loro del ben venuto.</p>
             <p><ref xml:id="testo_Sez.V.1.0.3" target="#commento_Sez.V.1.0.3">[Sez.V.1.0.3]</ref> Adunque l’inventore degli abiti si tenga egualmente lontano da questi due scogli. L’abito del suo personaggio conservi sempre qualche aria, qualche che traccia del vestire adoperato dalla costui nazione, onde chi sia inteso degli usi di quella, ve gli possa discernere, e confessi l’abito rassomiglare a quello della nazione, del tempo e della condizione del personaggio drammatico. Ma il resto del vestimento va supplito con invenzioni vaghe e bizzarre. Queste giunte dell’inventiva dell’artista passeranno anch’esse per antiche fogge. Ma perché egli conseguisca sì fatto intento, conviene, siccome si è detto, ch’elle non sentano delle mode correnti; e tanto maggior lode acquisterà l’inventore, quanto più esattamente eviterà queste mode anche nelle minuzie, affinché il popolo, sempre inclinato a motteggiare e a sfatare, non dimandi (come pur troppo suole) se anche allora usavano i manichini e le cravatte d’oggidì, e (ch’è più leggiadra a vedere) le croci pendenti dalla gola delle donne. Così ancora qualche volta una cantatrice godrà di vestire un abito capriccioso quanto si voglia, e non mai veduto, ma quanto alla pettinatura ella non può soffrire bizzarria né invenzione, vuol essere pettinata come usano allora le nostre dame: anacronismo in vestitura, simile a quello che in pittura commise il Tintoretto, armando di fucili i Giudei in un suggetto di sacra storia.</p>
@@ -794,7 +794,7 @@
           </div>
           <div>
             <head>Cap. II. 
-<lb/>Della scena dell’opera in musica</head>
+              <lb/>Della scena dell’opera in musica</head>
             <div>
               <head>§. I. Della vastità della scena</head>
               <p><ref xml:id="testo_Sez.V.2.1.1" target="#commento_Sez.V.2.1.1">[Sez.V.2.1.1]</ref> Del Peruzzi, valente pittore e architetto senese, narra l’Ugurgieri<note place="bottom"><hi rend="i">Ugurgieri Pompe senesi</hi>.</note> e ‘l Vasari<note place="bottom"><hi rend="i">Vita del Peruzzi</hi>.</note>, che nel far le scene alla <hi rend="i">Calandria</hi> del Bibbiena fece comparire d’un’ampiezza maravigliosa quel picciol sito ch’esse occupavano, e i casamenti, le logge, le porte, le finestre, le cornici erano di sì bizzarra e stravagante invenzione, e sì nel tempo stesso comparivano vere, che con dolce inganno dilettavano gli occhi di tutti. Da questo elogio del Peruzzi si possono dedurre le qualità che si hanno a trovare in una scena, le quali a tre si riducono, e sono vastità, novità e verisimiglianza.</p>
@@ -829,7 +829,7 @@
           </div>
           <div>
             <head>Cap. III. 
-<lb/>Ufizio del macchinista</head>
+              <lb/>Ufizio del macchinista</head>
             <p>[Sez.V.3.0.1] Quanto al movimento delle macchine e delle scene, io non ho che a raccomandarne la prontezza non solo perché è noiosissima a vedere una macchina o una scena che stenti a giugnere al suo sito, ma molto più ancora perché esse con quella tardanza estinguono ogni drammatico piacere<note place="bottom">V. il cap. III della II sez.</note>.</p>
             <p>[Sez.V.3.0.2] Un altro uffizio del macchinista è l’illuminazione delle scene, ma bisogna confessare che un tale uffizio è per ordinario con somma goffaggine e negligenza eseguito. II pittore avrà con tutte le leggi dell’arte ma dipinta una scena. Egli vi avrà acconciamente maneggiati i colori vivaci e i dilavati, i lumi e l’ombre. Viene il macchinista, e senza badar più che tanto all’idea del pittore, distribuisce le fiaccole a capriccio; e con quella sbadataggine sua distrugge lutto il bello dell’ombre e della degradazion de’ colori.</p>
             <p><ref xml:id="testo_Sez.V.3.0.3" target="#commento_Sez.V.3.0.3">[Sez.V.3.0.3]</ref> Convien dunque sapere, che i lumi non si vogliono distribuire egualmente da per tutto, come per ordinario si fa, ma bensì a masse e a gruppi ineguali, per afforzare que’ luoghi che ne abbisognano;</p>
@@ -840,7 +840,7 @@
           </div>
           <div>
             <head>Cap. IV. 
-<lb/>Della costruzione del teatro</head>
+              <lb/>Della costruzione del teatro</head>
             <div>
               <head>§ I. Della materia onde convenga fabbricare il teatro</head>
               <p>[Sez.V.4.1.1] Tutto il di fuori del teatro, ciò è le sue facciate esteriori, i corridori, le scale, va fabbricato di mattoni, di pietra o di marmo, sì per dare solidità all’edifizio, sì molto più per garantirlo al possibile dagl’incendi, a cui per le faci, ond’esso viene illuminato, è oltre modo soggetto. Per la medesima ragione è d’uopo che sia per ogni parte isolato, a fin d’impedire il progresso di tali incendi.</p>
@@ -873,11 +873,11 @@
         </div>
         <div>
           <head>Sezione VI. 
-<lb/>Della danza dell’opera in musica</head>
+            <lb/>Della danza dell’opera in musica</head>
           <p>[Sez.VI.0.0.1] Scorse le qualità del melodramma e quelle della musica, della pronunziazione e della decorazione proprie dell’opera in musica, che sono le quattro essenziali parti di questo spettacolo, uopo è per ultimo arrestarsi alcun poco intorno alla danza, parte, a dir vero, non essenziale del medesimo, quali sono le annoverate, ma, come fu detto altrove, dichiarata quasi tale dall’uso.</p>
           <div>
             <head>Cap. I. 
-<lb/>Natura della danza</head>
+              <lb/>Natura della danza</head>
             <div>
               <head>§. I. Che sia danza e dove consista il suo estetico</head>
               <p><ref xml:id="testo_Sez.VI.1.1.1" target="#commento_Sez.VI.1.1.1">[Sez.VI.1.1.1]</ref> Danza o ballo, è una serie di straordinari movimenti del nostro corpo, regolati dalla cadenza della musica. Ella è una delle belle arti, e si divide in alta e bassa. Danza alta è quella che fa il ballerino, elevandosi da terra quanto più può con ambi i piedi. Danza bassa è quella ch’egli fa, appoggiando a terra tutteddue i piedi o uno almeno. Tuttavolta, a precisamente parlare, la sola danza bassa appartiene alle belle arti. L’alta non può entrare in questo numero, perché inetta al movimento delle passioni.<note place="bottom">Basta, è vero, a destare la meraviglia. Ma questo è l’effetto di qualunque opera straordinaria della natura o dell’arte, non è già del numero di quelle passioni a cui particolarmente mirano le arti piacevoli e che noi ci aspettiamo nell’osservar l’opere di queste.</note> Questa secondaria ed inferiore spezie di danza appartiene alla classe di quelle arti, che sono definiate a far mostra d’agilità, e di forza.</p>
@@ -893,7 +893,7 @@
           </div>
           <div>
             <head>Cap. II. 
-<lb/>Della danza teatrale</head>
+              <lb/>Della danza teatrale</head>
             <div>
               <head>§ I. Connessione della danza teatrale col melodramma</head>
               <p>[Sez.VI.2.1.1] Nel secondo capo della prima sezione fu da noi stabilita la necessità, che hanno tutte le arti adoperate nell’opera in musica, d’essere intimamente connesse all’azione drammatica. Quello adunque, che nel citato luogo fu osservato, basta a stabilire particolarmente per la danza teatrale la medesima necessità. Costituendo questa bella disciplina una parte del nostro spettacolo, non altrimenti che strettamente connessa all’azione drammatica può fare unità col suo tutto, né senza unità può opera alcuna conseguire perfezione o bellezza.</p>
@@ -924,7 +924,7 @@
           </div>
           <div>
             <head>Cap. III. 
-<lb/>Qualità richieste in un danzatore.</head>
+              <lb/>Qualità richieste in un danzatore.</head>
             <div>
               <head>§ I. Cognizioni necessarie a un danzatore</head>
               <p><ref xml:id="testo_Sez.VI.3.1.1" target="#commento_Sez.VI.3.1.1">[Sez.VI.3.1.1]</ref> Dovendo il ballerino procurare non tanto di divenire agile e leggiero, quanto di rendere le mani e ‘l corpo eloquenti (come il filosofo Demetrio dicea d’un danzatore de’ tempi di Nerone) egli ha mestieri d’essere iniziato in più discipline. Luciano nel soprallegato dialogo sulla danza richiede in un ballerino l’intelligenza della poesia, della geometria, della musica e della filosofia. Vuole che possegga il segreto di muovere le passioni insegnato dalla rettorica; che accatti dalla pittura e dalla scultura i diversi atteggiamenti; che abbia (ciò che Tucidide attribuisce a Pericle) il segreto di discernere ogni dove il convenevole, il decoroso; che sia acuto, inventivo, giudizioso e di fino orecchio; e finalmente, che sappia la favola e la storia. È forse un pretender troppo? E non sarebbe anzi troppa la pretendono d’un ballerino, che sfornito delle cognizioni necessarie a ben esercitare li mestier suo, cercasse di comparir sul teatro d’una polita nazione? Non farebbe forse un oltraggio a quella nazione, di crederla di cattivo gusto, di facile contentatura, e capace di prender piacere in una danza intempestiva, eteroclita, sconnessa? Per contentare i Greci e i romani vi volea pur tanto; e per contentar noi non ci vorrà egli per lo meno altrettanto? Noi, che ci crediamo i depositari del gusto, e capaci di mangiar la torta in capo a tutta la Grecia e a tutta Roma.</p>
@@ -940,11 +940,11 @@
         </div>
         <div>
           <head>Sezione VII. 
-<lb/>Della direzione dell’opera in musica</head>
+            <lb/>Della direzione dell’opera in musica</head>
           <p><ref xml:id="testo_Sez.VII.0.0.1" target="#commento_Sez.VII.0.0.1">[Sez.VII.0.0.1]</ref> Abbiamo finora veduto qual sia il dovere di ciascuno de’ principali artisti che vengono impiegati nell’opera in musica. Dipendendo però il buon successo d’uno spettacolo non tanto da essi, quanto dall’opera di quel magistrato a cui n’è commessa la direzione, come il seguente capitolo dichiarerà: è d’uopo vedere in ultimo ciò che in particolare lo spettacolo nostro esiga dal suo direttore, e mettere così sotto un altro punto di veduta quelle medesime arti che abbiamo, ciascuna di per sé, insino a qui considerate.</p>
           <div>
             <head>Cap. I. 
-<lb/>Necessità che ha l’opera in musica d’un abile direttore</head>
+              <lb/>Necessità che ha l’opera in musica d’un abile direttore</head>
             <p><ref xml:id="testo_Sez.VII.1.0.1" target="#commento_Sez.VII.1.0.1">[Sez.VII.1.0.1]</ref> Tutti i pubblici spettacoli, come quelli che sono destinati a trattenere un intero popolo, sogliono cagionare impressioni gagliardissime e universali. Quindi sono essi in ogni tempo stati gli arbitri de’ costumi delle intere nazioni; e le inclinazioni di queste, le loro più serie determinazioni, le loro usanze, si sono mutati a talento d’un tragico o d’un comico poeta. Di ciò molti esempi ne somministra la greca storia e la romana, siccome ne’ tempi ancora a noi più vicini abbiam veduto una sola commedia del Molière cagionare una general rivoluzione nel costume delle donne francesi<note place="bottom">V. la marchesa di Lambert nelle sue <hi rend="i">Réflexions sur les femmes</hi>.</note> , e un tragico poeta riformare uno de’ maggiori monarchi del mondo, abolendo con quattro versi il costume che aveano i re di Francia, di danzare su’ publici teatri<note place="bottom">Luigi XIII avea danzato sul publico teatro nel 1625. Luigi XIV fece il medesimo più volte fino all’anno 1670, ch’era il trigesimo secondo dell’età sua, ma in questo anno avendo assistito alla recita del Britannico, tragedia di Racine, d’allora rinunziò per sempre a’ publici balli. I versi che riformarono il gran Lodovico sono i seguenti: <quote>«Pour mérite premier, pour vertu singulière, / il excelle à trainer un char dans la carrière, / à disputer des prix indignes de ses mains, / à se donner lui-même en spectacle aux Romains»</quote>. V. Voltaire, <hi rend="i">Siècle de Louis XIV</hi>.</note>. Molto ancora contribuiscono gli spettacoli al progresso delle arti: e noi già osservammo fin da prima<note place="bottom">Nel cap. I della I sez.</note>, che la perfezione, a cui queste sì per tempo vennero tra noi, a quelli si debba in buona parte attribuire. Per lo contrario lo scapito recato all’agricoltura da un’ altra Commedia del citato Molière forse non mi sarebbe creduto sì di leggieri, se non mi garantisse l’autorità di riguardevole scrittore<note place="bottom"><hi rend="i">L’ami des hommes</hi>, tom. I, chap. VI.</note>.</p>
             <p>[Sez.VII.1.0.2] Se dunque il costume e le arti d’una nazione, importantissimi oggetti ambidue, tanta dipendenza hanno dagli spettacoli, ben si vede quanto a questi sia necessaria la direzione d’un capo dotato di prudenza e di sapere, il quale ponga la sua attenzione a ordinare in vantaggio di que’ due grandi oggetti la gagliarda e universale impressione che gli spettacoli fanno. Il perché non si potrà mai abbastanza lodare la saviezza degli antichi, i quali a’ più riguardevoli magistrati affidavano la direzione de’ loro spettacoli.</p>
             <p>[Sez.VII.1.0.3] Ma tra quanti n’ebbero i passati tempi e i nostri, niuno più dell’opera in musica ha bisogno d’un direttore savio insieme e intelligente. Da che, se la poesia, la musica, la pittura, l’architettura, la danza, possono molto influire nel costume e nel buon gusto d’una nazione, se ciascuna delle medesime merita una particolare attenzione della politica, vie maggiore sarà l’attenzione ch’esse meriteranno, quando insieme unite si soccorrano e sostengano scambievolmente, per imprimere una più profonda e durevol traccia negli animi nostri.</p>
@@ -953,7 +953,7 @@
           </div>
           <div>
             <head>Cap. II. 
-<lb/>Come vada procurata la buona esecuzione e ‘l buon ordine dello spettacolo dell’opera in musica</head>
+              <lb/>Come vada procurata la buona esecuzione e ‘l buon ordine dello spettacolo dell’opera in musica</head>
             <p><ref xml:id="testo_Sez.VII.2.0.1" target="#commento_Sez.VII.2.0.1">[Sez.VII.2.0.1]</ref> Perché lo spettacolo sia ben eseguito, il direttore dee principalmente occuparsi della scelta degli artisti che vi s’impiegano, ed aver poi l’occhio sopra di essi, affinché ciascuno faccia compiutamente il suo dovere. S’egli si abbandona alla balia delle persone di teatro, come oggi comunemente si fa sotto colore che a queste più che a qualunque altro stringano i cintolini e stia a cuore la buona riuscita dell’opera; s’egli sotto sì spezioso pretesto si rilassa punto punto sopra questi due principali doveri; tenga per fermo, che lo spettacolo riuscirà sazievole ed oltraggioso alla nazione a cui si ardisce di presentarlo, e che ciascuno degli artisti lo sfigurerà a capriccio. Se il cantante ha nel suo studio un’aria che gli va a verso, egli la caccerà nel libretto in barba d’Apollo e di tutto Parnaso. Il danzatore se ha un ballo prediletto, lo menerà in iscena, abbia pure tanto che fare col dramma, quanto la luna co’ granchi. La cantatrice priverà di sua protezione il poeta, se nelle arie di lei avrà messi tai sentimenti che non dieno gran presa a quella sorta di canto a cui sola è avvezza, e se avrà dimenticata la farfalla, l’eco, l’usignuolo, la tempesta, la navicella. Ma questo, e il di più che volentieri si tace, tutto è nulla appetto allo sconcerto che vi porta l’impresario. L’interesse di costui, quando non gli si ponga argine alcuno, domina dispoticamente il teatro; e la poesia, la musica e l’altre loro compagne, sono costrette a seguir le sue leggi e a trasgredir quelle della loro arte.</p>
             <p><ref xml:id="testo_Sez.VII.2.0.2" target="#commento_Sez.VII.2.0.2">[Sez.VII.2.0.2]</ref> L’unico mezzo d’evitare sì fatti disordini, si è che il direttore non riposi sulla pretesa diligenza delle persone di teatro, ma che con occhio illuminato osservi da sé medesimo ciascuna disciplina. Questo Tarpa esamini tritamente se il libricciuolo è fatto sulle regole della drammatica e del buon gusto, se la musica esprima, o non piuttosto, come per l’ordinario avviene, uccida il sentimento: e così delle altre. Ma il verbo principale consiste, per nostro avviso, a vegliare sull’impresario. Io, quanto a me, rare volte soffrirei impresari alla testa d’uno spettacolo scenico; essendo fuor di dubbio tutto ciò che il teatro ha di contrario al buon costume, alle buone regole e al buon ordine, tutto derivato dall’avidità di costoro, i quali per guadagneria non arrossiscono d’allettare gli uomini coll’esca dell’impudicizia e di bizzarre novità. E la principal cagione che rendette gli antichi spettacoli sì superiori a’ moderni, si è che quelli non erano affidati a tal genia di mercenarie persone, ma a’ più rispettabili magistrati. Meno soffrirei impresari, qualora il teatro avesse molta dote, molta rendita certa. In questo caso l’impresario, sicuro del suo guadagno, si dà poca sollecitudine di ben servire il publico. Miglior consiglio è mettere l’amministrazione di quelle rendite tra le mani di persone di sperimentata probità, dalle quali può sperare il publico più soddisfazione che da uno stremo e tenace impresario, e le quali in fine di ciascun anno saran tenute a render conto di loro amministrazione. Ma qualora circostanze particolari non desser luogo a tale amministrazione, e il direttore si vedesse in necessità d’appaltare l’impresa del teatro, allora egli si terrà sempre guardingo, e procurerà che il suo zelo non sia soppiantato dall’avidità, che per ordinario regna nell’animo d’un impresario:</p>
             <quote>
@@ -966,7 +966,7 @@
           </div>
           <div>
             <head>Cap. III. 
-<lb/>Come vada procurato nell’opera in musica il publico costume</head>
+              <lb/>Come vada procurato nell’opera in musica il publico costume</head>
             <p>[Sez.VII.3.0.1] Io non entrerò a dimostrare quanto importante oggetto pel direttore dell’opera in musica sia il costume della nazione. La cosa parla sì vivamente da sé, che a volersi arrestare a darne pruove egli sarebbe un cespitar nel piano.</p>
             <p><ref xml:id="testo_Sez.VII.3.0.2" target="#commento_Sez.VII.3.0.2">[Sez.VII.3.0.2]</ref> Perché dunque non si desideri la di lui diligenza in un affare di tanta dilicatezza, il suo primo pensiero sarà quello di esaminare colla più accurata esquisitezza il libricciuolo. Procurerà in esso che i personaggi non parlino troppo della divinità, né (ove sieno pagani) secondo la grossolana religione del volgo de’ gentili, la quale trasferiva a’ suoi dei le più umilianti debolezze degli uomini, ma che dieno a conoscere ne’ loro ragionamenti qual idea aver si debba dell’essere supremo. Il qual linguaggio non sarà punto inverisimile in bocca loro, ben si sapendo che dalla teologia del volgo pagano era tutt’altra quella delle colte persone, le quali rigettando la moltiplicità degli dei, e le ingiuriose favole che si spacciavano di essi, un solo Dio e perfettissimo ammetteano<note place="bottom">Non vi fu nell’antichità setta di filosofi che non conoscesse la falsità del politeismo e non deridesse in privato quella religione ch’era obbigata a professare in publico. E siccome que’ filosofi non sempre furono prudenti abbastanza per occultare con esattezza i propri sentimenti, quindi derivò la taccia d’ateismo che sì spesso fu loro apposta. Questi medesimi sentimenti venivano insegnati ne’ vari misteri delle divinità del paganesimo: l’unità di Dio era uno de’ principali dommi di que’ misteri. Domma sì fatto era comune a’ misteri d’Iside e d’Osiride, di Mitra, della madre degli Dei, a’ misteri eleusini, a quelli di Bacco e di Venere, di Giove, di Vulcano, di Castore e Polluce ecc. Non è questo il luogo di provare ciò che avanziamo. Cudworth (<hi rend="i">Syst. Intell.</hi>, cap. IV, § 18) e le <hi rend="i">Dissertations sur l’union de la religion, de la morale et de la politique tirées d’un ouvrage de</hi> M. Warburton hanno di che soddisfar pienamente il lettore. Che poi gli aditi della filosofia fossero comunemente frequentati dalle colte persone è un fatto che non ha bisogno di pruove. Molto più comune era l’ammissione a’ misteri. Riputavasi un affronto non parteciparvi: le donne, i fanciulli stessi eranvi iniziati, sebbene non ogni domma era a tutti indifferentemente spiegato. Ve n’erano alcuni pochi riserbati solo a coloro che per lunga sperienza s’erano fatti conoscere prudenti e fedeli a’ segreti che loro erano commessi.</note>. Questo linguaggio adunque, anzi che sembrare inverisimile, arroge dignità e decoro a’ tragici personaggi. Così pure che non parlino tanto di sorte, di stelle, di destino, che non insinuino insomma la fatalità dagli avvenimenti, come affettano alcuni tragici; ma piuttosto la dipendenza che essi hanno dal sovrano arbitrio dell’autore della natura e dalla libertà degli uomini.</p>
             <p><ref xml:id="testo_Sez.VII.3.0.3" target="#commento_Sez.VII.3.0.3">[Sez.VII.3.0.3]</ref> In generale somma attenzione esigono i discorsi e le azioni de’ personaggi drammatici, affinché gli uni non contengano delle massime false, e gli altri non dieno degli esempi perniziosi. Avviene spessissimo (non senza nota di chi dirige i teatri) l’udire le massime più contrarie alla religione e allo stato, spacciate impunemente in sulle scene, e dato un aspetto lodevole a’ più rei e più contagiosi esempi. Massime ed esempi sì fatti noi non gli soffriremmo in un libro, in un sermone. Procureremmo anzi di sopprimer quelli che ne fossero infetti; e non abbiamo il torto. Ma le stesse massime, gli stessi esempi si sentono sulle scene senza che se ne tenga conto veruno; ed abbiamo il maggior torto del mondo, mercecché que’ velenosi princìpi fanno più gran’ progresso e più rapido, spacciati in un dramma che in un sermone o in un libro. Tra’ popoli anche più illuminati, pochissimi son coloro che s’impacciano di legger libri, ma molti quelli che frequentano i teatri; e raro, o non mai, un oratore ha tanta udienza quanta un attore. Più: non dico tra’ sermoni, ma tra que’ libri stessi che hanno avuta più fortuna e più voga, qual è quello che si sappia per lo senno a mente, come avviene d’un dramma musicale? Qual autore, pognamo esempio, va così per le bocche di tutti, come il Metastasio? In oltre quando leggiamo un libro o ascoltiamo un sermone, il nostro spirito è tutto intento a ciò che gli si vuole insegnare, onde il proporgli un principio erroneo, di cui egli non conosca la falsità, è più malagevole che all’opera musicale, dove si è in uno stato di distrazione. L’illusione che cagiona in noi questo artifiziosissimo spettacolo, ci rende poco attenti a ciò che passa dentro di noi, sì che, uscendo poi di teatro, troviamo alcuna volta in noi stessi delle novità, alle quali avremmo certamente resistito, se altronde non fossimo stati distratti. Aggiugni che quando anche alcuna volta accada che ci arrestiamo ad esaminare alcun sentimento che le scene c’ispirano, pure quel sentimento medesimo, che in altro luogo e tempo sarebbe stato da noi rigettato come erroneo e pernizioso, allora, favorevolmente ricevuto, ci comparisce nobile ed innocente. Perciocché rari sono coloro che giudicano delle cose secondo il loro intrinseco valore: i più ne giudicano dal nodo onde vengono presentate. Se esse ci si espongono nudamente, e senza grazia veruna, poca accoglienza ottengono da noi. Ma se ci vengono innanzi d’una maniera aggradevole e interessante, esse scendono senza opposizione nell’imo della mente e del cuore. Perciò è più volte avvenuto, che il vero medesimo, presentato nella sua semplicità, ha avuto pochissimo corse e solamente</p>

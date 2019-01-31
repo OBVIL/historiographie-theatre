@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="">Réflexions historiques et critiques sur les différents théâtres de l’Europe</title>
-        <title type="sub">Avec les pensées sur la déclamation</title>
-        <author key="Riccoboni, Luigi (1676-1753)">Luigi Riccoboni</author>
+        <title>Réflexions historiques et critiques sur les différents théâtres de l’Europe. Avec les pensées sur la déclamation</title>
+        <author key="Riccoboni, Luigi (1676-1753)" ref="https://data.bnf.fr/fr/11998321/luigi_riccoboni/">Luigi Riccoboni</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -15,15 +14,16 @@
           <name>Maura Renza</name>
           <resp>Stylage sémantique</resp>
         </respStmt>
+        <respStmt>
+          <name>Anne-Laure Huet</name>
+          <resp>édition TEI</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2015"/>
         <idno>http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/riccoboni_reflexions-historiques-critiques-differents-theatres/</idno>
-        <idno type="tei">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/riccoboni_reflexions-historiques-critiques-differents-theatres.xml</idno>
-        <idno type="html">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/riccoboni_reflexions-historiques-critiques-differents-theatres.html</idno>
-        <idno type="text">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/riccoboni_reflexions-historiques-critiques-differents-theatres.txt</idno>
-        <idno type="epub">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/riccoboni_reflexions-historiques-critiques-differents-theatres.epub</idno>
+ 
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -35,7 +35,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Louis Riccoboni</author>, <title>Réflexions historiques et critiques sur les différents théâtres de l’Europe. Avec les pensées sur la déclamation</title>, <pubPlace>Paris</pubPlace>, <publisher>Imprimerie de Jacques Guerrin</publisher>, <date>1738</date>.</bibl>
+        <bibl>Louis Riccoboni, <hi rend="i">Réflexions historiques et critiques sur les différents théâtres de l’Europe. Avec les pensées sur la déclamation</hi>, <pubPlace>Paris</pubPlace>, <publisher>Imprimerie de Jacques Guerrin</publisher>, <date>1738</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -43,7 +43,7 @@
         <date when="1738"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

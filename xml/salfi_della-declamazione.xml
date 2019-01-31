@@ -3,12 +3,12 @@
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--Odette: 2018-10-17T17:16:30+02:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ita">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Della declamazione [posth.]</title>
-        <author key="Salfi, Francesco Saverio (1759-1832)">Francesco Saverio Salfi</author>
+        <author key="Salfi, Francesco Saverio (1759-1832)" ref="https://data.bnf.fr/fr/12231960/francesco_saverio_salfi/">Francesco Saverio Salfi</author>
         <editor>Matilde Esposito</editor>
       </titleStmt>
       <editionStmt>
@@ -18,18 +18,18 @@
           <resp>OCR, Stylage sémantique</resp>
         </respStmt>
         <respStmt>
-          <name>Éric Thiébaud </name>
+          <name>Éric Thiébaud</name>
           <resp>XML-TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne-Laure Huet</name>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2018"/>
         <idno>http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/salfi_della-declamazione/</idno>
-        <idno type="tei">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/salfi_della-declamazione.xml/</idno>
-        <idno type="epub">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/salfi_della-declamazione.epub/</idno>
-        <idno type="html">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/salfi_della-declamazione.html/</idno>
-        <idno type="txt">http://obvil.sorbonne-universite.site/corpus/historiographie-theatre/salfi_della-declamazione.txt/</idno>
         <availability status="restricted">
           <licence target="#http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence
@@ -51,7 +51,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Francesco Saverio Salfi</author>, <title>Della declamazione, per F. Salfi, preceduta da un cenno biografico su l’autore e pubblicata per cura di Alfonso Salfi</title>, <pubPlace>Napoli</pubPlace>, <publisher>Stabilimento Tipografico di Androsio, Cortile S. Sebastiano, 51</publisher>, <date>1878</date>.</bibl>
+        <bibl>Francesco Saverio Salfi, <hi rend="i">Della declamazione, per F. Salfi, preceduta da un cenno biografico su l’autore e pubblicata per cura di Alfonso Salfi</hi>, <pubPlace>Napoli</pubPlace>, <publisher>Stabilimento Tipografico di Androsio, Cortile S. Sebastiano, 51</publisher>, <date>1878</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
