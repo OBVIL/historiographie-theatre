@@ -93,7 +93,7 @@
           <l>De cent plaisirs font un plaisir unique.»</l>
         </epigraph>
       </div>
-      <div type="book" xml:id="testo_1">
+      <div type="tome" xml:id="testo_1">
         <head>Tomo primo</head>
         <div type="dedication" xml:id="testo_1-dedizione">
           <head>[Dedizione]</head>
@@ -3055,7 +3055,7 @@
             tempi.</p>
           <figure>
             <graphic
-              url="http://obvil.github.io/historiographie-theatre/images/arteaga_rivoluzioni_1785_img01"
+              url="http://obvil.github.io/historiographie-theatre/images/arteaga_rivoluzioni_1785_img01.png"
             />
           </figure>
           <p xml:id="testo_1-4.4">[4] Supponendo adunque che <persName type="author"
@@ -6992,7 +6992,7 @@
           <signed rend="i">Giuseppe Gradenigo Seg,</signed>
         </div>
       </div>
-      <div type="book" xml:id="testo_2">
+      <div type="tome" xml:id="testo_2">
         <head>Tomo secondo</head>
         <div type="chapter" xml:id="testo_2-9">
           <head>Capitolo nono</head>
@@ -12726,7 +12726,7 @@
           </trailer>
         </div>
       </div>
-      <div type="book" xml:id="testo_3">
+      <div type="tome" xml:id="testo_3">
         <head>Tomo terzo</head>
         <div type="chapter" xml:id="testo_3-14">
           <head>Capitolo decimoquarto</head>
