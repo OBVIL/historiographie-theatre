@@ -72,7 +72,7 @@
   <text>
     <body>
       <div type="frontispiece" xml:id="testo_frontispizio">
-        <head>[Frontispice]</head>
+        <head>[Frontispizio]</head>
         <p rend="center i">Le rivoluzioni del teatro musicale italiano dalla sua origine fino al
           presente.</p>
         <p rend="center">opera di Stefano Arteaga</p>
@@ -95,8 +95,8 @@
       </div>
       <div type="tome" xml:id="testo_1">
         <head>Tomo primo</head>
-        <div type="dedication" xml:id="testo_1-dedizione">
-          <head>[Dedizione]</head>
+        <div type="dedication" xml:id="testo_1-dedica">
+          <head>[Dedica]</head>
           <p rend="center">A sua eccellenza il signor D. <persName type="historical">Giuseppe
               Niccolo’ d’Azara</persName></p>
           <p rend="center">Cavaliere del reale e distinto ordine <persName type="historical"
@@ -106,14 +106,14 @@
           <signed>
             <persName type="author">Stefano Arteaga</persName>
           </signed>
-          <p xml:id="testo_1-dedizione.1">[1] Se in un secolo come il nostro, se ad un uomo quale
+          <p xml:id="testo_1-dedica.1">[1] Se in un secolo come il nostro, se ad un uomo quale
             voi siete, io non presento una di quelle opere importanti che influiscono direttamente
             sul bene delle nazioni; io vi prego, o Signore, ad attribuirlo meno al non averne
             sentito gl’impulsi che al destino che mi vieta di secondarli. Il privilegio di afferrare
             certa classe d’oggetti, siccome non è concesso a tutti gl’ingegni, così non è proprio di
             tutte le circostanze. La natura, che non ha voluto annoverarmi tra quelli, è andata
             perfettamente d’accordo colla fortuna che mi frappone l’inciampo di queste.</p>
-          <p xml:id="testo_1-dedizione.2">[2] Ma a chi non può inalzare da pianta un novello
+          <p xml:id="testo_1-dedica.2">[2] Ma a chi non può inalzare da pianta un novello
             edifizio rimane pur anco il non isteril compenso d’osservare, ed illeggiadrire i già
             fabbricati. Il gusto che percepisce, confronta ed analizza i rapporti; la critica che ci
             rende sensibili alle bellezze e ai difetti e che, indicando gli errori altrui, ci
@@ -122,7 +122,7 @@
             talvolta poco avveduto. Il primo è come il microscopio applicato a gli occhi della
             ragione. La seconda è quel freno salutare, senza cui gl’impeti più felici non sono per
             lo più che altrettanti indizi di non lontana caduta.</p>
-          <p xml:id="testo_1-dedizione.3">[3] Incoraggiato da tai riflessi oso offrirvi, o Signore,
+          <p xml:id="testo_1-dedica.3">[3] Incoraggiato da tai riflessi oso offrirvi, o Signore,
             insiem colla storia del più brillante spettacolo di <placeName>Europa</placeName> alcune
             mie osservazioni sulla maniera di perfezionar le varie e moltiplici parti, che lo
             compongono. Avrei voluto, e l’avrei certamente voluto con quel zelo, che l’amor
@@ -134,7 +134,7 @@
             sussidi, come il <persName type="mythological">Dedalo</persName> della favola allorché
             adagiava le piume sugli omeri del figlio <quote>«Bis conatus eram… Bis patriae cecidere
               manus.»</quote></p>
-          <p xml:id="testo_1-dedizione.4">[4] Degnate non per tanto onorare dell’autorevol vostro
+          <p xml:id="testo_1-dedica.4">[4] Degnate non per tanto onorare dell’autorevol vostro
             suffragio codesto tenue saggio del mio zelo per gli studi voi, che siete solito
             d’accogliere con tanta benignità tutto ciò, che spetta l’avanzamento delle arti, e delle
             lettere; voi, che in una città maestra della religione e della politica sostenete con
@@ -566,7 +566,7 @@
         <div type="chapter" xml:id="testo_1-1">
           <head>Capitolo primo</head>
           <argument>
-            <p>Saggio Analitico sulla natura del dramma musicale. Differente che lo distinguono
+            <p rend="i">Saggio Analitico sulla natura del dramma musicale. Differente che lo distinguono
               dagli altri componimenti drammatici. Leggi sue costitutive derivanti dalla unione
               della poesia, musica e della prospettiva.</p>
           </argument>
@@ -1552,7 +1552,7 @@
         <div type="chapter" xml:id="testo_1-2">
           <head>Capitolo secondo</head>
           <argument>
-            <p>Ricerche sull’attitudine della lingua italiana per la musica dedotte dalla sua
+            <p rend="i">Ricerche sull’attitudine della lingua italiana per la musica dedotte dalla sua
               formazione, e dal suo meccanismo. Cause politiche che hanno contribuito a renderla
               tale.</p>
           </argument>
@@ -2167,7 +2167,7 @@
         <div type="chapter" xml:id="testo_1-3">
           <head>Capitolo terzo</head>
           <argument>
-            <p>Perdita della musica antica. Origine della musica sacra in
+            <p rend="i">Perdita della musica antica. Origine della musica sacra in
                 <placeName>Italia</placeName>. Pretese scoperte di <persName type="author">Guido
                 Aretino</persName>, e di <persName type="author">Giovanni Murs</persName>.
               Rappresentazioni de’ secoli barbari. Paralello fra esse, e quelle dei Greci.
@@ -2805,12 +2805,12 @@
               <title>Resurrezione</title> s’introduceva il <persName>Padre Eterno</persName>
             dormendo, e un angelo che viene a destarlo con queste parole:</p>
           <quote>
-            <p>«<label type="speaker">Ang.:.</label>
+            <p>«Ang.:
               <persName>Eterno Padre</persName>, voi avete il torto, e dovete vergognavene. Il
               vostro dilettissimo Figlio è morto, e voi dormite come un ubbriaco.</p>
-            <p><label type="speaker">P. E.:.</label> Come! Egli è morto?</p>
-            <p><label type="speaker">Ang.:.</label> Da uomo d’onore.</p>
-            <p><label type="speaker">P. E.:.</label> S’io sapeva niente, che il diavolo mi
+            <p>P. E.: Come! Egli è morto?</p>
+            <p>Ang.: Da uomo d’onore.</p>
+            <p>P. E.: S’io sapeva niente, che il diavolo mi
                 porti.»<note place="bottom" resp="author"><p>[NdA] Siccome potrebbe credersi da
                   tal’uno, ch’io volessi fìngere rapportando cosa cotanto spropositata, così mi
                   sembra opportuno l’addurre le parole originali:</p><quote><l>«Ang.: Père Eternel,
@@ -2909,7 +2909,7 @@
         <div type="chapter" xml:id="testo_1-4">
           <head>Capitolo quarto</head>
           <argument>
-            <p>Origine della musica profana. Stranieri venuti in <placeName>Italia</placeName> ad
+            <p rend="i">Origine della musica profana. Stranieri venuti in <placeName>Italia</placeName> ad
               illustrarla. Suo primo accoppiamento colla poesia volgare. Intermezzi musicali.
               Abbozzi del melodramma.</p>
           </argument>
@@ -3087,11 +3087,9 @@
               <l>        Ne interficiantur a Rege Francorum.»</l>
             </lg>
           </quote>
-          <list type="ol" rend="1">
-            <item>Piena di tenerezza benché barbaramente espressa è altresì una canzonetta flebile
+          <p xml:id="testo_1-4.6">[6] Piena di tenerezza benché barbaramente espressa è altresì una canzonetta flebile
               di <persName type="author">Gotescalco</persName>, sassone morto prima del 900, dove si
-              lamenta del suo esiglio:</item>
-          </list>
+              lamenta del suo esiglio:</p>
           <quote>
             <l>«Ut quid jubes, pusiole?</l>
             <l>Quare mandas, filiole,</l>
@@ -4461,7 +4459,7 @@
         <div type="chapter" xml:id="testo_1-5">
           <head>Capitolo quinto</head>
           <argument>
-            <p>Difetti della musica italiana verso il fine del Cinquecento, e mezzi presi per
+            <p rend="i">Difetti della musica italiana verso il fine del Cinquecento, e mezzi presi per
               migliorarla. Stato della poesia volgare. <placeName>Firenze</placeName> inventrice del
                 <term type="genre">melodramma</term>. Prima <term type="genre">opera seria</term>, e
               suo giudizio. Comparse. Arie. Cori. Prima <term type="genre">opera buffa</term>, e suo
@@ -5332,7 +5330,7 @@
         <div type="chapter" xml:id="testo_1-6">
           <head>Capitolo sesto</head>
           <argument>
-            <p>Riflessioni sul meraviglioso. Origine storica, e propagazione di esso in
+            <p rend="i">Riflessioni sul meraviglioso. Origine storica, e propagazione di esso in
                 <placeName>Europa</placeName>. Cause del suo accoppiamento colla musica, e la poesia
               nel melodramma.</p>
           </argument>
@@ -5790,7 +5788,7 @@
         <div type="chapter" xml:id="testo_1-7">
           <head>Capitolo settimo</head>
           <argument>
-            <p>Rapida propagazione del melodramma dentro e fuori d’<placeName>Italia</placeName>.
+            <p rend="i">Rapida propagazione del melodramma dentro e fuori d’<placeName>Italia</placeName>.
               Azioni musicali in <placeName>Francia</placeName>, <placeName>Inghilterra</placeName>,
                 <placeName>Germania</placeName>, <placeName>Spagna</placeName>, e la
                 <placeName>Russia</placeName>.</p>
@@ -6181,7 +6179,7 @@
         <div type="chapter" xml:id="testo_1-8">
           <head>Capitolo ottavo</head>
           <argument>
-            <p>Stato della prospettiva e della poesia musicale fino alla metà del secolo scorso.
+            <p rend="i">Stato della prospettiva e della poesia musicale fino alla metà del secolo scorso.
               Mediocrità della musica. Introduzione degli eunuchi e delle donne in teatro.</p>
           </argument>
           <p xml:id="testo_1-8.1">[1] Ritornando all’<placeName>Italia</placeName>, il dramma
@@ -6997,7 +6995,7 @@
         <div type="chapter" xml:id="testo_2-9">
           <head>Capitolo nono</head>
           <argument>
-            <p>Secol d’oro della musica italiana. Progressi della melodia. Valenti compositori
+            <p rend="i">Secol d’oro della musica italiana. Progressi della melodia. Valenti compositori
               italiani. Scuole celebri di canto, e di suono col vario loro carattere.</p>
           </argument>
           <p xml:id="testo_2-9.1">[1] Lo spettacolo dell’opera tutto insieme piaceva nondimeno agli
@@ -7800,7 +7798,7 @@
         <div type="chapter" xml:id="testo_2-10">
           <head>Capitolo decimo</head>
           <argument>
-            <p>Miglioramento della poesia lirico drammatica, <persName type="author"
+            <p rend="i">Miglioramento della poesia lirico drammatica, <persName type="author"
                 >Quinaut</persName> in <placeName>Francia</placeName> precursore della riforma.
               Celebri poeti fino a <persName type="author">Metastasio</persName>. Avanzamenti della
               prospettiva.</p>
@@ -8280,7 +8278,7 @@
         <div type="chapter" xml:id="testo_2-11">
           <head>Capitolo undecimo</head>
           <argument>
-            <p>Epoca di <persName type="author">Metastasio</persName>. Vantaggi recati da lui alla
+            <p rend="i">Epoca di <persName type="author">Metastasio</persName>. Vantaggi recati da lui alla
               poesia e lingua italiana. Esame de’ suoi pregi. Riflessioni sulla sua maniera di
               trattar l’amore. Suoi difetti. S’abbia egli condotto il melodramma al maggior grado di
               perfezione possibile.</p>
@@ -10252,7 +10250,7 @@
         <div type="chapter" xml:id="testo_2-12">
           <head>Capitolo duodecimo</head>
           <argument>
-            <p>Decadenza attuale dell’opera italiana. Cause generali di essa. Paralello della poesia
+            <p rend="i">Decadenza attuale dell’opera italiana. Cause generali di essa. Paralello della poesia
               e musica moderne con quelle dei Greci. Motivi della perfezion degli antichi, e
               inconvenienti intrinseci del nostro sistema musicale.</p>
           </argument>
@@ -11415,7 +11413,7 @@
         <div type="chapter" xml:id="testo_2-13">
           <head>Capitolo decimoterzo</head>
           <argument>
-            <p>Cause particolari della decadenza attuale dell’opera. Prima Causa. Mancanza di
+            <p rend="i">Cause particolari della decadenza attuale dell’opera. Prima Causa. Mancanza di
               filosofia nei compositori. Difetti nella composizione. Riflessioni sull’odierno uso
               della musica strmentale. Esame dei recitativi, e delle arie.</p>
           </argument>
@@ -12731,7 +12729,7 @@
         <div type="chapter" xml:id="testo_3-14">
           <head>Capitolo decimoquarto</head>
           <argument>
-            <p>Seconda causa: vanità ed ignoranza dei cantori. Analisi del canto moderno.
+            <p rend="i">Seconda causa: vanità ed ignoranza dei cantori. Analisi del canto moderno.
               Riflessioni sui giudizi popolari, e sulla varietà dei gusti musicali.</p>
           </argument>
           <p xml:id="testo_3-14.1">[1] In una nazione che riguarda l’unione della musica e della
@@ -14177,7 +14175,7 @@
         <div type="chapter" xml:id="testo_3-15">
           <head>Capitolo decimoquinto</head>
           <argument>
-            <p>Terza causa. Abbandono quasi totale della poesia musicale. Esame de’ più rinomati
+            <p rend="i">Terza causa. Abbandono quasi totale della poesia musicale. Esame de’ più rinomati
               poeti drammatico-lirici dopo il <persName type="author">Metastasio</persName>. Stato
                 dell’<term type="genre">opera buffa</term>.</p>
           </argument>
@@ -15142,7 +15140,7 @@
         <div type="chapter" xml:id="testo_3-16">
           <head>Capitolo decimosesto</head>
           <argument>
-            <p>Ragionamento sopra il ballo pantomimico. Della sua applicazione al teatro. Se
+            <p rend="i">Ragionamento sopra il ballo pantomimico. Della sua applicazione al teatro. Se
               convenga o no bandirlo dal melodramma.</p>
           </argument>
           <p xml:id="testo_3-16.1">[1] Abbiamo finora osservati i fondamenti del brillante edifizio
@@ -16494,7 +16492,7 @@
         <div type="chapter" xml:id="testo_3-17">
           <head>Capitolo decimosettimo, ed ultimo</head>
           <argument>
-            <p>Tentativi di riforma nel melodramma. Lettera d’un celebre letterato francese che
+            <p rend="i">Tentativi di riforma nel melodramma. Lettera d’un celebre letterato francese che
               contiene l’idea d’un’opera eccellente da farsi intorno alla musica.</p>
           </argument>
           <p xml:id="testo_3-17.1">[1] Tal è lo stato presente del dramma musicale italiano quale
@@ -17268,7 +17266,7 @@
         <div type="appendix" xml:id="testo_3-osservazioni">
           <head>Osservazioni</head>
           <argument>
-            <p>Intorno ad un estratto del tomo 2 della presente opera inserito nel <title>Giornale
+            <p rend="i">Intorno ad un estratto del tomo 2 della presente opera inserito nel <title>Giornale
                 Enciclopedico</title> di <placeName>Bologna</placeName> N. XIII del mese d’aprile
               del corrente anno.</p>
           </argument>
