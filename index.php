@@ -117,7 +117,7 @@ else if ( $base->search ) {
 }
 // pas de livre demandé, montrer un rapport général
 else {
-  readfile( "doc/presentation.html" );
+  echo '<h1 style="padding-top:0">Mythographie 1800-1950</h1>';
   $base->biblio( array("no", "date", "creator", "title") );
 }
             ?>
