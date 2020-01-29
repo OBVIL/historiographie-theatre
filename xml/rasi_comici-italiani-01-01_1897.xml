@@ -7,8 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>I comici italiani : biografia, bibliografia, iconografia</title>
-        <author ref="Rasi, Luigi (1852-1918)" key="https://data.bnf.fr/fr/12077289/luigi_rasi/"
-          >Luigi Rasi</author>
+        <author ref="Rasi, Luigi (1852-1918)" key="https://data.bnf.fr/fr/12077289/luigi_rasi/">Luigi Rasi</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -31,25 +30,27 @@
         <idno>http://obvil.sorbonne-universite.fr/corpus/historiographie-theatre/rasi_comici-italiani-01-01_1897</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons :
-              « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+            <p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+              Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+              sur les bases de données (L341-1) est mise à disposition de la communauté
+              scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+              Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+              3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication
+              dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+              l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+              toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
               électronique, notamment en intégrant toutes les contributions extérieures, la
               diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Luigi Rasi, <hi rend="i">I comici italiani : biografia, bibliografia,
-          iconografia</hi>, volume I, parte 1 <pubPlace>Firenze</pubPlace>, <publisher>Fratello
+        <bibl><author>Luigi Rasi</author>, <title><hi rend="i">I comici italiani : biografia, bibliografia,
+          iconografia</hi></title>, volume I, parte 1 <pubPlace>Firenze</pubPlace>, <publisher>Fratello
             Bocca</publisher>, <date>1897</date>, <biblScope>2 vol. in-8</biblScope>. PDF : <ref
             target="https://books.google.fr/books/about/I_comici_italiani_biografia_bibliografia.html?id=KZoZAAAAYAAJ"
             >Google (US)</ref>.</bibl>

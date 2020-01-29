@@ -2,7 +2,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ita">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -29,30 +29,27 @@
                 <idno>http://http://obvil.sorbonne-universite.fr/corpus/historiographie-theatre/napoli-signorelli_storia-critica-ed-3-01_1813</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-                        <p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire
-                            d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé
-                            OBVIL).</p>
-                        <p>Cette ressource électronique protégée par le code de la propriété
-                            intellectuelle sur les bases de données (L341-1) est mise à disposition
-                            de la communauté scientifique internationale par l’OBVIL, selon les
-                            termes de la licence Creative Commons : « Attribution - Pas
-                            d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND
-                            3.0 FR) ».</p>
-                        <p>Attribution : afin de référencer la source, toute utilisation ou
-                            publication dérivée de cette ressource électroniques comportera le nom
-                            de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté
-                            scientifique, toute utilisation commerciale est interdite.</p>
-                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette
-                            ressource électronique, notamment en intégrant toutes les contributions
-                            extérieures, la diffusion de versions modifiées de cette ressource n’est
-                            pas souhaitable.</p>
+                        <p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+                            Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+                            sur les bases de données (L341-1) est mise à disposition de la communauté
+                            scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+                            Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+                            3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication
+                            dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+                            l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+                            toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures, la
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
                     </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Pietro Napoli Signorelli, <hi rend="i">Storia critica dei teatri antichi e
-                        moderni divisa in dieci tomi</hi>, tomo I, <edition>[3e éd.]</edition>,
+                <bibl><author>Pietro Napoli Signorelli</author>, <title><hi rend="i">Storia critica dei teatri antichi e
+                        moderni divisa in dieci tomi</hi></title>, tomo I, <edition>[3e éd.]</edition>,
                         <pubPlace>Napoli</pubPlace>, presso <publisher>Vincenzo Orsino</publisher>,
                         <date>1813</date>, 252 p. PDF : <ref
                         target="https://books.google.fr/books?vid=IBNF:CF002234928"
@@ -64,7 +61,7 @@
                 <date when="1813"/>
             </creation>
             <langUsage>
-                <language ident="it"/>
+                <language ident="ita"/>
             </langUsage>
         </profileDesc>
     </teiHeader>

@@ -2,13 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2019-07-02T15:10:25+02:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ita">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>I comici italiani : biografia, bibliografia, iconografia</title>
-        <author key="Rasi, Luigi (1852-1918)" ref="https://data.bnf.fr/fr/12077289/luigi_rasi/"
-          >Luigi Rasi</author>
+        <author key="Rasi, Luigi (1852-1918)" ref="https://data.bnf.fr/fr/12077289/luigi_rasi/">Luigi Rasi</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -31,13 +30,13 @@
         <idno>http://obvil.sorbonne-universite.fr/corpus/historiographie-theatre/rasi_comici-italiani-01-02_1897</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence
-              « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+              Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
               les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons :
-              « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
+              (CCBY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
               de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
               Internet de la ressource.</p>
@@ -50,8 +49,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Luigi Rasi</author>, <title>I comici italiani : biografia, bibliografia,
-            iconografia</title>, <biblScope>volume I, parte 2</biblScope>,
+        <bibl><author>Luigi Rasi</author>, <title><hi rend="i">I comici italiani : biografia,
+              bibliografia, iconografia</hi></title>, <biblScope>volume I, parte 2</biblScope>,
             <pubPlace>Firenze</pubPlace>, <publisher>Fratello Bocca</publisher>, <date>1897</date>,
             <biblScope>2 vol. in-8</biblScope>. PDF : <ref
             target="https://babel.hathitrust.org/cgi/pt?id=coo.31924091763502;view=1up;seq=1"
@@ -72,7 +71,8 @@
       <div1 type="introduction">
         <pb n="n.p."/>
         <figure>
-          <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img001.jpg"/>
+          <graphic
+            url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img001.jpg"/>
           <p>Quadro dei <hi rend="i">buffoni</hi> francesi e italiani, esistente nel Museo della <hi
               rend="i">Comédie française</hi></p>
         </figure>
@@ -243,11 +243,15 @@
         <pb n="n.p."/>
         <head type="main">[C]</head>
         <figure>
-          <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img002.jpg"/>
+          <graphic
+            url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img002.jpg"
+          />
         </figure>
         <pb n="n.p."/>
         <figure>
-          <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img003.jpg"/>
+          <graphic
+            url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img003.jpg"
+          />
         </figure>
         <head>I COMICI ITALIANI</head>
         <div2 type="article">
@@ -325,7 +329,9 @@
             festeggiato da ogni specie di pubblico per la vena di comicità spontanea, congiunta
             sempre a una ricca sobrietà.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img004.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img004.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -414,7 +420,9 @@
           </quote>
           <p>Bergamo il dì 13 agosto 1664.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img005.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img005.jpg"
+            />
           </figure>
           <p><pb n="544" xml:id="p544"/><hi rend="i">Li tre finti turchi</hi> è fragli scenari di
             Basilio Locatelli, conservati alla Corsiniana di Roma (Acc. de’ Lincei).</p>
@@ -623,7 +631,9 @@
             definitivamente il suo <hi rend="i">ruolo</hi> di attore in quello di <hi rend="i"
               >impresario.</hi></p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img006.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img006.jpg"
+            />
           </figure>
           <p>Morì di apoplessia fulminante a poco men che settanta anni nell’agosto del ’78.</p>
         </div2>
@@ -859,12 +869,13 @@
               fraternels de la Société, et en particulier ceux du votre</p>
           </quote>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img007.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img007.jpg"
+            />
           </figure>
           <p>A questa ne aggiungo altra diretta all’attrice Sofia Arnould, che trascrivo fedelmente.
             E un’altra ancora che riproduco alcun po’ ridotta, interessantissima per le firme di
             tutti i componenti la Compagnia italiana a Parigi :</p>
-
           <quote>
             <p>Ma Voisine</p>
             <p>J’ai vu M.<hi rend="sup">r</hi> Esmenard a midy - ; Nous avons parlé de vous. Il est
@@ -877,7 +888,8 @@
             <p><hi rend="i">P. S.</hi> Je compte sur ma voisine demain pour <hi rend="i"
                 >Montenero.</hi></p>
           </quote>
-          <p><pb n="556" xml:id="p556"/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img008.jpg]</p>
+          <p><pb n="556" xml:id="p556"
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img008.jpg]</p>
           <p>Quanto alla gastronomia, egli lasciò rinomanza di avere avuto il maggior numero
             d’indigestioni. E d’indigestione morì il 22 aprile 1816 a Parigi, dopo di aver divorato
             nella notte, <pb n="557" xml:id="p557"/>da solo, una quantità di pasticci di fegato
@@ -1143,7 +1155,9 @@
               <hi rend="i">Mariti</hi> di Torelli, ed altre molte, in cui non ebbe chi la superasse,
             nè chi la uguagliasse.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img009.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img009.jpg"
+            />
           </figure>
           <p>Al proposito di quest’ultimi, Luigi Capuana, nel suo <hi rend="i">Teatro italiano
               contemporaneo</hi> (Palermo, Lauriel, 1872) così parla di lei :</p>
@@ -1284,7 +1298,9 @@
             Toscana, e abbastanza apprezzato. Il feroce Cominazzi nella <hi rend="i">Fama</hi> del
             ’42 (17 febbraio) lasciò scritto :</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img010.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img010.jpg"
+            />
           </figure>
           <quote>
             <p>Al Carcano il Cannelli co’ suoi drammatici subentrò ai molteplici trattenimenti del
@@ -1619,8 +1635,10 @@
               >Scapino</hi> e di <hi rend="i">Spinetta</hi> (?), come si apprende dalla canzone :
               <hi rend="sc">Infermità, Testamento e Morte di Francesco Gabbrielli detto
             Scapino</hi>, di cui la seconda strofe suona così :</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img011.jpg]</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img012.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img011.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img012.jpg]</p>
           <p>(Avec privilège de l’Impression de Mariette, rue St. Jacques à l’Espérance)</p>
           <quote>
             <l><pb n="578" xml:id="p578"/>Inconsolabil piange</l>
@@ -1658,8 +1676,10 @@
           <p>Ma il suo nome non giunse fino a noi. Forse egli era lo stesso che troviamo al servizio
             di Ranuccio Farnese, ceduto pel carnevale del 1650-51 al Duca di Modena, e con
             lettera</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img013.jpg]</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img014.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img013.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img014.jpg]</p>
           <p><pb n="579" xml:id="p579"/>poi del 3 gennaio 1651 da Piacenza raccomandato da esso
             Ranuccio a esso Duca con le parole : <hi rend="i">concorrono in Brighella comico così
               buone parti, che le medesime saranno valeuoli da renderlo accetto all’A. V. alla quale
@@ -1916,7 +1936,9 @@
             preoccupazioni di sorta. Le sue strampalerie lo avevan fatto un comico guitto, e un
             artista intermittente !</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img015.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img015.jpg"
+            />
           </figure>
           <p>A teatro pieno rimandava la gente, perchè non si sentiva la voglia di recitare : talora
             da una parola all’altra metteva una pausa eterna, tanto da destar qualche mormorio nel
@@ -1946,7 +1968,9 @@
             tacito, isolato, guardando i cerchi di fumo che s’alzano dal suo sigaro, e nè men forse
             ascoltando chi parla intorno a lui.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img016.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img016.jpg"
+            />
           </figure>
           <p>Di quando in quando si risveglia nel suo cervello il ricordo de’ passati studi e allora
             tenta di ricostruirli o a sè stesso o a qualche sciagurato curioso…. Ma l’occhio non
@@ -1993,7 +2017,9 @@
             enormi corbellerie che soleva dire, negl’inviti al pubblico, secondo l’uso del
             tempo.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img017.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img017.jpg"
+            />
           </figure>
           <p>Si vuole che nel Teatro di Treviso, la vigilia della sua beneficiata, si esprimesse
             innanzi al pubblico testualmente così :</p>
@@ -2170,7 +2196,9 @@
             accurato, studioso, egli saprà, son certo, vincere trionfalmente l’ardua prova,
             giustificando le speranze vive in lui a buon diritto fondate.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img018.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img018.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -2185,7 +2213,9 @@
                 >Secolo <num>xix</num></hi>, chiamandola addirittura <hi rend="i">una grande attrice
               che spunta.</hi> »</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img019.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img019.jpg"
+            />
           </figure>
           <p>La giunonica dovizia delle forme, una fine intelligenza, e una non comune intuizione
             artistica, la innalzaron subito al ruolo di <hi rend="i">prima attrice</hi> nel quale
@@ -2231,8 +2261,10 @@
           </quote>
           <p>Vasalo e deu.<hi rend="sup">mo</hi> servitore</p>
           <p rend="sc">Enzo Trenti.</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img020.jpg]</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img021.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img020.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img021.jpg]</p>
           <p><pb n="596" xml:id="p596"/><hi rend="b">Carrani Luigi.</hi> Nacque a Pisa il 1790 di
             civile famiglia. Entrato in arte a venti anni, passò gli anni del noviziato in compagnie
             di second’ ordine, sino al 1814, nel quale anno fu scritturato qual <hi rend="i">secondo
@@ -2306,7 +2338,9 @@
             24 novembre del 1734, e replicato sino al 14 dicembre, chiudendo con esso le recite
             dell’autunno.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img022.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img022.jpg"
+            />
           </figure>
           <p>Nel cap. XXXIV descrive la scena occorsagli, mentre stava all’<hi rend="i">Arena</hi>
             di Verona un giorno dell’estate 1734, accennando al Casali, che scoprendolo al pubblico
@@ -2349,7 +2383,9 @@
             Compagnia de’ piccoli Lambertini in America, ove diventò poi direttrice di
             filodrammatici, e ove morì sui cinquantacinque anni.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img023.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img023.jpg"
+            />
           </figure>
           <p><pb n="600" xml:id="p600"/><hi rend="b">Casali Giulio.</hi> Fratello della precedente,
             cominciò a farsi buon nome nella Compagnia romana di Bellotti e Calloud, nella quale
@@ -2363,7 +2399,9 @@
             la fatal nuova della sua morte volontaria. Il poveretto lasciò la moglie Maria Checchi,
             e un figliuolo, Cesarino, attore anch’esso per le <hi rend="i">parti generiche.</hi></p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img024.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img024.jpg"
+            />
           </figure>
           <p>Casali ebbe un maggior fratello, Giovanni, buon <hi rend="i">generico e secondo
               caratterista</hi>, morto sui quarant’anni circa.</p>
@@ -2581,7 +2619,9 @@
             <p>Di V. S. Ill.<hi rend="sup">ma</hi></p>
           </quote>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img025.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img025.jpg"
+            />
           </figure>
           <p>Ill.<hi rend="sup">mo</hi> Sig.<hi rend="sup">re</hi> et padron Coll.<hi rend="sup"
               >mo</hi></p>
@@ -2728,7 +2768,8 @@
           <p>Nel 1716 era a Bologna, come vediamo dal sonetto che qui pubblico per gentile
             comunicazione del signor Pietro Pieri, antiquario di Roma, fedelmente trascritto da un
             foglio volante largo 40 centim., alto 58, che contiene in cima il presente ritratto.</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img026.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img026.jpg]</p>
           <pb n="611" xml:id="p611"/>
           <quote>
             <label><hi rend="sc">GIACINTO CATTOLI DETTO TRACAGNINO <lb/> comico di s. a. s. il sig.
@@ -2918,7 +2959,9 @@
               madre</hi> della Compagnia Verniano, dalla quale si tolse, per ritornare il ’43-44
             capocomica al fianco del marito.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img027.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img027.jpg"
+            />
           </figure>
           <p>Abbandonato poi entrambi il teatro, si ridussero a Verona, patria del Tessari.</p>
           <p>Il Regli, dopo di aver detto che <hi rend="i">all’ultima recita di Alberto Tessari, e a
@@ -3085,7 +3128,9 @@
             consiglio de’ medici prima a Pisa, poi a Firenze, ove in capo a pochi mesi (il luglio
             del 1868) morì compianta da quanti la conobbero.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img028.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img028.jpg"
+            />
           </figure>
           <p>Clementina Cazzola non fu bella veramente, ma di assai viva espressione. I suoi occhi
             nerissimi mostravano or languidi, or lampeggianti lo stato dell’anima. Il metallo della
@@ -3103,7 +3148,9 @@
               rend="i">Pia de’ Tolomei</hi>, e di cento altre opere o tragico-romantiche o
             drammatiche o comiche, non ebbe chi la uguagliasse, nè chi le si accostasse.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img029.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img029.jpg"
+            />
           </figure>
           <p>Ho detto <hi rend="i">tragico-romantiche</hi> : nella tragedia classica a lei mancava
             la fibra. E se, desiderosa di assurgere a somma altezza anche in quel genere, si diede
@@ -3124,8 +3171,10 @@
               particolare di verità viva e potente, quasi cruda. In questi contrasti, che parevano
               cercati nella poetica di Victor Hugo, era il massimo prestigio della Cazzola.</p>
           </quote>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img030.jpg]</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img031.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img030.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img031.jpg]</p>
           <p><pb n="624" xml:id="p624"/>E al proposito dell’<hi rend="i">Adriana
             Lecouvreur</hi> :</p>
           <quote>
@@ -3140,7 +3189,9 @@
               indovinare e cogliere per istinto.</p>
           </quote>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img032.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img032.jpg"
+            />
           </figure>
           <p>A queste del Panzacchi faccio seguir le parole di due massimi artisti del nostro teatro
             di prosa.</p>
@@ -3209,7 +3260,9 @@
             a Mantova Guglielmo Gonzaga ; ce lo apprende egli stesso in questa lettera del
             30 marzo 1622 pubblicata in parte dal Baschet.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img033.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img033.jpg"
+            />
           </figure>
           <salute>Ser. Sig. et solo mio Sing. Padrone</salute>
           <quote>
@@ -3310,7 +3363,8 @@
             divenuto, a detta di esso Cecchini, il grande emulo di Gabbrielli. Povero
             Frittellino !!! Che smacco ! E che accasciamento !… E come se ne doleva col Duca nella
             lettera che qui diamo riprodotta autograficamente.</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img034.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img034.jpg]</p>
           <p>Noi abbiam già assistito alle lotte noiose e dolorose, da lui sostenute con Giovan
             Battista Andreini (V.), delle quali non sappiam bene se si dovesse cercar la causa nel
             carattere bestiale della moglie Orsola che, gelosa di Florinda, gelosa della Rotari,
@@ -3345,7 +3399,9 @@
             dedicatoria al Marchese Ottavio di Scandiano delle <hi rend="i">Lettere facete e
               morali</hi>, in cui egli dice :</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img035.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img035.jpg"
+            />
           </figure>
           <quote>
             <p>Un’ altra cagione (pur di momento) mi ha persuaso a raccomandarli questo puoco
@@ -3443,7 +3499,9 @@
             Decreto stesso, il quale si trova alla fine de’ <hi rend="i">Brevi Discorsi intorno alle
               Commedie.</hi></p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img036.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img036.jpg"
+            />
           </figure>
           <p>Frittellino.</p>
           <p>(Da una serie di dodici acqueforti antiche, riproducenti alcuni tipi della Commedia
@@ -3842,7 +3900,9 @@
             Luigi Pezzana al fianco di Adelina Marchi, dopo di essere stato con Evaristo De Ogna,
             Michele Sivori e Michele Paone, impresario del <hi rend="i">Fondo</hi> di Napoli.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img037.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img037.jpg"
+            />
           </figure>
           <p>Il <hi rend="i">Giorgio Gandi</hi>, la <hi rend="i">Celeste</hi>, la <hi rend="i"
               >Marcellina</hi>, il <hi rend="i">Michelangelo e Rolla</hi>, il <hi rend="i">Romanzo
@@ -4011,7 +4071,9 @@
             terribile e fanatico giacobino, circolava nelle sue vene), nella fatal giornata del
             15 maggio 1848 a Napoli egli era su le barricate co’ due figliuoli.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img038.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img038.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -4039,7 +4101,9 @@
             rappresentazione, <hi rend="i">Yorick</hi> scriveva di lei nella <hi rend="i"
               >Nazione</hi> :</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img039.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img039.jpg"
+            />
           </figure>
           <p>La signora Checchi-Bozzo ci riempi tutti di stupore. Nessuno si sarebbe aspettato da
             lei giovane, da lei nuova, da lei inesperta, tanta perfezione di giuoco, tanto acume
@@ -4068,7 +4132,9 @@
             moglie di Giovanni Serafini, e Marietta, moglie di Giulio Casali. Di Vittorina dirò ora
             brevemente.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img040.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img040.jpg"
+            />
           </figure>
           <p>Cominciò la vita dell’arte come <hi rend="i">amorosa</hi> in Compagnia di Gaspare
             Lavaggi, nella quale a sedici anni, diventò la seconda moglie dell’attore brillante
@@ -4196,7 +4262,9 @@
             a Firenze, ove, rimasta vedova, s’era stabilita, la ben nota <hi rend="i">Arena
               Nazionale</hi>, ch’ella condusse e conduce tuttora con sorti assai propizie.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img041.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img041.jpg"
+            />
           </figure>
           <p><pb n="655" xml:id="p655"/><hi rend="b">Chiariani Silvestro.</hi> Trascrivo dal
             Bartoli : « Grazioso commediante, che recitava in Napoli la parte di secondo Zanni sotto
@@ -4683,7 +4751,8 @@
               <cell>…… Gio. Batta. Marini</cell>
             </row>
           </table>
-          <p><pb n="667" xml:id="p667"/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img042.jpg]</p>
+          <p><pb n="667" xml:id="p667"
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img042.jpg]</p>
           <p>Al finire della sua vita artistica, il <hi rend="i">Corriere della sera</hi> di Milano
             del 14-15 febbraio dedica al caro artista un lungo articolo dal quale trascrivo i
             seguenti brani che mi par compendino in poche parole le belle e rare doti di lui.</p>
@@ -4795,7 +4864,9 @@
             1844), entrò <hi rend="i">prima attrice assoluta</hi> con Antonio Stacchini, poi di
             nuovo con Luigi Domeniconi. Si recò poi in Ispagna per invito della zia Santoni.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img043.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img043.jpg"
+            />
           </figure>
           <p>Fu la Civili di slanciata e imponente figura ; di fisionomia attraente e nobilissima ;
             nella tragedia specialmente esercitava sugli spettatori un fascino indicibile : e i
@@ -5071,7 +5142,9 @@
             repertorio ; a cotesta riforma cooperò validamente Filippo Cammarano, il quale ebbe in
             Aldigonda Colli la più forte e valorosa interprete dell’opera sua varia e copiosa.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img044.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img044.jpg"
+            />
           </figure>
           <p>Di lei, scrive la <hi rend="i">Moda</hi> del 1841 :</p>
           <quote>
@@ -5234,7 +5307,9 @@
             Europa al fianco di Eleonora Duse, amato e stimato da compagni e da pubblico per la
             serenità dell’ indole e la comicità spontanea del <hi rend="i">giuoco.</hi></p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img045.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img045.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -5310,7 +5385,9 @@
             ’ 66 e ’ 67, gli ultimi due anni della sua vita artistica, formò società con Eugenio
             Casilini.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img046.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img046.jpg"
+            />
           </figure>
           <p>Fu il Colomberti di attività singolare. Diede al teatro molte commedie applauditissime,
             in prosa e in verso, e molte ne tradusse dal francese. Dettò varj romanzi e due volumi,
@@ -5470,7 +5547,9 @@
               per far bene</hi>, e di tante altre commedie di cui è parte principale il <hi rend="i"
               >caratterista.</hi></p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img047.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img047.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -5488,7 +5567,9 @@
               naturalezza sorprendente.</hi> » Nel 1857 era a Tolentino, capocomico e attore
             applauditissimo con la Feoli e la Miutti.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img048.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img048.jpg"
+            />
           </figure>
           <p>La moglie e i figli continuarono a recitare quando egli si ritirò (1878) nella sua
             Cortona, ove morì nel ’94 a ottantadue anni.</p>
@@ -6121,7 +6202,9 @@
             guittume per collocarlo più alto, ove potè respirare liberamente l’aria sana dell’arte,
             e d’onde potè mostrare i suoi pregi a un pubblico degno di lui.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img049.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img049.jpg"
+            />
           </figure>
           <p>Ormai i suoi due teatri eran l’ Alfieri di Firenze l’inverno, e l’ Arena di Montecatini
             l’estate, ove si recava già da tempo, anche per la sua salute assai malferma, e ove si
@@ -6277,7 +6360,9 @@
             appartenente alla Biblioteca nazionale di Parigi, e che qui riproduco. (V.
             pag. 713).</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img050.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img050.jpg"
+            />
           </figure>
           <p><pb n="712" xml:id="p712"/>Molto dispiacque al pubblico di vedere una maschera su la
             faccia piacevole, se bene alquanto bruna, del Costantini ; ma egli serbò il ruolo di <hi
@@ -6315,7 +6400,8 @@
             <l>il rajeunira de trente ans,</l>
             <l>s’il peut encor vous plaire.</l>
           </quote>
-          <p><pb n="713" xml:id="p713"/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img051.jpg]</p>
+          <p><pb n="713" xml:id="p713"
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img051.jpg]</p>
           <p><hi rend="i">Foire S. Germain</hi>, rappresentata la prima volta il 1695. Per tal
             circostanza, Luigi Riccoboni detto Lelio, il direttore della Compagnia, compose un
             prologo in azione, nel quale avevan parte Momo, Arlecchino e Mezzettino in costume da
@@ -6366,7 +6452,8 @@
             <l>mais je sçai bien qu’étant fort porté pour la fable,</l>
             <l>il n’enrage pas pour mentir.</l>
           </quote>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img052.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img052.jpg]</p>
           <quote>
             <l>
               <pb n="Joy de Mezetin rare et nouveau Protic"/>
@@ -6406,7 +6493,9 @@
               xml:id="p718"/>alcune del Bonnart che il lettore vedrà nel corso dell’opera
             riprodotte.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img053.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img053.jpg"
+            />
           </figure>
           <p>Il costume di Mezzettino – dice Riccoboni – trae la sua origine dai disegni di Callot
             (V. il Mezzettino dei <hi rend="i">Balli di Sfessania</hi> al nome di Antonazzoni) o
@@ -6445,7 +6534,9 @@
             siffatto tipo di ambizioso, che sapeva accoppiare un forte talento a una palese
             ciarlataneria.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img054.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img054.jpg"
+            />
           </figure>
           <p>Fu anche voce comune che la chiusura del Teatro italiano nel 1697 (ritratta dal Watteau
             in uno splendido quadro che riproduco dalla superba incisione originale del Jacob), dopo
@@ -6622,7 +6713,9 @@
             21 ottobre 1754, naturalizzata francese, lasciando erede universale il suo celebre
             collega Bertinazzi detto Carlino.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img055.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img055.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -6856,7 +6949,9 @@
             nacque il dicembre 1875 a Costantinopoli da Raffaello Cristina di Malta e Cesira
             Sabatini artista drammatica.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img056.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img056.jpg"
+            />
           </figure>
           <p>Cresciuta sulle tavole del palcoscenico cominciò col recitar parti di bimba, non appena
             le fu dato spiccicar parola al lume della <hi rend="i">ribalta.</hi> Entrò <hi rend="i"
@@ -6940,7 +7035,9 @@
               insomma di succedere nella Reale a quella celebrità del grembiule.</p>
           </quote>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img057.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img057.jpg"
+            />
           </figure>
           <p>La Cutini-Mancini recava con sè, in più della Romagnoli, uno spirito di modernità e un
             sentimento di grande fierezza che il nuovo repertorio esigeva. Infatti, il ruolo della
@@ -6987,15 +7084,21 @@
       <div1>
         <head type="main">[D]</head>
         <figure>
-          <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img058.jpg"/>
+          <graphic
+            url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img058.jpg"
+          />
         </figure>
         <pb n="n.p."/>
         <figure>
-          <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img059.jpg"/>
+          <graphic
+            url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img059.jpg"
+          />
         </figure>
         <pb n="n.p."/>
         <figure>
-          <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img060.jpg"/>
+          <graphic
+            url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img060.jpg"
+          />
         </figure>
         <head>I COMICI ITALIANI</head>
         <div2 type="article">
@@ -7061,7 +7164,9 @@
             all’Illustrissimo et Eccellentissimo Signore il Signor Duca di Giojosa, della quale ecco
             l’istoria che traggo dalla lettera dedicatoria.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img061.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img061.jpg"
+            />
           </figure>
           <quote>
             <p>….. essendo in Venetia gli anni a dietro mi fu da un gentil-homo Napolitano
@@ -7095,7 +7200,9 @@
             celebre Celia, e di Bernardino Lombardi, il famoso Dottor Lanternone) e lo fa morire il
             1637 in Italia.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img062.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img062.jpg"
+            />
           </figure>
           <p>La commedia dell’<hi rend="i">Angelica</hi> non è certamente delle più brutte ; e si
             sente subito che è scritta da un comico esperto. Anche vi sono frasi e parole di una
@@ -7267,7 +7374,9 @@
             fiorentino in genere, nella vivezza del linguaggio, purgato da ogni parola men che
             conveniente.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img063.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img063.jpg"
+            />
           </figure>
           <p>Stenterello non ha carattere spiccato : esso può esser tal volta amante fortunato, tal
             altra marito ingannato ; ora servo sciocco spaventato dai morti, ora arguto dispensator
@@ -7391,7 +7500,9 @@
             <p>Bologna.</p>
           </quote>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img064.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img064.jpg"
+            />
           </figure>
           <p><pb n="751" xml:id="p751"/><hi rend="b">Della Guardia-Miquet Clara.</hi> Torinese, fu
             iniziata al teatro da Adelaide Tessero, che l’udiva e ammirava il 1885 a Torino in una
@@ -7473,7 +7584,8 @@
             Maria di Capua presso la famiglia della moglie, Virginia Trenca, che avea sposata
             nel’24, e in breve tempo mancò ai vivi, il 10 di maggio, non ancor compiuto il suo
             cinquantasettesimo anno di età.</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img065.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img065.jpg]</p>
           <p>come <hi rend="i">primo attore assoluto</hi> nei <hi rend="i">drammi</hi> e nelle <hi
               rend="i">commedie</hi> con scelta di parti. Scioltasi quella compagnia, restò De
             Marini col Fabbrichesi, recandosi con lui a Napoli, ove stette a quel Teatro
@@ -7609,7 +7721,9 @@
             vive tuttora agiatamente, e direi quasi giovanilmente a dispetto dell’età
             incalzante.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img066.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img066.jpg"
+            />
           </figure>
           <p>La Celeste Peracchi non fu una grande artista ; e non fu nè men forse un’artista.
             Attrice di mezzi limitati, d’intelligenza mediocre, di voce aspra e chioccia, di dizione
@@ -7671,7 +7785,9 @@
             Guardia, colla quale trovasi tuttora, e colla quale andrà l’anno prossimo (’97-’98),
             nella Compagnia stabile di Torino, al posto di direttore artistico.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img067.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img067.jpg"
+            />
           </figure>
           <p>Non poche sono le parti che gli procacciaron le lodi dei pubblici i più colti, ma
             specialmente si notan quelle di <hi rend="i">Osvaldo</hi> negli <hi rend="i"
@@ -7812,7 +7928,9 @@
             compagnia, che non lasciò più sino al giorno della sua morte, avvenuta per ipertrofia di
             cuore dopo sei giorni soli di letto, il 22 ottobre del ’95.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img068.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img068.jpg"
+            />
           </figure>
           <p>Di lui, morto, disse il Costetti, del quale mi piace riportar le parole che indirizzò
             alla figliuola Lina il Io giugno del ’96.</p>
@@ -7887,10 +8005,14 @@
             Lorenzo, a chi la giudicasse con mente riposata, in quelle opere in cui dominava soavità
             di sentimenti.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img069.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img069.jpg"
+            />
           </figure>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img070.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img070.jpg"
+            />
           </figure>
           <p>Nella recitazione alle Logge di Firenze (il gennaio del ’93) della <hi rend="i">Pamela
               nubile</hi> in memoria del primo centenario della morte di Carlo Goldoni, con Tommaso
@@ -7936,7 +8058,9 @@
               legittimo orgoglio di ciò che veramente si è.</p>
           </quote>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img071.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img071.jpg"
+            />
           </figure>
           <quote>
             <p>Alle doti naturali risponde, vigorosamente spontaneo e felice, il metodo della
@@ -8010,12 +8134,15 @@
               ferocia nella via disagevole, non le nascondiamo il pericolo ma rassicuriamola sul
               valore della propria forza : e se precipita, per disgrazia o per errore, non ci sia
               rimorso in noi : rimorso di ostacolo corrivo, rimorso di entusiasmo cieco.<figure>
-                <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img072.jpg"/>
+                <graphic
+                  url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img072.jpg"
+                />
               </figure></p>
             <p>Se la signorina Di Lorenzo chiedesse l’opinione mia, le direi di credere alla parola
               di questi ultimi soltanto.</p>
           </quote>
-          <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img072.jpg"/>
+          <graphic
+            url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img072.jpg"/>
           <p>Una malattia al ginocchio l’allontanò momentaneamente dalle scene. Oggi vi è ritornata
             completamente guarita : più appassionata per l’arte sua, e ancor più ammirata, se pur
             fosse possibile un crescendo nell’ ammirazione del pubblico per la sua Beniamina.</p>
@@ -8139,7 +8266,9 @@
             fibra forte, robusta ; a volte aspro e rude nella voce ; ma di una fisionomia
             dolcissima, così dolce che tutta rispecchiava la mitezza angelica dell’indole sua.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img073.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img073.jpg"
+            />
           </figure>
           <p>E quella fibra gagliarda si spezzò in brev’ora, come quercia schiantata dalla bufera.
             Arturo Diotti, vittima della sua spensieratezza, moriva a Rio Janeiro, colpito da febbre
@@ -8211,7 +8340,9 @@
               sconfitte.</hi> Ne uscì per formare una gran Compagnia, che durò quattr’anni
             (1847-’48-’49-’50) con grande fortuna, e della quale ecco l’elenco :</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img074.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img074.jpg"
+            />
           </figure>
           <label>ATTRICI</label>
           <p>
@@ -8310,7 +8441,9 @@
             Valle di Roma, poi nell’estate a Viterbo, e trovatosi inetto per mancanza di mezzi e di
             salute a continuar l’Impresa, si ritirò a Roma, ove morì nel ’67.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img075.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img075.jpg"
+            />
           </figure>
           <p>Di lui lasciò scritto il Colomberti :</p>
           <quote>
@@ -8417,7 +8550,9 @@
             scrive da Roma, ragguagliando il Benci e dell’Itinerario dell’anno e della Censura
             teatrale ecclesiastica…. Ne metto qui la parte più importante :</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img076.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img076.jpg"
+            />
           </figure>
           <quote>
             <p>Terminato il carnovale del 1832 finiscono i nostri impegni con il Mascherpa. Noi
@@ -8453,7 +8588,9 @@
             speciale di lode pel posto al quale, mercè l’amore dello studio e la svegliatezza
             dell’ingegno e una particolare attitudine, seppe salire come autor comico.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img077.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img077.jpg"
+            />
           </figure>
           <p>Il Dominici nacque il 1838 a Perugia dall’avvocato Francesco e dalla marchesa Emilia
             Bourbon del Monte Santa Maria. Fatto il liceo nella città nativa, fu da vicende
@@ -8617,7 +8754,9 @@
             rifar poi compagnia che condusse ora in Egitto, ora in Grecia, ora in Turchia, e con cui
             gira anch’oggi applaudito ne’teatri secondarj d’Italia.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img078.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img078.jpg"
+            />
           </figure>
           <p>Enrico Dominici, attore di intelligenza svegliata e pronta, aitante della persona, di
             voce flessibile e forte, di slancio tutto meridionale, che fu forse talvolta a scapito
@@ -8683,10 +8822,14 @@
             beneficiata in Osimo il 14 gennaio 1815, e che lo stesso Gallo compose per lei un
             sonetto. – Teodora Dondini morì in Livorno nell’anno 1866.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img079.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img079.jpg"
+            />
           </figure>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img080.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img080.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -8713,7 +8856,9 @@
             la prima volta il ruolo di <hi rend="i">caratterista e promiscuo</hi>, cedendo quel di
               <hi rend="i">brillante</hi> al fratello Achille.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img081.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img081.jpg"
+            />
           </figure>
           <p>Dopo quindici anni di glorioso capocomicato, si scritturò in Compagnia Giuseppe
             Peracchi, dalla quale uscì la quaresima del ’70 per lasciar definitivamente il teatro.
@@ -8794,7 +8939,9 @@
               rend="sc">Ada</hi>, ora in Collegio nel Friuli, e un secondo <hi rend="sc"
               >Cesarino</hi> che comincia a recitar con la madre e la sorella Ida a Corfù.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img082.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img082.jpg"
+            />
           </figure>
           <p>Povero Achille Dondini ! A lui avevano affibbiato il nomignolo di brindellone, educata
             modificazione di un altro più usitato e volgare, che ha significato di <hi rend="i"
@@ -8828,7 +8975,9 @@
               >comiche</hi>, ammirato dovunque, specialmente per correttezza e spontaneità di
             dizione.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img083.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img083.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -8841,7 +8990,9 @@
             età e come scritturato, e come capocomico, ora solo, ora in società, e in cui riuscì non
             men pregiato attore del fratello Achille.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img084.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img084.jpg"
+            />
           </figure>
           <p>Morì in Roma il 22 gennaio del ’97.</p>
         </div2>
@@ -8851,7 +9002,9 @@
             di <hi rend="i">amorosa</hi> con Mascherpa. La sua vita artistica passò colla famiglia.
             Morì del ’79 al manicomio di Siena.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img085.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img085.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -9033,7 +9186,9 @@
             questo del <hi rend="i">Lutin amoureux</hi>, lo stesso Scenario che la fece famosa in
             Italia, e ispirò il Sonetto che riproduco qui dietro, ridotto di un terzo.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img087.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img087.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -9080,7 +9235,9 @@
             valore artistico di Adolfo Drago, il giudizio apparso nel <hi rend="i">supplemento</hi>
             al n. 82 del <hi rend="i">Caffaro</hi>, 13 marzo 1891.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img088.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img088.jpg"
+            />
           </figure>
           <quote>
             <p>Il Drago fu, a giudizio di tutti, degno compagno di Salvini, e il grande attore fu il
@@ -9118,7 +9275,9 @@
             che insieme a lui recitò al <hi rend="i">Cocomero</hi> di Firenze le <hi rend="i">Ultime
               ore di Camoens</hi> di L. Fortis col migliore de’ successi.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img089.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img089.jpg"
+            />
           </figure>
           <p>Sposò il fratellastro Vincenzo Dreoni (ella era figlia del primo marito della madre di
             lui), attore di qualche nome per gli <hi rend="i">amorosi e tiranni giovani</hi>, ed
@@ -9209,9 +9368,12 @@
             regger la Compagnia, finchè umiliato, accorato, dovè ritirarsi a Padova, ove morì
             d’idropisia il 25 gennaio del’54.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img090.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img090.jpg"
+            />
           </figure>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img091.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img091.jpg]</p>
           <p>Una delle grandi prerogative di Luigi Duse, non più accordata, ch’io mi sappia, ad
             alcuno, fu quella di poter <pb n="803" xml:id="p803"/>negl’intervalli della commedia,
             uscire alla ribalta a sipario calato, e vestito com’era del costume teatrale, discorrer
@@ -9364,7 +9526,9 @@
               rend="i">Figlia del reggimento</hi>, in cui la moglie di Giorgio specialmente,
             l’Alceste Maggi, s’acquistò fama di attrice insuperata.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img092.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img092.jpg"
+            />
           </figure>
           <p>Morì improvvisamente a Chioggia nel ’61, colpito da apoplessia in teatro. Era una
             domenica d’estate, e s’era già rappresentato di giorno il <hi rend="i">Campanaro di
@@ -9387,7 +9551,9 @@
             dice il nipote Silvio di Padova, amato sopra tutti per la gentilezza dell’animo suo ;
             mori a Venezia l’Il gennaio del ’92 a settantadue anni.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img093.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img093.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -9401,7 +9567,9 @@
             della nipote Elisa, figliuola di Giorgio, e moglie di Vitaliano Vitaliani, in cui
             sostiene anch’oggi il ruolo di caratterista.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img094.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img094.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -9454,7 +9622,9 @@
             artistiche accoppiava un fisico attraentissimo, morì d’improvviso a Rovereto nel ’62 a
             soli trentotto anni.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img095.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img095.jpg"
+            />
           </figure>
           <p><pb n="810" xml:id="p810"/><hi rend="b">Duse-Vitaliani Elisa.</hi> Figlia della
             precedente e di Giorgio Duse, nacque a Padova il 1849. Fu i primi anni colla nonna Elisa
@@ -9468,7 +9638,9 @@
             piccola compagnia col figlio del capocomico Barnato. Compagnia che conduce tuttavia, e
             che le permise ognora di mantener con decorosa modestia la numerosa famiglia.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img096.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img096.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -9494,10 +9666,14 @@
             ella guardasse innanzi a sè e sopra di sè, come in aspettazione di qualcosa di alto, che
             non sapeva ben definire, ma di cui presentiva l’arrivo.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img097.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img097.jpg"
+            />
           </figure>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img098.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img098.jpg"
+            />
           </figure>
           <p>Cresciuta dunque nella miseria più squallida, priva fin anco dei pochi soldi bastevoli
             a gittarle addosso un cencio nero in memoria della madre morta, andata guitteggiando
@@ -9527,7 +9703,9 @@
             della sua grandezza. <hi rend="i">Seconda donna</hi> con Cesare Rossi, poi con lui <hi
               rend="i">prima</hi>, visse in pochi anni tutta una vita di trionfi e di glorie.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img099.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img099.jpg"
+            />
           </figure>
           <p>Ma fu la venuta a Torino di <hi rend="i">Sarah Bernhardt</hi>, che affermò, se non
             completò, la trasformazione artistica della Duse. Veneratrice, più che ammiratrice di
@@ -9628,7 +9806,9 @@
               correggendomi – A chi mi analizza…. – A chi conosco e ricordo come compagno d’arte – A
               persona che stimo. – E. Duse.</hi></p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img100.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img100.jpg"
+            />
           </figure>
           <p>Parole, che se rappresentano un mio legittimo orgoglio, rappresentano anche, e
             soprattutto, la modestia grande con cui la già grande artista accoglieva quelle
@@ -9788,7 +9968,8 @@
               e contrazione del volto…. È perciò forse che la grande artista riesce oggi
               insuperabile nella presentazione de’ personaggi a temperamento isterico.</p>
           </quote>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img101.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img101.jpg]</p>
           <p><pb n="820" xml:id="p820"/>Parole che su per giù si posson ripetere oggi che la
             Eleonora Duse afferra e soggioga i pubblici di ogni paese, a’ quali, per nove decimi, la
             lingua italiana è straniera.</p>
@@ -9821,7 +10002,8 @@
             aveva tappezzato il suo studio a Palazzo Borghese di trenta schizzi che personificavano
             i diversi moti dell’anima umana, uno dei quali io metto qui, a mio parere il
             migliore.</p>
-          <p><pb n="821" xml:id="p821"/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img102.jpg]</p>
+          <p><pb n="821" xml:id="p821"
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img102.jpg]</p>
           <p>I giudizi sulla grande artista di Rochefort, di Lemêtre, di Duquesnel, di Panzacchi,
             della Serao, di Boutet, di Piccini, di tutta la stampa italiana e forastiera, sono
             altrettanti cantici che non morranno forse : ma il monumento di gloria le venne certo da
@@ -9861,7 +10043,9 @@
               saliva il proromper continuo delle ovazioni.</p>
           </quote>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img103.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img103.jpg"
+            />
           </figure>
           <p>Tra le poesie ch’ella inspirò, non dispiacerà al lettore che io metta qui i quattro
             sonetti che la Contessa Lara pubblicò nel <hi rend="i">Corriere di Roma</hi> del
@@ -9879,7 +10063,8 @@
             <l>soffio di colpa, or procellosa e fiera,</l>
             <l>or supplice e sommessa : e sempre vile !</l>
           </quote>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img104.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img104.jpg]</p>
           <quote>
             <l><pb n="824" xml:id="p824"/>Fin che a ’l tradito che pur cerca oblio</l>
             <l>ne ’l segreto de ’l genio, a ’l saggio, a ’l buono,</l>
@@ -9959,7 +10144,8 @@
             poetico, carezzato, musicato del <hi rend="i">Sogno di un mattino di primavera</hi> al
             ruggito possente, scaturito dall’anima, della <hi rend="i">Moglie di
             Claudio</hi> !!!!!!</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img105.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img105.jpg]</p>
           <p>
             <hi rend="i">Fot. Guigoni e Bossi – Milano.</hi>
           </p>
@@ -9979,7 +10165,9 @@
               <hi rend="i">tener lo campo</hi> della scena in tutto il mondo. <hi rend="i">Quando
               che il vogliano ! !…</hi></p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img106.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img106.jpg"
+            />
           </figure>
           <p>Da una fotografia del conte Giuseppe Primoli.</p>
           <pb n="n.p."/>
@@ -9987,12 +10175,16 @@
       </div1>
       <div1>
         <figure>
-          <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img107.jpg"/>
+          <graphic
+            url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img107.jpg"
+          />
         </figure>
         <head type="main">[E-F]</head>
         <pb n="n.p."/>
         <figure>
-          <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img108.jpg"/>
+          <graphic
+            url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img108.jpg"
+          />
         </figure>
         <head>I COMICI ITALIANI</head>
         <div2 type="article">
@@ -10044,7 +10236,9 @@
             interpretazione nuova e inattesa dell’ <hi rend="i">Otello</hi>, che generò discussioni
             e polemiche non più udite, e, direi quasi, non più visti accapigliamenti.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img109.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img109.jpg"
+            />
           </figure>
           <quote>
             <p>………………………..</p>
@@ -10161,7 +10355,9 @@
               alla mattina come pensate di farla alla sera…. e la creazione è fatta.</p>
           </quote>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img110.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img110.jpg"
+            />
           </figure>
           <p>Le quali parole sono anche una riprova del come egli si venne acquistando la fama di
             direttore preclaro. Alcuni di quei comici, e ve ne han pur tanti, che lottan colla fame,
@@ -10234,9 +10430,12 @@
               juridici contrasti con raffinato acume a favore de’ suoi clienti vantaggiossamente
               affaticarsi.</hi></p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img111.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img111.jpg"
+            />
           </figure>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img112.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img112.jpg]</p>
         </div2>
         <div2 type="article">
           <p><label>Fabbretti-Giardini Carolina.</label> Nacque ad Ivrea il 1813 da parenti comici.
@@ -10630,7 +10829,9 @@
             del fratello Ettore sino al ’73, in cui, <pb n="848" xml:id="p848"/>pervenuta all’età di
             settantasei anni, si ritirò dalle scene, cessando di vivere due anni dopo.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img113.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img113.jpg"
+            />
           </figure>
           <p>Il Colomberti così narra le cagioni che la determinarono a entrar nell’arte :</p>
           <quote>
@@ -10670,7 +10871,9 @@
             inedite molte conferenze sulla letteratura drammatica delle varie nazioni, che rivelano
             la chiarezza del suo ingegno.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img114.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img114.jpg"
+            />
           </figure>
           <p>Egli ebbe tre figli sul teatro.</p>
           <p>La <hi rend="sc">Gemma</hi>, nata il 26 aprile 1843 in Livorno, <hi rend="i">attrice
@@ -10996,7 +11199,9 @@
             1828-29 e 30 con la società Tessari. Prepiani e Visetti : poi, abbandonato il teatro, si
             ritirò a Venezia, ove morì verso il 1840.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img115.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img115.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -11109,7 +11314,9 @@
             dell’artista Achille Cottin, e fu comico di molti pregi ; nelle così dette <hi rend="i"
               >macchiette</hi> ben pochi gli si accostarono.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img116.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img116.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -11235,7 +11442,9 @@
             potè compiere il triennio di contratto, perchè scritturata, mediante forte penale, nella
             Compagnia Nazionale di Roma per cinque anni.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img117.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img117.jpg"
+            />
           </figure>
           <p>Ancora : del ’76 recitò a Roma, con grande successo, la parte di <hi rend="i"
               >Elisabetta</hi> al fianco di Adelaide Ristori, <hi rend="i">Stuarda</hi> ; e,
@@ -11419,7 +11628,9 @@
             sua beneficiata applausi e onori di epigrafi varie, tra cui la seguente :</p>
           <quote>
             <p><figure>
-                <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img118.jpg"/>
+                <graphic
+                  url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img118.jpg"
+                />
               </figure><hi rend="sc">Antonio Feoli</hi> – Anconitano – Attore
               celebratissimo – pe’suoi modi cortesi caro ad ognuno – venne per la quarta volta – a
               dilettare i Tolentinati coll’arte sua – e da essi ottenne – onori e plausi – se non
@@ -11554,16 +11765,24 @@
             Pastizza, e gli altri personaggi da lui generati, troverebbero il lor posto accanto ai
             Don Abbondj e alle Perpetue.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img119.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img119.jpg"
+            />
           </figure>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img120.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img120.jpg"
+            />
           </figure>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img121.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img121.jpg"
+            />
           </figure>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img122.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img122.jpg"
+            />
           </figure>
           <p>Si è notata in genere la felicità e comicità delle frasi nuove e inattese passate ormai
             in proverbio, che han fatto il Ferravilla popolare. Certo : quando la signora dice
@@ -11597,10 +11816,14 @@
             compiacimento, di modestia e di orgoglio insieme, ch’egli fa ogni tanto al futuro nipote
             che gli è quasi alle spalle !</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img123.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img123.jpg"
+            />
           </figure>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img124.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img124.jpg"
+            />
           </figure>
           <p>E il Massinelli ! L’incomparabile, il vecchio e pur sempre giovine Massinelli ! Il modo
             di salire al posto, di scenderne, di ascoltar le parole sommesse dei compagni sulla
@@ -11633,10 +11856,14 @@
             dedicò l’Almanacco igienico popolare del 1895 con parole di caldissima lode, dalle quali
             per gentil concessione di lui riferisco le seguenti :</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img125.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img125.jpg"
+            />
           </figure>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img126.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img126.jpg"
+            />
           </figure>
           <quote>
             <p>……………….</p>
@@ -11668,7 +11895,9 @@
               gloria.</p>
           </quote>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img127.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img127.jpg"
+            />
           </figure>
           <p>E questa chiusa, questo giudizio dell’ illustre igienista ci richiama alla memoria un
             altro grande attore della commedia dell’arte del secolo <num>xviii</num>, Carlo
@@ -11697,7 +11926,8 @@
               l’accordo, col quale i due attori eseguivano e sentivano quella famosa scena.</hi>
             Venuto a tarda età, si stabilì in Torino, ov’ebbe il posto di rappresentante del Teatro
             Regio. Morì a Torre di Luserna.</p>
-          <p rend="noindent">[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img128.jpg]</p>
+          <p rend="noindent"
+            >[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img128.jpg]</p>
         </div2>
         <div2 type="article">
           <p><label>Ferro Alberto.</label> Attore assai pregiato sì per le <hi rend="i">parti
@@ -11734,7 +11964,9 @@
             di Alessandro Dumas con una affettuosa dedica. Morì dopo lunga e penosa malattia verso
             il ’70.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img129.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img129.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -12339,7 +12571,9 @@
             giustizia, e trovandosi in Paese forastiero senza danaro e col peso di due figliuoletti,
             dovè, se ben gentiluomo, darsi al mestiere del Ciarlatano, e vendere specifici. »</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img130.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img130.jpg"
+            />
           </figure>
           <p>Tiberio crebbe siffattamente ghiottone, che, non contento di quel che gli assegnava il
             padre, talvolta a soddisfar la sua gola, rubavagli le scatole d’orvietano, e rivendevale
@@ -12376,9 +12610,12 @@
             comico potesse mai desiderare, e dove, in breve tempo, diventò più che famigliare della
             Corte.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img131.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img131.jpg"
+            />
           </figure>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img132.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img132.jpg]</p>
           <p>Secondo il Costantini, la prima andata a Parigi di Scaramuccia sarebbe avvenuta il
             1660 : ma v’è errore evidente ; poichè dall’atto di battesimo di un suo figliuolo,
             pubblicato dallo Jal, risulta che il ’44 egli e la moglie eran già in Parigi. Questo
@@ -12389,7 +12626,9 @@
             Gueullette, e che si trova nella loro <hi rend="i">Istoria del Teatro italiano</hi>,
             risulta che il Fiorilli andò in Francia verso il 1640.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img133.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img133.jpg"
+            />
           </figure>
           <p>Un giorno Scaramuccia e Aurelia (Brigida Bianchi) eran nella camera del Delfino, poi
             Luigi XIV. Egli, che aveva circa due anni, era di pessimo umore, e nulla poteva calmar
@@ -12405,7 +12644,9 @@
             Luigi XIV, si godeva a richiamar quell’avventura d’infanzia alla memoria di Scaramuccia,
             molto ridendo alle boccaccie ch’ei soleva fargli, narrandola.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img134.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img134.jpg"
+            />
           </figure>
           <p>Sappiamo che il 14 novembre del ’45, si recitò nella sala del Petit-Bourbon la <hi
               rend="i">Finta pazza</hi> di Giulio Strozzi, già rappresentata il ’41 al Teatro
@@ -12573,7 +12814,8 @@
           <p>A dare un saggio della scrittura fiorilliana, metto qui la lettera con cui egli
             annunzia la sua andata in Italia, e precisamente a Firenze, in casa sua, comunicatami
             dal cav. Azzolini.</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img135.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img135.jpg]</p>
           <p><pb n="900" xml:id="p900"/>Il ’69 lo troviamo in un teatro pubblico di Roma : e andava
             ogni tanto, con tutta la compagnia, a recitare dalla Regina di Svezia. Una sera, dopo
             rappresentate con grande successo le <hi rend="i">Gelosie di Scaramuccia</hi>, Essa gli
@@ -12609,7 +12851,8 @@
             Medici, le abbiamo in queste importantissime lettere da lui indirizzate all’abate Gondi,
             segretario del medesimo Gran Duca a Firenze, tratte dall’Archivio di Stato di Firenze
             (F. M. 4797).</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img136.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img136.jpg]</p>
           <quote>
             <p>27 agosto 1685. – Tiberio Fiorilli ha tanto fatto che gli è riuscito avere una
               lettera di <hi rend="i">chacet</hi> dal Re per cavare la sua douna dal Refugio e l’ ha
@@ -12981,7 +13224,9 @@
             il primo, come nelle graziose figure dell’ Herisset, e nelle incomparabili scene del
             Gillot, di cui ho messo qui i preziosi frontespizi.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img137.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img137.jpg"
+            />
           </figure>
           <p>Quanto al tipo teatrale, di lui dice Luigi Riccoboni (<hi rend="i">op. cit.</hi>) :</p>
           <quote>
@@ -13000,7 +13245,9 @@
             Porbus (1572) rappresentante un ballo alla Corte di Carlo IX, che il Duca di Guisa (il
             Balafré) vi era in costume di Scaramuccia.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img138.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img138.jpg"
+            />
           </figure>
           <p>Del valore del nostro artista infinite sono le testimonianze : comincio da quella di
             Evaristo Gherardi, che mi par s’abbia a ritener la migliore ; ed ecco perchè : il
@@ -13091,7 +13338,9 @@
             ei le faceva condurre, ritornò a Firenze, ove morì non molto prima, pare, del 1688, data
             delle seconde nozze di Scaramuccia. Testimonianza dell’ingegno di lei è il seguente
             foglio volante che qui riproduco ridotto della metà.<figure>
-              <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img139.jpg"/>
+              <graphic
+                url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img139.jpg"
+              />
             </figure></p>
         </div2>
         <div2 type="article">
@@ -13287,7 +13536,9 @@
             teatro ? No ! no ! <pb n="919" xml:id="p919"/>È molto meglio ch’ella sia, com’ è
             infatti, una modesta e buona madre di famiglia. Essa non è conosciuta, io lo fui troppo,
             e non pertanto eccoci cadute nel medesimo obblio ! » <figure>
-              <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img140.jpg"/>
+              <graphic
+                url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img140.jpg"
+              />
             </figure></p>
           <p>Molte son le testimonianze che abbiamo del valore di lei ; fra cui quella del Sografi,
             che nella prefazione alle sue <hi rend="i">Inconvenienze teatrali</hi> (Padova, Bettoni,
@@ -13424,7 +13675,9 @@
             che recitò a Genova il 1614, e divenuto poi famoso colla maschera di <hi rend="i"
               >Trappolino.</hi>
             <figure>
-              <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img141.jpg"/>
+              <graphic
+                url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img141.jpg"
+              />
             </figure></p>
           <p>Questa del ’32 è l’ultima data delle pubblicazioni del Fiorillo a saputa nostra : e
             probabilmente non molto egli dovè sopravvivere, almeno artisticamente, poichè, dato che
@@ -13494,7 +13747,9 @@
           <p>Ed ora metto qui la terza e quarta ottava, che traggo da un suo poemetto, non citato da
             alcuno, ch’io mi sappia, il quale <pb n="926" xml:id="p926"/>ci dà un’ idea dell’
             ingegno poetico di lui, e del tipo ch’ egli rappresentava in teatro. <figure>
-              <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img142.jpg"/>
+              <graphic
+                url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img142.jpg"
+              />
             </figure></p>
           <p>Il titolo dell’opera (Miscellanea 2ª TAB. I. N. III. 267 dell’ Università di Bologna) è
             IL MONDO | <hi rend="sc">conquistato</hi> | <hi rend="sc">di Silvio Fiorillo</hi> | <hi
@@ -13643,7 +13898,9 @@
             <p>Di V. A. S.<hi rend="sup">ma</hi></p>
           </quote>
           <p>Roma li 29 luglio 1651. <figure>
-              <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img143.jpg"/>
+              <graphic
+                url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img143.jpg"
+              />
             </figure></p>
           <p>Infine la lettera seguente dell’Archivio di Modena ci dice com’ella fosse a Torino
             l’agosto del ’54, tornata di fresco da Parigi.</p>
@@ -13757,7 +14014,9 @@
           <p>La Compagnia di Florindo fu quella con cui viaggiò Carlo Goldoni il 1720 da Rimini a
             Chioggia. Val ben la pena che io qui ne riferisca la descrizione che ispirò al De Rossi
             Brugnone il quadro che è alla Galleria moderna di Firenze, e che qui riproduco. <figure>
-              <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img144.jpg"/>
+              <graphic
+                url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img144.jpg"
+              />
             </figure></p>
           <p>I miei Comici non erano quelli di Scaron ; ma l’unione però di questa truppa imbarcata
             presentava un colpo d’occhio piacevole.</p>
@@ -14178,9 +14437,10 @@
             sonetto di Paolo Costa per la Clementina Cazzola ; « Di che loco beato…. » (V.) ; e
             l’appassionato Braccio Bracci pubblicava in Livorno la primavera del ’50 un inno in
             versi sciolti, tra’ quali i seguenti :<figure>
-              <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img145.jpg"/>
+              <graphic
+                url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img145.jpg"
+              />
             </figure></p>
-
           <quote>
             <l>………….</l>
             <l>Ove mi traggi ? In qual parte sublime</l>
@@ -14292,7 +14552,9 @@
             a’rimpianti ! » E la esclamazione calda e spontanea mi dichiarò poi enumerando col
             maggior entusiasmo <pb n="950" xml:id="p950"/>tutte le affettuose cure morali e
             materiali di cui egli soleva senza tregua colmarla. <figure>
-              <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img146.jpg"/>
+              <graphic
+                url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img146.jpg"
+              />
             </figure></p>
           <p>Letizia Fusarini-Bargellini morì a Livorno la mattina del 19 marzo 1897.</p>
           <p>A titolo di curiosità, metto qui l’invito al pubblico modenese per la sera di martedì
@@ -14370,7 +14632,9 @@
             proteggetela, e siate certi che nel di lei cuore resteranno scolpiti i vostri nomi, la
             vostra patria, i bene ficj vostri. </p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img147.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img147.jpg"
+            />
           </figure>
           <pb n="n.p."/>
         </div2>
@@ -14378,11 +14642,15 @@
       <div1>
         <head type="main">[G]</head>
         <figure>
-          <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img148.jpg"/>
+          <graphic
+            url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img148.jpg"
+          />
         </figure>
         <pb n="n.p."/>
         <figure>
-          <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img149.jpg"/>
+          <graphic
+            url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img149.jpg"
+          />
         </figure>
         <head>I COMICI ITALIANI</head>
         <div2 type="article">
@@ -14430,7 +14698,8 @@
               12<hi rend="sup">°</hi>, segnato 35 nella Miscellanea 267 Tab. I, N. III, stampato <hi
               rend="i">In Venetia, et poi in Treuigi, appresso Angelo Righettini</hi>, <num>m.
               dc. xiii</num>, <hi rend="i">con licenza de’ Superiori</hi> :</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img150.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img150.jpg]</p>
           <p>
             <pb n="956"/>
             <hi rend="i">Maridazzo di M. Zan</hi>
@@ -14629,7 +14898,8 @@
             <l>L’ultima fa Scappin di sue cascate,</l>
             <l>Di sue cascate.</l>
           </quote>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img151.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img151.jpg]</p>
           <p>( <hi rend="sc">Da Iacopo Callot</hi>).</p>
           <p>La canzone ci dà inoltre un elenco dei comici disperati al cospetto di Scappino
             morente. Essi sono : La moglie <hi rend="i">Spinetta</hi> e la figlia <hi rend="i"
@@ -14667,7 +14937,9 @@
             <l>Più assai, ch’il finto, e torre ogni conforto. (?)</l>
           </quote>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img152.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img152.jpg"
+            />
           </figure>
           <p>(Dai <hi rend="i">Balli di Sfessania</hi> di Iacopo Callot).</p>
           <quote>
@@ -14980,7 +15252,9 @@
             Firenze, sposo in seconde nozze della madre di Gigino Gagliardi, e vivendo pur oggi a
             ottant’ anni vegeto e robusto.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img153.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img153.jpg"
+            />
           </figure>
           <p>Ma non tanto come artista egli merita qui una menzione particolare, quanto come colui
             al quale accadder fatti straordinarj, a mala pena credibili. Egli entrò, si può dir,
@@ -15167,7 +15441,9 @@
             poi compagnia del ’91, in cui la Fausta assunse per la prima volta il ruolo di <hi
               rend="i">prima attrice assoluta</hi>, che non abbandonò più mai.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img154.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img154.jpg"
+            />
           </figure>
           <p>L’esilità della persona e la tenuità dei mezzi accoppiate a una persistente sfortuna
             non le permisero di esser prima in compagnie di primo ordine ; ma la correttezza della
@@ -15207,7 +15483,9 @@
             abbandonerà presto la prosa per darsi all’arte lirica, nella quale ha già dato frequenti
             prove di buona riuscita.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img155.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img155.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -15221,7 +15499,9 @@
             anche in piccolissime parti, ella potè sempre mostrare il valor suo, e il grado d’arte a
             cui si troverebbe oggi, se data a ruoli di maggiore importanza.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img156.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img156.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -15252,7 +15532,9 @@
               >Giornaletto ragionato teatrale</hi> d’allora così lasciò scritto :</p>
           <quote>
             <p><figure>
-                <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img157.jpg"/>
+                <graphic
+                  url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img157.jpg"
+                />
               </figure></p>
             <p>Quest’attore, figlio della rinomata signora Maddalena Gallina che nell’arte comica
               lasciò si onorevole ricordanza e che ora vive unitamente al marito ne’ proprj beni in
@@ -15308,7 +15590,9 @@
             caricaturista in un giornale quotidiano de’ più rinomati, con un forte onorario,
             offertogli da un deputato di quel parlamento.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img158.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img158.jpg"
+            />
           </figure>
           <p>La via del teatro ebbe il sopravvento nell’animo di lui ; ma oggi forse il comico
             ripensa Rio Janeiro e Washington. Il Galvani è prestantissimo della persona e ricco
@@ -15519,7 +15803,8 @@
               compagnia, fece chiara e gagliarda protesta a’ compagni, che nol levassero d’Italia,
               se non avevano animo risoluto di recitare modestamente.</p>
           </quote>
-          <p><pb n="985" xml:id="p985"/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img159.jpg]</p>
+          <p><pb n="985" xml:id="p985"
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img159.jpg]</p>
           <quote>
             <p>Questo buon comico aveva un figliuolo unico, a cui propose con affettuosa esortazione
               la fuga dalla vita pericolosa secolare, ed il ritiramento alla religiosa, ed ebbene
@@ -15738,7 +16023,9 @@
             compagnia drammatica, dagli allestimenti scenici non più veduti, che doveva sì presto
             condurlo a miseranda fine.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img160.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img160.jpg"
+            />
           </figure>
           <p>Si parlò di mente squilibrata : forse. Le spese da lui fatte furon chiamate pazze :
             forse. Per una compagnia di giro in Italia, certo. Gli amici sui quali confidò
@@ -15786,7 +16073,9 @@
             questi ultimi tempi scrisse <hi rend="i">Un biglietto d’andata e ritorno e
             Cuore.</hi></p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img161.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img161.jpg"
+            />
           </figure>
           <p>Arturo Garzes non è forse mai stato, come artista, nè un brillante, nè un primo attor
             giovane nello stretto senso della parola ; ma nel più largo senso, un eccellente comico,
@@ -15851,7 +16140,9 @@
             />del Favre. Angelo Brofferio nel <hi rend="i">Messaggere torinese</hi> lamentava così
             il tristissimo avvenimento :</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img162.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img162.jpg"
+            />
           </figure>
           <quote>
             <p>Una gravissima perdita fece ne’scorsi giorni il Teatro drammatico italiano nell’
@@ -15988,7 +16279,9 @@
             Amelia Prina di Brescia, che vediam con esso il ’62 e ’66 a Tolentino, e che andò poi
             sposa all’avvocato Polveroni.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img163.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img163.jpg"
+            />
           </figure>
           <p>Non solamente fu il Gattinelli attore di gran pregio, ma anche pregiato autore delle
             commedie : <hi rend="i">Vittorio Alfieri e Luisa d’Albany</hi>, rappresentata l’ultimo
@@ -16045,7 +16338,9 @@
             compagnia del quale morì, a Rovigno d’Istria, <pb n="1002" xml:id="p1002"/>il
             12 gennaio 1859, assistito amorosamente dai fratelli d’arte, e dal figlio Luigi.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img164.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img164.jpg"
+            />
           </figure>
           <p>Parte del suo tempo impiegò anche in tradur commedie dal francese (come s’è visto
             all’articolo del padre), e delle sue traduzioni, alcune figuran anch’ oggi ne’ repertori
@@ -16066,7 +16361,9 @@
             cui compagnia morì a Bologna il 13 agosto 1890 colpito da pleuro-pneumonite doppia
             acutissima.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img165.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img165.jpg"
+            />
           </figure>
           <p>Vivo, s’acquistò con la sua operosità e integrità, l’amore dei compagni, le lodi del
             pubblico e della critica ; morto, ebbe tributo di lagrime da quanti lo conobbero.</p>
@@ -16077,7 +16374,9 @@
             10 gennaio ’61, da cui ebbe il figliuolo Angelo, e una bimba morta a Smirne a cinque
             anni ; e in seconde nozze Amalia Manzoni di Firenze, da cui non ebbe figli.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img166.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img166.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -16191,7 +16490,8 @@
             <l>A ce spectacle va court sans cesse,</l>
             <l>et pour le voir chacun s’empresse.</l>
           </quote>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img167.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img167.jpg]</p>
           <p>Suonava ancora con assai maestria la chitarra, il che sappiamo da questi quattro versi
             che son sotto al ritratto di Bonnart che riproduco :</p>
           <quote>
@@ -16248,7 +16548,9 @@
             una unione illegittima con certa Maria Maddalena Poignard, un primo figliuolo per nome
             Fiorentino Giacinto.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img168.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img168.jpg"
+            />
           </figure>
           <p>Per una rissa accaduta alla Comedia italiana fra il Gherardi e il Costantini, vedi
             Costantini Gio. Battista. Il Campardon riferisce un altro documento a proposito del <hi
@@ -16303,7 +16605,9 @@
               tutto il movimento drammatico dall’altro richiesto, di tal maniera da far credere agli
               ascoltatori che tutto sia stato anticipatamente combinato.</p>
             <p><figure>
-                <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img169.jpg"/>
+                <graphic
+                  url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img169.jpg"
+                />
               </figure></p>
           </quote>
           <p>Il Gherardi aveva pubblicato un primo volumetto nel 1694, la cui buona accoglienza
@@ -16326,7 +16630,9 @@
             probabilmente del Bonnart, importantissime per la storia del costume teatrale dei nostri
             comici sullo scorcio del secolo XVII.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img170.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img170.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -16345,7 +16651,9 @@
             triennio, dopo il quale abbandonò il teatro per andare a sposarsi con un signore di
             Padova, ove morì nel 1860.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img171.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img171.jpg"
+            />
           </figure>
           <p>Fra le opere, in cui la Gherardi si palesò artista delle più pregiate, son da notarsi
               gl’<hi rend="i">Innamorati</hi>, le <hi rend="i">Zelinde</hi> e la <hi rend="i"
@@ -16370,7 +16678,9 @@
             della Reale di Napoli, e dopo una società con Gaetano Nardelli, fe’ compagnia da
             solo.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img172.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img172.jpg"
+            />
           </figure>
           <p>Lasciata l’arte si diede a fare il maestro di recitazione ; e tale lo vediamo il ’46,
             accademico onorario de’ filodrammatici di Siena, nel qual tempo diede alle stampe co’
@@ -16383,7 +16693,8 @@
               xml:id="p1016"/>recitava <hi rend="i">la quadragesima</hi> del ’32 a Livorno nell’ I.
             e R. Teatro Carlo Lodovico ; nel qual tempo le fu dedicato da A. C. (Angelo Consigli ?)
             il seguente sonetto :</p>
-          <p rend="noindent">[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img173.jpg]</p>
+          <p rend="noindent"
+            >[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img173.jpg]</p>
           <quote>
             <l>Fra due di loro che in Parnaso han seggio</l>
             <l>per donna egregia fier contrasto nacque ;</l>
@@ -16407,7 +16718,9 @@
             parole, che dicon chiaro e bene le lodi del povero morto :</p>
           <quote>
             <p><figure>
-                <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img174.jpg"/>
+                <graphic
+                  url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img174.jpg"
+                />
               </figure></p>
             <p>Spesso, ahi troppo spesso, ebbi a dire l’ultime parole d’addio sul feretro di
               carissimi amici ; ma non fu mai pietà simile a questa.</p>
@@ -16499,7 +16812,9 @@
             una delle maggiori stelle, dovè in pochi dì soccombere a Genova, dopo tornata
             dall’America, il 4 gennaio del’ 90. – Era nata nel’ 54.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img175.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img175.jpg"
+            />
           </figure>
           <p>Fra molte cose belle e gentili che improvvisò Felice Cavallotti sul feretro di lei,
             queste bellissime riferisco, le qualisintetizzano, come niuno potrebbe meglio, i grandi
@@ -16549,7 +16864,9 @@
             attenuato dell’artesua la fecero, al fianco di tanto maestro, coprir degnamente il suo
             posto, festeggiata dai pubblici vari d’Italia e forestieri.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img176.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img176.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -16573,7 +16890,9 @@
             buona famiglia, e un po’ in là cogli anni, come ci avvertono i fratelli Parfait <hi
               rend="i">(op. cit.)</hi>.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img177.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img177.jpg"
+            />
           </figure>
           <p>Qual posto occupasse Giuseppe Geratoni nella Commedia italiana non è facile
             determinare. La poca importanza che si dà alle scarsissime notizie di lui, parmi in
@@ -16604,7 +16923,9 @@
             diligenza ch’egli metteva nello studio delle singole parti, in cui nè aggiungeva, nè
             toglieva mai sillaba.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img178.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img178.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -16712,7 +17033,8 @@
             Zanni, ossia : un padrone e un servo), si recarono a quella Corte per rallegrare co’
             dialoghi, colle canzoncine, cogl’istrumenti, colle capriole, quegli alti personaggi che
             ne andavan per la gran gioia in visibilio.</p>
-          <p><pb n="n.p."/>[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img179.jpg]</p>
+          <p><pb n="n.p."
+            />[http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img179.jpg]</p>
           <p>Quanto alla paga annuale, sappiamo di due a cui furono assegnati 130 fiorini : al
             nutrimento, vestiario e alloggio provvedeva la Corte. Uno di essi era designato quale
               <hi rend="i">Zane il saltatore</hi>, l’altro, col suo vero nome di <hi rend="i"
@@ -16750,7 +17072,9 @@
               Sera</hi> del 13-14 aprile 1890, come quelle che rispecchiano fedelmente il sentimento
             del pubblico e della critica verso la forte e originale artista :</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img180.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img180.jpg"
+            />
           </figure>
           <quote>
             <p>Bastava che la Giovanelli si mostrasse sulla scena perchè il teatro si mettesse di
@@ -16814,7 +17138,9 @@
             passione, con una slancio incredibili. Entrò in una gabbia di leoni del circo Bidel, fu
             istruttore drammatico dei matti alla Senavra, ed è astemio.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img181.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img181.jpg"
+            />
           </figure>
           <p>Al pari del francese Delaunay, fa ancor l’amoroso a circa sessant’anni ; talvolta
             ancora si avventura al salto mortale. Noi gli auguriamo di non esser secondo al collega
@@ -16898,7 +17224,9 @@
             tuttavia. Per invito del Comitato drammatico dell’ Esposizione di Torino (anno 1898)
             ella recitò a quel teatro Carignano il <hi rend="i">Pater</hi> di Coppée.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img182.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img182.jpg"
+            />
           </figure>
           <p>Come artista, la Glech deve molto agli ammaestramenti di Giuseppe Pietriboni, col quale
             mosse ufficialmente i primi passi nell’ arte, diventando una delle più gradite <hi
@@ -16996,7 +17324,9 @@
             parente del marito, la celebre Bertinotti, non l’avesse ricoverata presso di sè e
             degnamente mantenuta fino alla sua morte che avvenne in Modena verso il 1830.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img183.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img183.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -17006,7 +17336,9 @@
             sua morte. Scrive di lui il Costetti :</p>
           <quote>
             <p><figure>
-                <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img184.jpg"/>
+                <graphic
+                  url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img184.jpg"
+                />
               </figure></p>
             <p>Attore di gran prestanza, dotato di voce squillante e armoniosa e di un temperamento
               artistico d’ assai vigore….. riusciva ammirevole negli impeti della tragedia, e nelle
@@ -17065,7 +17397,9 @@
               Italia un’attrice è arrivata…. parte.</p>
           </quote>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img185.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img185.jpg"
+            />
           </figure>
           <p>E più tardi :</p>
           <quote>
@@ -17128,7 +17462,9 @@
             società, durante la quale giova credere ch’ella non sarà più una speranza e una
             promessa, ma una realtà. Ed è tutto.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img186.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img186.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -17279,7 +17615,9 @@
             pianta il posto alla tornata. La Gritti partì poi, si disse, per Parigi, nè se n’ebber
             più nuove.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img187.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img187.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -17321,10 +17659,14 @@
             Compagnia Andò ; posto che ha saputo conquistare, sopr’a tutto con la recitazione
             nitida, elegante e spontanea.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img188.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img188.jpg"
+            />
           </figure>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img189.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img189.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -17375,10 +17717,14 @@
             grandezza, la letteratura il suo debole. « I miei cari libri — ella scrive — nell’
             assenza de’corteggiatori, rappresentano gli amici della mia vita intima solitaria !
             Amici fedeli che seppi e volli preparare alla mia vecchiaja ! » <figure>
-              <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img190.jpg"/>
+              <graphic
+                url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img190.jpg"
+              />
             </figure></p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img191.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img191.jpg"
+            />
           </figure>
         </div2>
       </div1>
@@ -17386,11 +17732,15 @@
         <pb n="n.p."/>
         <head type="main">[I-H-K]</head>
         <figure>
-          <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img192.jpg"/>
+          <graphic
+            url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img192.jpg"
+          />
         </figure>
         <pb n="n.p."/>
         <figure>
-          <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img193.jpg"/>
+          <graphic
+            url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img193.jpg"
+          />
         </figure>
         <head>I COMICI ITALIANI</head>
         <div2 type="article">
@@ -17406,7 +17756,9 @@
             forse delle nostre attrici, è anche fra le più innamorate dell’arte sua, nella quale
             mostra certe attitudini, specialmente per le parti comiche.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img194.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img194.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -17509,7 +17861,9 @@
               <hi rend="i">Mirra</hi> dell’Alfieri, colla quale aveva iniziato la sua gloriosa
             carriera.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img195.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img195.jpg"
+            />
           </figure>
           <p>Morì la notte dal 23 al 24 marzo di quello stesso anno, improvvisamente, e s’ebbe in
             Santa Croce esequie solenni. La sua salma riposa nell’ esterno della chiesetta di S.
@@ -17544,7 +17898,9 @@
             spontaneo, universale di applausi mosse dal popolo maravigliato, e noi, ancora commossi,
             ricordiamo quel momento, e le potenti emozioni, onde fummo scossi in quella sera. »</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img196.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img196.jpg"
+            />
           </figure>
           <p>Le opere che nella non breve <hi rend="i">carriera</hi> della forte artista, si disser
             suoi <hi rend="i">cavalli di battaglia</hi>, furon : l’<hi rend="i">Antigone</hi> e la
@@ -17734,7 +18090,9 @@
             invidia delle compagne. Ma vinse : un po’ per i pregi artistici di spontaneità, di
             grazia, di eleganza, molto per la bellezza maravigliosa.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img197.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img197.jpg"
+            />
           </figure>
           <p>Diventò socia del Ferravilla, cooperando validamente e in un modestamente alla riuscita
             ottima della compagnia. Si cimentò in battaglie d’arte accanite, or recitando la <hi
@@ -17746,7 +18104,9 @@
             traccia dell’antico valore. Morì a Genova, dopo lunga malattia, il 31 gennaio del
             ’99.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img198.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img198.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -17789,7 +18149,9 @@
             il figliuolo Achille, modesto attore e specchiatissimo amministratore delle Compagnie
             Morelli, Bellotti-Bon, e Marini, morto a Firenze il 22 giugno del ’98.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img199.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img199.jpg"
+            />
           </figure>
           <p>Dei meriti di Anna Job, <hi rend="i">prima donna</hi>, possono far fede le compagnie
             primarie nelle quali essa fu : e fors’anco maggiore ne sarebbe stata la riputazione
@@ -17964,7 +18326,9 @@
             <l>Inculto spositor volava il verso.</l>
           </quote>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img200.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img200.jpg"
+            />
           </figure>
         </div2>
         <div2 type="article">
@@ -17983,10 +18347,14 @@
             Carrera, in cui, al terzo atto, a detta dello stesso autore, non ebbe chi lo superasse,
             nè chi gli si accostasse.</p>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img201.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img201.jpg"
+            />
           </figure>
           <figure>
-            <graphic url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img202.jpg"/>
+            <graphic
+              url="img/http://obvil.github.io/historiographie-theatre/images/rasi_comici-italiani-01-02_1897_img202.jpg"
+            />
           </figure>
         </div2>
       </div1>

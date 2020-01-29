@@ -29,12 +29,12 @@
     <idno>http://obvil.sorbonne-universite.fr/corpus/historiographie-theatre/napoli-signorelli_storia-critica-ed-3-02_1813</idno>
     <availability status="restricted">
      <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-      <p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence
-       « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+      <p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+       Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
       <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les
        bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
-       par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas
-       d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+       par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas
+       d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
       <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de
        cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de
        la ressource.</p>
@@ -47,10 +47,11 @@
     </availability>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Pietro Napoli Signorelli, <hi rend="i">Storia critica dei teatri antichi e moderni divisa
-      in dieci tomi</hi>, tomo II, <edition>[3e éd.]</edition>, <pubPlace>Napoli</pubPlace>, presso
-      <publisher>Vincenzo Orsino</publisher>, <date>1813</date>, 249 p. PDF : <ref
-      target="https://books.google.fr/books?vid=IBNF:CF990964640">Google</ref>.</bibl>
+    <bibl><author>Pietro Napoli Signorelli</author>, <title><hi rend="i">Storia critica dei teatri
+       antichi e moderni divisa in dieci tomi</hi></title>, tomo II, <edition>[3e éd.]</edition>,
+      <pubPlace>Napoli</pubPlace>, presso <publisher>Vincenzo Orsino</publisher>, <date>1813</date>,
+     249 p. PDF : <ref target="https://books.google.fr/books?vid=IBNF:CF990964640"
+     >Google</ref>.</bibl>
    </sourceDesc>
   </fileDesc>
   <profileDesc>
@@ -2386,15 +2387,15 @@
      </quote>
      <p>In simili bellissime reliquie di Menandro ammirasi una locuzione nobile si che non eccede la
       comica mediocrità, e vi si sente quel grazioso sapore che stuzzica il gusto e non amareggia il
-       palato<note n="a" place="bottom">Di lui scrisse Vellejo Pater colo: <quote><hi rend="i">imaniebat,
-        neque imitandum relinguebat</hi></quote>.</note> Con perdita irreparabile della poesia
-      rappresentativa niuna di tante sue favole potè salvarsi intera dal tempo distruttore e da’
-      preti Greci del Basso Impero. Ma perchè le <pb n="168" xml:id="p168"/>mirabili sue dipinture
-      della vita civile e le preziose sue riflessioni filosofiche riferivansi a gara nelle migliori
-      opere de’ sacri scrittori Cristiani, non che de’ più illustri filosofi gentili, se ne sono
-      conservati molti versi. Il più onorevole testimonio del merito di questo Comico filosofo, si è
-      il verso di una sua commedia che leggesi nella I epistola dell’Apostolo san Paolo a’ Corintii.
-      Or chiunque aspiri a riuscire nella commedia nobile, cerchi di approfittarsi delle
+       palato<note n="a" place="bottom">Di lui scrisse Vellejo Pater colo: <quote><hi rend="i"
+         >imaniebat, neque imitandum relinguebat</hi></quote>.</note> Con perdita irreparabile della
+      poesia rappresentativa niuna di tante sue favole potè salvarsi intera dal tempo distruttore e
+      da’ preti Greci del Basso Impero. Ma perchè le <pb n="168" xml:id="p168"/>mirabili sue
+      dipinture della vita civile e le preziose sue riflessioni filosofiche riferivansi a gara nelle
+      migliori opere de’ sacri scrittori Cristiani, non che de’ più illustri filosofi gentili, se ne
+      sono conservati molti versi. Il più onorevole testimonio del merito di questo Comico filosofo,
+      si è il verso di una sua commedia che leggesi nella I epistola dell’Apostolo san Paolo a’
+      Corintii. Or chiunque aspiri a riuscire nella commedia nobile, cerchi di approfittarsi delle
       incomparabili reliquie che ne abbiamo, e vi apprenderà L’arte di persuadere da oratore, d’
       istruir da filosofo e di dilettar da poeta comico<note n="a" place="bottom">Giova vedere la
         <hi rend="i">Comparazione di Menandro e di Aristofane</hi> fatta da Plutarco, ed anche il X
@@ -2418,8 +2419,8 @@
       imitarla:</p>
      <quote>
       <l rend="i">                Ubbidienti</l>
-      <l rend="i">Fian le parole, ove la merce abbondi<note n="a" place="bottom"
-         ><p>Metastasio traducendo il verso di Orazio</p>
+      <l rend="i">Fian le parole, ove la merce abbondi<note n="a" place="bottom"><p>Metastasio
+         traducendo il verso di Orazio</p>
         <quote><l><hi rend="i">Verbaque provisam rem non invita
        sequentur.</hi></l></quote></note>.</l></quote>
      <p>In questa guisa appunto L’intendeva Menandro, la delizia de’ filosofi, L’oggetto di tanti
@@ -2429,28 +2430,28 @@
      <pb n="171" xml:id="p171"/>
      <head type="sur">CAPO XV. </head>
      <head type="main"><hi rend="i">Satiri: Ilarodie: Magodie: Parodie: Mimi: Pantomimi.</hi></head>
-     <p>Oltre alle favole tragiche e comiche
-      coltivarono i Greci altre specie di drammi che nomaronsi diversamente. I <hi rend="i">Satiri</hi>, L’<hi rend="i">Ilarodia</hi>, la <hi rend="i">Magodia</hi>, la
-       <hi rend="i">Parodia</hi>, i <hi rend="i">Mimi</hi>, i <hi rend="i">Pantomimi</hi>, i <hi
-       rend="i">Neurospasti</hi>, appartengono alla scena.</p>
+     <p>Oltre alle favole tragiche e comiche coltivarono i Greci altre specie di drammi che
+      nomaronsi diversamente. I <hi rend="i">Satiri</hi>, L’<hi rend="i">Ilarodia</hi>, la <hi
+       rend="i">Magodia</hi>, la <hi rend="i">Parodia</hi>, i <hi rend="i">Mimi</hi>, i <hi rend="i"
+       >Pantomimi</hi>, i <hi rend="i">Neurospasti</hi>, appartengono alla scena.</p>
      <div3 type="section" xml:id="libro-1_capo-15_sezione-1">
       <head type="sur">I. </head>
       <head type="main"><hi rend="i">Satiri.</hi></head>
-      <p>Chiare tracce dell’antica origine della poesia drammatica osservansi in
-       quel dramma che da’ Satiri trasse il nome. Sileno e i Satiri che formavano il corteggio di
-       Bacco, erano i naturali interlocutori della poesia <hi rend="i">satiresca</hi> che
-       partecipava del tragico, del boffonesco e del pastorale. I poeti tragici più illustri in essa
-       dovettero esercitarsi, <pb n="172" xml:id="p172"/>perchè la <hi rend="i">Tetralogia</hi>
-       colla quale si aspirava alla corona teatrale, conteneva, come si è detto, tre componimenti
-       tragici ed un satirico. Tralle favole di Euripide citansi otto drammi satirici; ma il solo
-        <hi rend="i">Ciclope</hi> ci è pervenuto intero. A chi non potesse consultar L’originale, o
-       increscessero le versioni latine letterali, o non avesse alla mano L’italiana del dottissimo
-       Anton Maria Salvini, presentiamo L’annessa analisi di questa favola, di cui Omero fornì l’
-       argomento nel IX libro dell’<hi rend="i">Odissea</hi>. Spinto Ulisse da una tempesta in
-       Sicilia non lungi dalla spelonca del Ciclope Polifemo, per salvarsi dalle di lui mani, dopo
-       che ha perduti alcuni compagni, lo sbalordisce e L’addormenta con dargli a bere del vino
-       generoso, L’accieca, e fugge con tutto il Coro de’ Satiri, i quali intervengono nella favola
-       con Sileno, Ulisse e Polifemo.</p>
+      <p>Chiare tracce dell’antica origine della poesia drammatica osservansi in quel dramma che da’
+       Satiri trasse il nome. Sileno e i Satiri che formavano il corteggio di Bacco, erano i
+       naturali interlocutori della poesia <hi rend="i">satiresca</hi> che partecipava del tragico,
+       del boffonesco e del pastorale. I poeti tragici più illustri in essa dovettero esercitarsi,
+        <pb n="172" xml:id="p172"/>perchè la <hi rend="i">Tetralogia</hi> colla quale si aspirava
+       alla corona teatrale, conteneva, come si è detto, tre componimenti tragici ed un satirico.
+       Tralle favole di Euripide citansi otto drammi satirici; ma il solo <hi rend="i">Ciclope</hi>
+       ci è pervenuto intero. A chi non potesse consultar L’originale, o increscessero le versioni
+       latine letterali, o non avesse alla mano L’italiana del dottissimo Anton Maria Salvini,
+       presentiamo L’annessa analisi di questa favola, di cui Omero fornì l’ argomento nel IX libro
+        dell’<hi rend="i">Odissea</hi>. Spinto Ulisse da una tempesta in Sicilia non lungi dalla
+       spelonca del Ciclope Polifemo, per salvarsi dalle di lui mani, dopo che ha perduti alcuni
+       compagni, lo sbalordisce e L’addormenta con dargli a bere del vino generoso, L’accieca, e
+       fugge con tutto il Coro de’ Satiri, i quali intervengono nella favola con Sileno, Ulisse e
+       Polifemo.</p>
       <p>Atto I. Sileno vecchio si trattiene seco stesso delle giovanili sue imprese e de’ travagli
        che stà soffrendo in <pb n="173" xml:id="p173"/>vecchiaja, per aver voluto per affetto verso
        Bacco seguir le tracce de’ pirati Tirreni, i quali favoriti da Giunone aveano rapito questo
@@ -2482,30 +2483,35 @@
        rispondere più a proposito. Di questa precisione e aggiustatezza abbiamo pochi esempli tra’
        moderni, i quali per lo più fanno rispondere a’ personaggi quel che comanda la rima o
        L’armonia de’ versi.</p>
-      <p>Ulisse si rende benevolo Sileno dandogli del vino. <quote><hi rend="i">Morde questo licoro</hi>
-<seg type="exquote"> (dice Ulisse)</seg> <hi rend="i">? ti sollecita dolcemente la gola? Per Bacco</hi><seg type="exquote"> (risponde)</seg> <hi rend="i">mi è
-        giunto fino a’ piedi.</hi></quote> Il vecchio si mette in allegria, bee, ribee; domanda notizie di
-       Troja, di Elena. <quote><hi rend="i">Voi L’aveste</hi><seg type="exquote">, dice,</seg> <hi rend="i">pur tralle mani quella
-        bagascia perfida e carnajuola. E che ne faceste? Passò ella di mano in mano? Oh avesse avuto
-        a far meco questa sorella di Polluce! avrebbe trovato calzare pel suo piede! Affè che le
-        avrei dato il premio delle sue belle opere.</hi></quote> Ulisse L’interrompe per L’arrivo del
-       Ciclope, e Sileno lo fa nascondere. Il dialogo di Polifemo che chiede il solito latte per
-       cenare, e di Sileno che ha bevuto, è <pb n="176" xml:id="p176"/>grossolano ed assai
-       conveniente a’ tali personaggi. Si avvede Polifemo de’ capretti legati e del latto portato
-       fuori da Sileno per Ulisse nella scena precedente, cose che indicano un furto. Osserva ancora
-       che Sileno è rubicondo fuor dell’usato. <quote><hi rend="i">Chi ha legato questi capretti? Chi ti ha
-        dato de’ pugni sul viso? Parla.</hi></quote> Sileno sbigottito accusa Ulisse, dicendo che voleva
-       rubarli, e per essersi egli opposto, n’era stato così mal concio. Ulisse si discolpa narrando
-       il vero e accusando Sileno, ma il Coro favorendo il padre lo smentisce. Patetiche ed
-       eloquenti sono le preghiere di Ulisse, e se un Ciclope poteva intenerirsi, L’avrebbe
-       conseguito. Ma questi gonfio della propria robustezza e potenza prende il linguaggio di uno
-        <hi rend="i">spirito-forte</hi>, e beffeggia gli Dei nominati da Ulisse. Descrive poi la
-       propria felicità e le ricchezze pastorali di cui abbonda. <quote><hi rend="i">Per me solo pasce
-        questa greggia immensa; per me si scanna, per questo ventre, e non già per alcuni di <pb
-         n="177" xml:id="p177"/>questi tuoi Numi. Il ventre è più vicino di Giove, trescare,
-        ingollare, empiere la pancia, ecco la mia religione.</hi></quote> A queste empietà aggiugne il
-       comando funesto di entrare nella spelonca per esser pasto gradito del suo gran ventre. Alle
-       querele e preghiere che Ulisse indirizza a Pallade, succede il canto del Coro, il quale
+      <p>Ulisse si rende benevolo Sileno dandogli del vino. <quote><hi rend="i">Morde questo
+         licoro</hi>
+        <seg type="exquote"> (dice Ulisse)</seg>
+        <hi rend="i">? ti sollecita dolcemente la gola? Per Bacco</hi><seg type="exquote">
+         (risponde)</seg>
+        <hi rend="i">mi è giunto fino a’ piedi.</hi></quote> Il vecchio si mette in allegria, bee,
+       ribee; domanda notizie di Troja, di Elena. <quote><hi rend="i">Voi L’aveste</hi><seg
+         type="exquote">, dice,</seg>
+        <hi rend="i">pur tralle mani quella bagascia perfida e carnajuola. E che ne faceste? Passò
+         ella di mano in mano? Oh avesse avuto a far meco questa sorella di Polluce! avrebbe trovato
+         calzare pel suo piede! Affè che le avrei dato il premio delle sue belle opere.</hi></quote>
+       Ulisse L’interrompe per L’arrivo del Ciclope, e Sileno lo fa nascondere. Il dialogo di
+       Polifemo che chiede il solito latte per cenare, e di Sileno che ha bevuto, è <pb n="176"
+        xml:id="p176"/>grossolano ed assai conveniente a’ tali personaggi. Si avvede Polifemo de’
+       capretti legati e del latto portato fuori da Sileno per Ulisse nella scena precedente, cose
+       che indicano un furto. Osserva ancora che Sileno è rubicondo fuor dell’usato. <quote><hi
+         rend="i">Chi ha legato questi capretti? Chi ti ha dato de’ pugni sul viso?
+        Parla.</hi></quote> Sileno sbigottito accusa Ulisse, dicendo che voleva rubarli, e per
+       essersi egli opposto, n’era stato così mal concio. Ulisse si discolpa narrando il vero e
+       accusando Sileno, ma il Coro favorendo il padre lo smentisce. Patetiche ed eloquenti sono le
+       preghiere di Ulisse, e se un Ciclope poteva intenerirsi, L’avrebbe conseguito. Ma questi
+       gonfio della propria robustezza e potenza prende il linguaggio di uno <hi rend="i"
+        >spirito-forte</hi>, e beffeggia gli Dei nominati da Ulisse. Descrive poi la propria
+       felicità e le ricchezze pastorali di cui abbonda. <quote><hi rend="i">Per me solo pasce
+         questa greggia immensa; per me si scanna, per questo ventre, e non già per alcuni di <pb
+          n="177" xml:id="p177"/>questi tuoi Numi. Il ventre è più vicino di Giove, trescare,
+         ingollare, empiere la pancia, ecco la mia religione.</hi></quote> A queste empietà aggiugne
+       il comando funesto di entrare nella spelonca per esser pasto gradito del suo gran ventre.
+       Alle querele e preghiere che Ulisse indirizza a Pallade, succede il canto del Coro, il quale
        sospetta di cio che dentro farà il Ciclope. Egli senza dubbio taglia le membra di
        quegl’infelici sulle mense; altre ne destina ad esser bollite, altre in arrosto; L’odore
        scellerato già ne va insino al cielo, e Giove ancora nol fulmina?</p>
@@ -2520,104 +2526,110 @@
        fratelli, dal che Ulisse ed il Coro il dissuadono. Polifemo rimane persuaso, e si fa porre
        accanto il vaso del vino. È buffonesco L’artifizio di Sileno che tenta di berne di nascosto,
        e vi si pruova più volte, e sorpreso nel fatto si scusa con varii ridicoli pretesti. Il
-       Ciclope bee senza veruna misura e perde totalmente la ragione. <quote><hi rend="i">Io veggo</hi>
-<seg type="exquote"> (dice già ubbriaco)</seg> <hi rend="i">girar la terra, il mare e il cielo</hi>; <hi rend="i">veggo
-        il trono di Giove e seco tutta la folla degli Dei. Oh ve’ si alza Ciprigna per venire ad
-        abbracciarmi.</hi></quote> Si animano i congiurati a compiere l’opera; poichè entrato Polifemo nella
-       spelonca si mette a giacer supino e fortemente russa. Parte del Coro entra per eseguire <pb
-        n="179" xml:id="p179"/>L’impresa, e parte rimane al cospetto degli spettatori.</p>
+       Ciclope bee senza veruna misura e perde totalmente la ragione. <quote><hi rend="i">Io
+         veggo</hi>
+        <seg type="exquote"> (dice già ubbriaco)</seg>
+        <hi rend="i">girar la terra, il mare e il cielo</hi>; <hi rend="i">veggo il trono di Giove e
+         seco tutta la folla degli Dei. Oh ve’ si alza Ciprigna per venire ad
+        abbracciarmi.</hi></quote> Si animano i congiurati a compiere l’opera; poichè entrato
+       Polifemo nella spelonca si mette a giacer supino e fortemente russa. Parte del Coro entra per
+       eseguire <pb n="179" xml:id="p179"/>L’impresa, e parte rimane al cospetto degli
+       spettatori.</p>
       <p>Atto V. Esce Polifemo acciecato urlando e gemendo. Ulisse allorchè fu domandato del suo
-       nome, rispose di chiamarsi <quote><hi rend="i">Niuno</hi></quote>; ed ora il Ciclope fremendo si querela di
-        <quote><hi rend="i">Niuno</hi></quote> che l’ha acciecato. Il Coro domanda chi abbia in lui commesso
-       quest’eccesso? <quote><hi rend="i">Niuno</hi></quote>, ei risponde. <quote><hi rend="i">Di chi dunqne ti
-       lagni</hi><seg type="exquote">, ripiglia il Coro</seg>, <hi rend="i">se niuno colpa al tuo male? Oimè!</hi><seg type="exquote"> (dice il
-       Ciclope)</seg> <hi rend="i">il forestiere mi ha fatto bere, egli è quel perfido</hi>Niuno,<hi
-        rend="i">che mi ha privato del lume dell’occhio.</hi></quote> Si mette poscia all’entrata della
-       caverna, perchè non n’esca alcuno. Ma il Coro L’avverte che vanno uscendo: <quote><hi rend="i">Da
-        qual parte?… Volgi a man destra… no no, corri alla sinistra… di qua… di
-        là, di nuovo alla destra… più su, ora più giu.</hi></quote> Il Ciclope si volge a seconda delle
-       parole del Coro brancolando; ed essendo in tal guisa aggirato Ulisse ha luogo di uscire, e con
-       tutti i <pb n="180" xml:id="p180"/>compagni, col Coro e con Sileno si salva sulla nave,
-       deridendo il Ciclope che inutilmente freme e minaccia.</p>
+       nome, rispose di chiamarsi <quote><hi rend="i">Niuno</hi></quote>; ed ora il Ciclope fremendo
+       si querela di <quote><hi rend="i">Niuno</hi></quote> che l’ha acciecato. Il Coro domanda chi
+       abbia in lui commesso quest’eccesso? <quote><hi rend="i">Niuno</hi></quote>, ei risponde.
+         <quote><hi rend="i">Di chi dunqne ti lagni</hi><seg type="exquote">, ripiglia il
+        Coro</seg>, <hi rend="i">se niuno colpa al tuo male? Oimè!</hi><seg type="exquote"> (dice il
+         Ciclope)</seg>
+        <hi rend="i">il forestiere mi ha fatto bere, egli è quel perfido</hi>Niuno,<hi rend="i">che
+         mi ha privato del lume dell’occhio.</hi></quote> Si mette poscia all’entrata della caverna,
+       perchè non n’esca alcuno. Ma il Coro L’avverte che vanno uscendo: <quote><hi rend="i">Da qual
+         parte?… Volgi a man destra… no no, corri alla sinistra… di qua… di là, di nuovo alla
+         destra… più su, ora più giu.</hi></quote> Il Ciclope si volge a seconda delle parole del
+       Coro brancolando; ed essendo in tal guisa aggirato Ulisse ha luogo di uscire, e con tutti i
+        <pb n="180" xml:id="p180"/>compagni, col Coro e con Sileno si salva sulla nave, deridendo il
+       Ciclope che inutilmente freme e minaccia.</p>
      </div3>
      <div3 type="section" xml:id="libro-1_capo-15_sezione-2">
       <head type="sur">II. </head>
       <head type="main"><hi rend="i">Ilarodia.</hi></head>
-      <p>Non molto diversa dalla tragedia era il dramma detto <hi rend="i"
-        >Ilarodia</hi> o <hi rend="i">Ilarotragedia</hi>. Per l’idea lasciatane da Ateneo era una
-       favola festevole di lieto fine, nella quale intervenivano personaggi grandi ed eroici, ma vi
-       si dipingevano i fatti che ad essi accadevano come uomini, e non come eroi. Il Tarantino
-       Rintone che visse sotto Tolommeo Lago, sembra che avesse accresciuto il numero degli
-       spettacoli teatrali de’ Greci con queste nuove favole, che dal suo nome chiamaronsi ancora
-        <hi rend="i">Rintoniche</hi>. Ateneo cita il di lui <hi rend="i">Anfitrione</hi> e l’<hi
-        rend="i">Ercole</hi> recandone un frammento. Giulio Polluce nomina tre altre favole di
-       Rintone, cioè due <hi rend="i">Ifigenie</hi>, in Aulide e in Tauri, ed il <pb n="181"
-        xml:id="p181"/><hi rend="i">Telefo</hi>. In qual guisa egli maneggiasse questi argomenti
-       tragici scostandosi dalla tragedia senza cadere nella commedia, non si divisa da que’ pochi
-       frammenti che se ne adducono. Un altro elegante scrittore d’ilarodie fu Simo Magnesio, del
-       quale favella Aristotile presso Ateneo, e da questo Simo gli attori ilarodi chiamaronsi
-       altresì <hi rend="i">Simiodi</hi>. Coltivò parimente questo genere Scira nativo di Taranto,
-       di cui Ateneo stesso dice che fu uno de’ <hi rend="i">poeti Italici</hi>, e si sa che <hi
-        rend="i">Italiche</hi> si dissero ancora le favole del di lui compatriotta Rintone. Il <hi
-        rend="i">Meleagro</hi> è una favola di Scira di cui recammo un frammento nel tomo I delle
-        <hi rend="i">Vicende della Coltura delle Sicilie</hi>.</p>
+      <p>Non molto diversa dalla tragedia era il dramma detto <hi rend="i">Ilarodia</hi> o <hi
+        rend="i">Ilarotragedia</hi>. Per l’idea lasciatane da Ateneo era una favola festevole di
+       lieto fine, nella quale intervenivano personaggi grandi ed eroici, ma vi si dipingevano i
+       fatti che ad essi accadevano come uomini, e non come eroi. Il Tarantino Rintone che visse
+       sotto Tolommeo Lago, sembra che avesse accresciuto il numero degli spettacoli teatrali de’
+       Greci con queste nuove favole, che dal suo nome chiamaronsi ancora <hi rend="i"
+        >Rintoniche</hi>. Ateneo cita il di lui <hi rend="i">Anfitrione</hi> e l’<hi rend="i"
+        >Ercole</hi> recandone un frammento. Giulio Polluce nomina tre altre favole di Rintone, cioè
+       due <hi rend="i">Ifigenie</hi>, in Aulide e in Tauri, ed il <pb n="181" xml:id="p181"/><hi
+        rend="i">Telefo</hi>. In qual guisa egli maneggiasse questi argomenti tragici scostandosi
+       dalla tragedia senza cadere nella commedia, non si divisa da que’ pochi frammenti che se ne
+       adducono. Un altro elegante scrittore d’ilarodie fu Simo Magnesio, del quale favella
+       Aristotile presso Ateneo, e da questo Simo gli attori ilarodi chiamaronsi altresì <hi
+        rend="i">Simiodi</hi>. Coltivò parimente questo genere Scira nativo di Taranto, di cui
+       Ateneo stesso dice che fu uno de’ <hi rend="i">poeti Italici</hi>, e si sa che <hi rend="i"
+        >Italiche</hi> si dissero ancora le favole del di lui compatriotta Rintone. Il <hi rend="i"
+        >Meleagro</hi> è una favola di Scira di cui recammo un frammento nel tomo I delle <hi
+        rend="i">Vicende della Coltura delle Sicilie</hi>.</p>
      </div3>
      <div3 type="section" xml:id="libro-1_capo-15_sezione-3">
       <head type="sur">III. </head>
       <head type="main"><hi rend="i">Magodia.</hi></head>
-      <p>Approssimavasi l’ilarodia alla tragedia, e la <hi rend="i">magodia</hi>
-       non molto si allontanava dalla commedia. Aristosseno <pb n="182" xml:id="p182"/>affermò che
-       l’ilarodia era il dramma più importante dopo della tragedia, e la magodia dopo della
-       commedia. Da principio questa farsa limitavasi a rappresentare gli artificii e le imposture
-       de’ maghi, e de’ salsi medici. Secondo Ateneo<note n="a" place="bottom"><hi rend="i"
-         >Deipnos.</hi> lib. XIV.</note> essa non esigeva nè molta fatica nè molta spesa, e gli
-       Spartani se ne compiacevano come di uno spettacolo assai proprio per la loro frugalità. Essi
-       v’introducevano ladroni che rubavano frutta e cose simili, e medici specialmente forestieri.
-        <hi rend="i">Dicelisti</hi> chiamaronsi fra gli Spartani gli attori Magodi: Fallofori presso
-       i Siciliani: <hi rend="i">Voloni</hi> o <hi rend="i">Volontarii</hi> fra’ Tebani: <hi
-        rend="i">Autocabdali</hi> si dissero dagli altri Greci orientali: e <hi rend="i">Fliaci</hi>
-       nella Magna Grecia. È intanto cosa degna di nolarsi come in tante regioni abitate da’ Greci
-       si fossero congiunte verso i medesimi soggetti le stesse idee d’imposture mediche e magiche.
-       Ma i <pb n="183" xml:id="p183"/>Greci non furono soli ad accoppiarle. Vedremo appresso che
-       gli Arabi aveano dialoghi, ne’ quali satireggiavano gl’impostori medici, maghi ed
-        astrologhi<note n="a" place="bottom"><hi rend="i">Miguel Casiri Biblioteca Arabo-Ispana</hi>
-        cod. 467.</note>. Nel Nuovo Mondo tra’ selvaggi medico e mago erano quasi sinonimi. <quote><hi
-        rend="i">Uno de’ primi e più intendenti Storici dell’America</hi><seg type="exquote"> (dice Robertson<note n="b"
-        place="bottom"><hi rend="i">Storia dell’America</hi> tomo II lib. IV p. 369 della traduzione
-        del Pillori.</note>)</seg> <hi rend="i">restò sommamente colpito in vedere questa connessione fra
-        la magia e la medicina in mezzo a i popoli dell’Ispaniola. Ciò però non era particolare ad
-        essi soltanto. <hi rend="i">L’Alexis</hi>, <hi rend="i">il Piayas</hi>, <hi rend="i">l’Autmoins</hi>, e qualunque fosse il nome
-        che distingueva i loro indovini, o ciurmatori in altre parti d’America, erano tutti medici
-        delle loro rispettive tribù nella stessa maniera che i <hi rend="i">Bulistos</hi> nell’Isola
-        Ispaniola.</hi></quote></p>
+      <p>Approssimavasi l’ilarodia alla tragedia, e la <hi rend="i">magodia</hi> non molto si
+       allontanava dalla commedia. Aristosseno <pb n="182" xml:id="p182"/>affermò che l’ilarodia era
+       il dramma più importante dopo della tragedia, e la magodia dopo della commedia. Da principio
+       questa farsa limitavasi a rappresentare gli artificii e le imposture de’ maghi, e de’ salsi
+       medici. Secondo Ateneo<note n="a" place="bottom"><hi rend="i">Deipnos.</hi> lib. XIV.</note>
+       essa non esigeva nè molta fatica nè molta spesa, e gli Spartani se ne compiacevano come di
+       uno spettacolo assai proprio per la loro frugalità. Essi v’introducevano ladroni che rubavano
+       frutta e cose simili, e medici specialmente forestieri. <hi rend="i">Dicelisti</hi>
+       chiamaronsi fra gli Spartani gli attori Magodi: Fallofori presso i Siciliani: <hi rend="i"
+        >Voloni</hi> o <hi rend="i">Volontarii</hi> fra’ Tebani: <hi rend="i">Autocabdali</hi> si
+       dissero dagli altri Greci orientali: e <hi rend="i">Fliaci</hi> nella Magna Grecia. È intanto
+       cosa degna di nolarsi come in tante regioni abitate da’ Greci si fossero congiunte verso i
+       medesimi soggetti le stesse idee d’imposture mediche e magiche. Ma i <pb n="183"
+        xml:id="p183"/>Greci non furono soli ad accoppiarle. Vedremo appresso che gli Arabi aveano
+       dialoghi, ne’ quali satireggiavano gl’impostori medici, maghi ed astrologhi<note n="a"
+        place="bottom"><hi rend="i">Miguel Casiri Biblioteca Arabo-Ispana</hi> cod. 467.</note>. Nel
+       Nuovo Mondo tra’ selvaggi medico e mago erano quasi sinonimi. <quote><hi rend="i">Uno de’
+         primi e più intendenti Storici dell’America</hi><seg type="exquote"> (dice Robertson<note
+          n="b" place="bottom"><hi rend="i">Storia dell’America</hi> tomo II lib. IV p. 369 della
+          traduzione del Pillori.</note>)</seg>
+        <hi rend="i">restò sommamente colpito in vedere questa connessione fra la magia e la
+         medicina in mezzo a i popoli dell’Ispaniola. Ciò però non era particolare ad essi soltanto.
+          <hi rend="i">L’Alexis</hi>, <hi rend="i">il Piayas</hi>, <hi rend="i">l’Autmoins</hi>, e
+         qualunque fosse il nome che distingueva i loro indovini, o ciurmatori in altre parti
+         d’America, erano tutti medici delle loro rispettive tribù nella stessa maniera che i <hi
+          rend="i">Bulistos</hi> nell’Isola Ispaniola.</hi></quote></p>
      </div3>
      <div3 type="section" xml:id="libro-1_capo-15_sezione-4">
       <pb n="184" xml:id="p184"/>
       <head type="sur">IV. </head>
       <head type="main"><hi rend="i">Parodia.</hi></head>
-      <p>>La <hi rend="i">Parodia</hi>, di cui credesi inventore Ipponatte, non
-       fu in Grecia soltanto un artifizio usato di passaggio nelle loro favole da Epicarmo, Carcino,
-       Eupoli, Ermippo, Aristofane ed altri comici, i quali, come dicemmo, convertivano in ridicole
-       le più energiche espressioni tragiche con lievi cambiamenti; ma formò eziandio uno spettacolo
-       e una farsa particolare così chiamata. Nel secolo di Filippo il Macedone il più celebre
-       parodista fu Eubeo Pario sommamente ammirato da’ Siciliani. Caro però oltre ogni credere fu
-       agli Ateniesi certo Egemone Tasio soprannominato <hi rend="i">Lenticola</hi> scrittore e
-       attore di parodie citato da Camaleone Pontico<note n="a" place="bottom">Nel III libro <hi
-         rend="i">de Veteri Comoedia</hi> presso Ateneo lib. IX.</note> Rappresentava un giorno <pb
-        n="185" xml:id="p185"/>nel teatro di Atene quest’industrioso attore una sua parodia, quando
-       dalla Sicilia vennero le amare novelle di una disfatta luttuosa, e quantunque la maggior
-       parte degli spettatori piangesse coprendosi il capo per avervi perduto qualche parente, tutti
-       però si trattennero nel teatro; sia per occultare agli altri Greci la loro perdita, sia per
-       certa spezie di riguardo avuto per questo favorito parodo. Fu egli una volta chiamato in
-       giudizio come reo; ma Alcibiade di propria mano cancellò gli atti formati contro di lui.</p>
+      <p>>La <hi rend="i">Parodia</hi>, di cui credesi inventore Ipponatte, non fu in Grecia
+       soltanto un artifizio usato di passaggio nelle loro favole da Epicarmo, Carcino, Eupoli,
+       Ermippo, Aristofane ed altri comici, i quali, come dicemmo, convertivano in ridicole le più
+       energiche espressioni tragiche con lievi cambiamenti; ma formò eziandio uno spettacolo e una
+       farsa particolare così chiamata. Nel secolo di Filippo il Macedone il più celebre parodista
+       fu Eubeo Pario sommamente ammirato da’ Siciliani. Caro però oltre ogni credere fu agli
+       Ateniesi certo Egemone Tasio soprannominato <hi rend="i">Lenticola</hi> scrittore e attore di
+       parodie citato da Camaleone Pontico<note n="a" place="bottom">Nel III libro <hi rend="i">de
+         Veteri Comoedia</hi> presso Ateneo lib. IX.</note> Rappresentava un giorno <pb n="185"
+        xml:id="p185"/>nel teatro di Atene quest’industrioso attore una sua parodia, quando dalla
+       Sicilia vennero le amare novelle di una disfatta luttuosa, e quantunque la maggior parte
+       degli spettatori piangesse coprendosi il capo per avervi perduto qualche parente, tutti però
+       si trattennero nel teatro; sia per occultare agli altri Greci la loro perdita, sia per certa
+       spezie di riguardo avuto per questo favorito parodo. Fu egli una volta chiamato in giudizio
+       come reo; ma Alcibiade di propria mano cancellò gli atti formati contro di lui.</p>
      </div3>
      <div3 type="section" xml:id="libro-1_capo-15_sezione-5">
       <head type="sur">V. </head>
       <head type="main"><hi rend="i">Mimi.</hi></head>
-      <p>Dal verbo μιμὲομαι <hi rend="i">imitor</hi>, ricavasi la voce <hi
-        rend="i">Mimo</hi>; e quello che appartiene a tutte le arti d’immaginazione, non che alla
-       poesia drammatica, siccome bene avvertì Giulio Cesare Scaligero<note n="a" place="bottom"><hi
-         rend="i">Poetic.</hi> lib. I, cap. 10.</note>, <pb n="186" xml:id="p186"/>divenne poi nome
+      <p>Dal verbo μιμὲομαι <hi rend="i">imitor</hi>, ricavasi la voce <hi rend="i">Mimo</hi>; e
+       quello che appartiene a tutte le arti d’immaginazione, non che alla poesia drammatica,
+       siccome bene avvertì Giulio Cesare Scaligero<note n="a" place="bottom"><hi rend="i"
+         >Poetic.</hi> lib. I, cap. 10.</note>, <pb n="186" xml:id="p186"/>divenne poi nome
        particolare di un picciol dramma, e quindi di una specie di attori. Erano da prima i Greci
        mimi un’azione morale in dialogo, e nulla aveano di osceno e buffonesco. Sofrone Siracusano
        figlio di Agatocle e di Dannasillide contemporaneo di Euripide si esercitò felicemente in
@@ -2640,34 +2652,36 @@
        ne valeva per ammaestrare e perfezionare gli Ateniesi; e Quintiliano dice che egli si
        addormentava tenendo il di lui libro sotto il guanciale<note n="b" place="bottom">Nelle <hi
          rend="i">Istituzioni</hi> pag. 106 dell’edizione Burmanniana.</note>. Stazio dà a Sofrone
-       l’aggiunto d’<hi rend="i">implicito</hi> <quote>(<hi rend="i">Sophronaque implicitum</hi></quote>) dovendo
-       parere il di lui stile astruso e difficile, benchè <pb n="188" xml:id="p188"/>condito
-       d’ingegnosa socratica ironia. Figliuolo di Sofrone fu Senarco parimente mimografo commendato
-       dagli antichi. Suida lo chiama comico, assicurando che egli ad insinuazione del tiranno
-       Dionigi tacciò i Regini di codardia<note n="a" place="bottom">Si è di lui recato
-        nell’Introduzione alle <hi rend="i">Vicende</hi> della <hi rend="i">Coltura delle
-         Sicilie</hi> un frammento della sua favola intitolata Πορφυρα.</note>. Gli antichi
-       rammentano ancora un mimografo nomato Filistione; ma Suida pretende che fosse stato
-       contemporaneo di Socrate; ed Eusebio di Cesarea afferma che viveva trecento anni dopo, cioè
-       a’ tempi di Augusto. Non sarebbe (dice m. <hi rend="i">Le Fevre</hi>) strana cosa che Eusebio
-       si fosse ingannato; ma potrebbero parimente due diversi scrittori di mimi, l’uno coetaneo di
-       Socrate, l’altro di Augusto, aver portato lo stesso nome. Certo è però che il meno antico di
-       essi, se furon due, non inventò i mimi, come erroneamente asserì Cassiodoro che ne <pb
-        n="189" xml:id="p189"/>fu ripreso dal Calliachio<note n="a" place="bottom">Si vegga la di
-        lui opera postuma <hi rend="i">de Mimis et Pantomimis</hi>.</note>.</p>
+       l’aggiunto d’<hi rend="i">implicito</hi>
+       <quote>(<hi rend="i">Sophronaque implicitum</hi></quote>) dovendo parere il di lui stile
+       astruso e difficile, benchè <pb n="188" xml:id="p188"/>condito d’ingegnosa socratica ironia.
+       Figliuolo di Sofrone fu Senarco parimente mimografo commendato dagli antichi. Suida lo chiama
+       comico, assicurando che egli ad insinuazione del tiranno Dionigi tacciò i Regini di
+        codardia<note n="a" place="bottom">Si è di lui recato nell’Introduzione alle <hi rend="i"
+         >Vicende</hi> della <hi rend="i">Coltura delle Sicilie</hi> un frammento della sua favola
+        intitolata Πορφυρα.</note>. Gli antichi rammentano ancora un mimografo nomato Filistione; ma
+       Suida pretende che fosse stato contemporaneo di Socrate; ed Eusebio di Cesarea afferma che
+       viveva trecento anni dopo, cioè a’ tempi di Augusto. Non sarebbe (dice m. <hi rend="i">Le
+        Fevre</hi>) strana cosa che Eusebio si fosse ingannato; ma potrebbero parimente due diversi
+       scrittori di mimi, l’uno coetaneo di Socrate, l’altro di Augusto, aver portato lo stesso
+       nome. Certo è però che il meno antico di essi, se furon due, non inventò i mimi, come
+       erroneamente asserì Cassiodoro che ne <pb n="189" xml:id="p189"/>fu ripreso dal
+        Calliachio<note n="a" place="bottom">Si vegga la di lui opera postuma <hi rend="i">de Mimis
+         et Pantomimis</hi>.</note>.</p>
       <p>Appresso degenerarono i Mimi in rappresentazioni buffonesche e basse, e gl’Itifalli, specie
        di attori Mimici, rappresentavano ubbriachi, adulteri, ruffiani e meretrici. Erano da prima
        attaccati alla commedia, e si recitavano o nel principio formando una introduzione, o’ nel
        mezzo come per tramezzo, o nel fine come conchiusione dello spettacolo; ma a poco a poco
        vennero a separarsene. Ecco come ne favella Diomede coll’autorità di un frammento di
-       Suetonio: <quote><hi rend="i">Ne’ primi tempi tutto ciò che introducevasi nella scena s’incorporava
-        alla commedia. Pantomimi, Pitauli e Corauli tutti in essa cantavano e consabulavano. Ma
-        questi rappresentatori non potevano mostrar sempre la loro eccellenza, perchè quando i
-        Comedi rendevansi celebri nell’arte pretendevano passar per capi e <pb n="190" xml:id="p190"
-        />regolatori di tutto lo spettacolo. Di quì nacque che non volendo gli attori mimici esser
-        tenuti da meno nell’arte di rappresentare, si divisero dalla commedia e l’esempio eccitò
-        altri rappresentatori ancora a separarsene, lasciando ai Comedi la nuda commedia, e così
-        ciascana specie di attori diessi a rappresentar separatamente le proprie farse.</hi></quote></p>
+       Suetonio: <quote><hi rend="i">Ne’ primi tempi tutto ciò che introducevasi nella scena
+         s’incorporava alla commedia. Pantomimi, Pitauli e Corauli tutti in essa cantavano e
+         consabulavano. Ma questi rappresentatori non potevano mostrar sempre la loro eccellenza,
+         perchè quando i Comedi rendevansi celebri nell’arte pretendevano passar per capi e <pb
+          n="190" xml:id="p190"/>regolatori di tutto lo spettacolo. Di quì nacque che non volendo
+         gli attori mimici esser tenuti da meno nell’arte di rappresentare, si divisero dalla
+         commedia e l’esempio eccitò altri rappresentatori ancora a separarsene, lasciando ai Comedi
+         la nuda commedia, e così ciascana specie di attori diessi a rappresentar separatamente le
+         proprie farse.</hi></quote></p>
       <p>Si confuse intanto la voce <hi rend="i">Mimo</hi>, e dinotava ora un dramma così detto, ora
        un attore buffonesco. Nell’ultimo significato la prese Diodoro Siculo parlando dell’indole di
        Agatocle portato a buffoneggiare. Per basso attore ridicolo l’usò ancora Polibio presso
@@ -2678,20 +2692,20 @@
       <pb n="191" xml:id="p191"/>
       <head type="sur">VI. </head>
       <head type="main"><hi rend="i">Pantomimi.</hi></head>
-      <p>Tra tanti attori mimici che separaronsi da’ Comedi, spiccarono in
-       seguito i <hi rend="i">Pantomimi</hi> istrioni ballerini che presero il nome dal <hi rend="i"
-        >contraffare</hi> con atteggiamenti senza parlare <hi rend="i">tutte le cose</hi>. Lasciando
-       a parte la riferita ambizione di tanti diversi rappresentatori, ciascuno de’ quali cercò di
-       distinguersi da se, vuolsi riflettere all’osservazione che soggiugniamo. La rappresentazione
-       e la danza composero sempre un corpo solo con la musica e la poesia. Versi non potevano
-       cantarsi dal <hi rend="i">Coro</hi> che non si animassero con misurati atteggiamenti. Ma la
-       poesia rappresentativa meglio sviluppata negli <hi rend="i">episodii</hi>, si appropriò certi
-       attori più esperti nel declamare, cioè nel recitar versi con azione naturale e con un canto
-       parlante il quale sebbene accompagnato dagli stromenti non lasciava di appressarsi più al
-       favellare che al canto del Coro. <pb n="192" xml:id="p192"/>Allora questa classe ad altro non
-       attese che ad animare con vivace energica rappresentazione la poesia, usando di una musica
-       semplice moderata, la quale contenendo la voce nell’armonico sistema de’ toni produceva una
-        <hi rend="i">melodia</hi> regolata nel salir dal grave all’acuto o nel calar dall’acuto al
+      <p>Tra tanti attori mimici che separaronsi da’ Comedi, spiccarono in seguito i <hi rend="i"
+        >Pantomimi</hi> istrioni ballerini che presero il nome dal <hi rend="i">contraffare</hi> con
+       atteggiamenti senza parlare <hi rend="i">tutte le cose</hi>. Lasciando a parte la riferita
+       ambizione di tanti diversi rappresentatori, ciascuno de’ quali cercò di distinguersi da se,
+       vuolsi riflettere all’osservazione che soggiugniamo. La rappresentazione e la danza composero
+       sempre un corpo solo con la musica e la poesia. Versi non potevano cantarsi dal <hi rend="i"
+        >Coro</hi> che non si animassero con misurati atteggiamenti. Ma la poesia rappresentativa
+       meglio sviluppata negli <hi rend="i">episodii</hi>, si appropriò certi attori più esperti nel
+       declamare, cioè nel recitar versi con azione naturale e con un canto parlante il quale
+       sebbene accompagnato dagli stromenti non lasciava di appressarsi più al favellare che al
+       canto del Coro. <pb n="192" xml:id="p192"/>Allora questa classe ad altro non attese che ad
+       animare con vivace energica rappresentazione la poesia, usando di una musica semplice
+       moderata, la quale contenendo la voce nell’armonico sistema de’ toni produceva una <hi
+        rend="i">melodia</hi> regolata nel salir dal grave all’acuto o nel calar dall’acuto al
        grave, che artificiosamente imitava il parlar naturale. Rimase al Coro il pensiero
        d’intrecciar carole cantando; ed in questo il canto fu più artificiale e la melodia più
        espressiva spiegandovi la musica tutte le sue forze e gli artificii armonici con sempre nuove
@@ -2715,63 +2729,63 @@
        Turchi. Presso gli antichi Coribanti e Cureti essa era un rito strepitoso e bellico più che
        un ballo leggiadro. I Traci spiccarono nella saltazione <hi rend="i">bellica</hi>, della
        quale facevano uso ne’ gran conviti. Senofonte<note n="a" place="bottom">Nel la <hi rend="i"
-         >Spedizione di Ciro</hi> libro VI e VII</note> ci dice che <quote><hi rend="i">i Traci saltarono
-        armati scuotendo e vibrando le spade nel convito di Seute; e che in fine un ballerino finse
-        di essere percosso, e fu creduto morto e compianto dagli astanti</hi></quote>, constanta verità si
-       espresse la finta pugnane l’ammazzamento. Si vuole che Androne di Catania sia stato il
-       primoche sonando la tibia vi accompagnasse i passi e il movimento del corpo in cadenza; e
-       perciò presso gli antichi σικελιζειν significò <hi rend="i">saltare</hi><note n="b"
-        place="bottom">Teofrasto presso Ateneo lib. 1.</note>. Del rimanente la saltazione è un
-       esercizio che trovasi presso tutti i popoli ancor <pb n="195" xml:id="p195"/>barbari e
-       selvaggi; e Frigii e Cretesi e Indiani ed Etiopi ed Egizii e Traci ed Arabi ed Americani,
-       tutti hanno avuto il loro Androne, cioè uno che prima di ogni altro si avvisò di saltare e di
-       muoversi a seconda del suono. Il graziosissimo Luciano dopo di avere ironicamente commendata
-       la saltazione fino a lodare come esperto ballerino l’eroe Merione celebrato da Omero per
-       l’agilità e destrezza onde scansava i colpi de’ nemici, passa a nominare le tre principali
-       specie di danze introdotte nella scena, la <hi rend="i">Cordace</hi>, la <hi rend="i"
-        >Scinnide</hi> e l’<hi rend="i">Emmelia</hi>. Apparteneva la Cordace alle commedie ed era a
-       tal segno ridicola e lasciva che da essa venne la parola oscena <hi rend="i">cordacizo</hi>,
-       e il <hi rend="i">cordacismo</hi> nominato da Demostene nelle <hi rend="i"
-        >Filippiche</hi><note n="a" place="bottom">Scrive Pausania in <hi rend="i">Eliac.</hi> II
-        che il lascivo ballo <hi rend="i">Cordace</hi> fu ritrovato da’ Pisani d’Elide.</note>. La
-       Scinnide conviene propriamente ai Satiri, i quali <pb n="196" xml:id="p196"/>ne furono indi
-       chiamati <hi rend="i">Scinnidi</hi>; e se ne crede autore Sicinnone barbaro o Cretese, benchè
-       altri l’attribuisca a Tersippo. Pare che la Scinnide fosse anche saltazione comica usata
-       anticamente da’ Frigii nella festa di Dionisio Sabazio. L’Emmelia era saltazione tragica. Di
-       tali cose possono consultarsi le opere di Giulio Polluce, Dionisio Alicarnasseo, Ateneo e
-       Suida, i quali alla distesa ne favellano.</p>
+         >Spedizione di Ciro</hi> libro VI e VII</note> ci dice che <quote><hi rend="i">i Traci
+         saltarono armati scuotendo e vibrando le spade nel convito di Seute; e che in fine un
+         ballerino finse di essere percosso, e fu creduto morto e compianto dagli
+        astanti</hi></quote>, constanta verità si espresse la finta pugnane l’ammazzamento. Si vuole
+       che Androne di Catania sia stato il primoche sonando la tibia vi accompagnasse i passi e il
+       movimento del corpo in cadenza; e perciò presso gli antichi σικελιζειν significò <hi rend="i"
+        >saltare</hi><note n="b" place="bottom">Teofrasto presso Ateneo lib. 1.</note>. Del
+       rimanente la saltazione è un esercizio che trovasi presso tutti i popoli ancor <pb n="195"
+        xml:id="p195"/>barbari e selvaggi; e Frigii e Cretesi e Indiani ed Etiopi ed Egizii e Traci
+       ed Arabi ed Americani, tutti hanno avuto il loro Androne, cioè uno che prima di ogni altro si
+       avvisò di saltare e di muoversi a seconda del suono. Il graziosissimo Luciano dopo di avere
+       ironicamente commendata la saltazione fino a lodare come esperto ballerino l’eroe Merione
+       celebrato da Omero per l’agilità e destrezza onde scansava i colpi de’ nemici, passa a
+       nominare le tre principali specie di danze introdotte nella scena, la <hi rend="i"
+        >Cordace</hi>, la <hi rend="i">Scinnide</hi> e l’<hi rend="i">Emmelia</hi>. Apparteneva la
+       Cordace alle commedie ed era a tal segno ridicola e lasciva che da essa venne la parola
+       oscena <hi rend="i">cordacizo</hi>, e il <hi rend="i">cordacismo</hi> nominato da Demostene
+       nelle <hi rend="i">Filippiche</hi><note n="a" place="bottom">Scrive Pausania in <hi rend="i"
+         >Eliac.</hi> II che il lascivo ballo <hi rend="i">Cordace</hi> fu ritrovato da’ Pisani
+        d’Elide.</note>. La Scinnide conviene propriamente ai Satiri, i quali <pb n="196"
+        xml:id="p196"/>ne furono indi chiamati <hi rend="i">Scinnidi</hi>; e se ne crede autore
+       Sicinnone barbaro o Cretese, benchè altri l’attribuisca a Tersippo. Pare che la Scinnide
+       fosse anche saltazione comica usata anticamente da’ Frigii nella festa di Dionisio Sabazio.
+       L’Emmelia era saltazione tragica. Di tali cose possono consultarsi le opere di Giulio
+       Polluce, Dionisio Alicarnasseo, Ateneo e Suida, i quali alla distesa ne favellano.</p>
       <p>I Pantomimi del Mitileneo Lesbonace presso il medesimo Luciano si chiamavano χειρισοφοι,
         <hi rend="i">manu sapientes</hi>. Fino a cinque maschere soleva cangiare un solo Pantomimo
        per contraffare tutti i personaggi di una favola; la qual cosa avendo osservata uno
-       straniere, <quote><hi rend="i">quest’abile danzatore c’inganna</hi><seg type="exquote">, esclamò</seg>, <hi rend="i">poicchè
-        avendo un sol corpo, mostra di aver più anime</hi></quote>. Il cinico Demetrio disprezzava i
-       Pantomimi parendogli inutile e irragionevol cosa imitare col solo gestire quello che
-       ottimamente esprimeva la poesia e la musica, senza che la favola ne divenisse <pb n="197"
-        xml:id="p197"/>più perfetta. Della quale osservazione poco contento un ballerino assai
-       celebre a’ tempi di Nerone, pregò quel filosofo a compiacersi di vederlo danzare senza
-       soccorso delle parole e della musica, e quindi, ove giusto gli sembrasse, dispreggiasse pure
-       la danza e il danzatore. Condiscese il filosofo, ed il pantomimo prese ad esprimere
-       l’avventura di Venere e di Marte scoperti dal Sole e accusati da Vulcano, le insidie di
-       questo zoppo assumicato marito, la rete che annodava gli amanti, i numi presenti allo
-       spettacolo, il rossore di Venere che si raccomandava a Marte, e quanto altro apparteneva a
-       questa favola; ma con tale perspicuità, con tanta leggiadria, che Demetrio attonito e rapito
-       proruppe in queste voci: <quote><hi rend="i">Io ti ascolto, attore insigne, non che ti
-       veggo.</hi></quote></p>
+       straniere, <quote><hi rend="i">quest’abile danzatore c’inganna</hi><seg type="exquote">,
+         esclamò</seg>, <hi rend="i">poicchè avendo un sol corpo, mostra di aver più
+        anime</hi></quote>. Il cinico Demetrio disprezzava i Pantomimi parendogli inutile e
+       irragionevol cosa imitare col solo gestire quello che ottimamente esprimeva la poesia e la
+       musica, senza che la favola ne divenisse <pb n="197" xml:id="p197"/>più perfetta. Della quale
+       osservazione poco contento un ballerino assai celebre a’ tempi di Nerone, pregò quel filosofo
+       a compiacersi di vederlo danzare senza soccorso delle parole e della musica, e quindi, ove
+       giusto gli sembrasse, dispreggiasse pure la danza e il danzatore. Condiscese il filosofo, ed
+       il pantomimo prese ad esprimere l’avventura di Venere e di Marte scoperti dal Sole e accusati
+       da Vulcano, le insidie di questo zoppo assumicato marito, la rete che annodava gli amanti, i
+       numi presenti allo spettacolo, il rossore di Venere che si raccomandava a Marte, e quanto
+       altro apparteneva a questa favola; ma con tale perspicuità, con tanta leggiadria, che
+       Demetrio attonito e rapito proruppe in queste voci: <quote><hi rend="i">Io ti ascolto, attore
+         insigne, non che ti veggo.</hi></quote></p>
      </div3>
      <div3 type="section" xml:id="libro-1_capo-15_sezione-7">
       <pb n="198" xml:id="p198"/>
       <head type="sur">VII. </head>
       <head type="main"><hi rend="i">Neurospasti</hi></head>
-      <p>Quali ordigni, quante molle non mette in opera il bisogno di riposare e
-       divertirsi! Fra tanti magnifici ingegnosi spettacoli de’ Greci ne troviamo uno assai puerile.
-       Non mancava la Grecia di ciurmatori, e tra questi alcuni che portavano il nome di <hi
-        rend="i">Neurospasti</hi>. Essi lo prendevano da quelle immaginette, eui per mezzo di nervi
-       e di cordicelle occulte davano movimento, facendole gestire, muovere e camminare come se
-       fossero animate. Tali fantocci da’ volgari d’Italia nominati <hi rend="i">pupi</hi>, dagli
-       Spagnuoli <hi rend="i">titeres</hi> e da’ Francesi <hi rend="i">marionnettes</hi>, dicevansi
-       da’ Greci <hi rend="i">neurospasti</hi><note n="a" place="bottom">Di tali figurine che
-        prendono il nome dall’esser <hi rend="i">tratte co’ nervi</hi>, si fa menzione da Aristotile
-         <hi rend="i">de Mundo</hi>, da Senofonte in <hi rend="i">Symposio</hi>, parlando di un
+      <p>Quali ordigni, quante molle non mette in opera il bisogno di riposare e divertirsi! Fra
+       tanti magnifici ingegnosi spettacoli de’ Greci ne troviamo uno assai puerile. Non mancava la
+       Grecia di ciurmatori, e tra questi alcuni che portavano il nome di <hi rend="i"
+        >Neurospasti</hi>. Essi lo prendevano da quelle immaginette, eui per mezzo di nervi e di
+       cordicelle occulte davano movimento, facendole gestire, muovere e camminare come se fossero
+       animate. Tali fantocci da’ volgari d’Italia nominati <hi rend="i">pupi</hi>, dagli Spagnuoli
+        <hi rend="i">titeres</hi> e da’ Francesi <hi rend="i">marionnettes</hi>, dicevansi da’ Greci
+        <hi rend="i">neurospasti</hi><note n="a" place="bottom">Di tali figurine che prendono il
+        nome dall’esser <hi rend="i">tratte co’ nervi</hi>, si fa menzione da Aristotile <hi
+         rend="i">de Mundo</hi>, da Senofonte in <hi rend="i">Symposio</hi>, parlando di un
         Siracusano interrogato da Socrate, da Erodoto nel libro il e da Luciano.</note>. Potino <pb
         n="199" xml:id="p199"/>neurospasto soleva colle sue figurine (benchè con rincrescimento de’
        buoni che vuol dire de’ pochi) rappresentare alcune burlette o spezie di mimi in Atene, e in
@@ -2793,9 +2807,9 @@
     <div2 type="chapter" xml:id="libro-1_capo-16">
      <head type="sur">CAPO XVI. </head>
      <head type="main"><hi rend="i">Dell’uso delle Antiche Maschere.</hi></head>
-     <p>Tanti rappresentatori e ballerini non mai comparvero sulla scena greca a
-      volto nudo, ma si coprirono di una <hi rend="i">maschera</hi>, la quale nè sempre fu la
-      stessa, nè si usò sempre pel medesimo oggotto, nè sì presto servì per eccitare il riso.</p>
+     <p>Tanti rappresentatori e ballerini non mai comparvero sulla scena greca a volto nudo, ma si
+      coprirono di una <hi rend="i">maschera</hi>, la quale nè sempre fu la stessa, nè si usò sempre
+      pel medesimo oggotto, nè sì presto servì per eccitare il riso.</p>
      <p>Un poco di feccia alterò da principio il volto dell’attore. E perchè questo? Forse per far
       ridere? Non possiamo sapere se il primo che volle introdurla, avesse avuto tal disegno, perchè
       l’inventore della maschera <pb n="201" xml:id="p201"/>s’ignorava anche ai tempi di
@@ -2822,12 +2836,12 @@
       tragedia da ogni mescolanza comica, tingendosi di feccia, poteva mai farlo con intento di
       eccitare il riso? Alla feccia succedette la maschera decente trovata da Eschilo. Ora <pb
        n="203" xml:id="p203"/>chi direbbe che l’autore dell’<hi rend="i">Eumenidi</hi> avesse
-      inventata una maschera per far ridere ? Essa allora ben lontana dal servire
-      alla buffoneria, accoppiò al modo di trasformar l’attore una diligente imitazione de’ volti,
-      de’ vestimenti e delle divise usate da’ personaggi tratti dalla storia, dalle poesie Omeriche,
-      e dalla teologia. Che se con Suida voglia attribuirsi l’invenzione della vera maschera, non ad
-      Eschilo tragico, ma a Cherilo l’Ateniese ch’egli chiama comico; non perciò potrà negarsi, che
-      la maschera allora si ammettesse ugualmente nella tragedia e nella commedia; e i tragici con
+      inventata una maschera per far ridere ? Essa allora ben lontana dal servire alla buffoneria,
+      accoppiò al modo di trasformar l’attore una diligente imitazione de’ volti, de’ vestimenti e
+      delle divise usate da’ personaggi tratti dalla storia, dalle poesie Omeriche, e dalla
+      teologia. Che se con Suida voglia attribuirsi l’invenzione della vera maschera, non ad Eschilo
+      tragico, ma a Cherilo l’Ateniese ch’egli chiama comico; non perciò potrà negarsi, che la
+      maschera allora si ammettesse ugualmente nella tragedia e nella commedia; e i tragici con
       somma sciocchezza avrebbero ne’ loro drammi adottata una invenzione destinata a far ridere.
       Questo Cherilo però, per quello che si è veduto, fiori nell’Olimpiade LXV, e Tespi che
       rappresentava tragedie, e si era alla meglio trasformato, l’aveva preceduto di quattro
@@ -2843,11 +2857,11 @@
       formare per timore di quel potente cittadino. Confermasi pure tal verità istorica con un passo
       di Eliano, il quale nel ragionare della commedia delle <hi rend="i">Nuvole</hi> in cui
       compariva il personaggio di Socrate, scrive così<note n="a" place="bottom"><hi rend="i"
-        >Historia Varia</hi> lib. II, cap. 15.</note>. <quote>«Essendo Socrate mostrato sulla scena e
-      nominato tratto tratto (della qual cosa <pb n="205" xml:id="p205"/>non è da stupirsi perchè
-       <quote><hi rend="i">egli era ancora raffigurato nelle maschere degl’istrioni</hi></quote> per essere stato
-      spesse volte ritratto fin da’ Vasai) i forestieri andavano nel teatro domandando chi mai fosse
-      quel Socrate.»</quote></p>
+        >Historia Varia</hi> lib. II, cap. 15.</note>. <quote>«Essendo Socrate mostrato sulla scena
+       e nominato tratto tratto (della qual cosa <pb n="205" xml:id="p205"/>non è da stupirsi perchè
+         <quote><hi rend="i">egli era ancora raffigurato nelle maschere degl’istrioni</hi></quote>
+       per essere stato spesse volte ritratto fin da’ Vasai) i forestieri andavano nel teatro
+       domandando chi mai fosse quel Socrate.»</quote></p>
      <p>Anche allora che si mordevano gli estinti, la maschera rappresentava le persone nominate,
       come quando Aristofane pose in iscena Eschilo ed Euripide già morti, mal grado che vi fosse
       una antica legge di Solone che vietava di dir male de’ morti. I Romani stessi usarono la
@@ -2887,25 +2901,25 @@
       del burbero, del barbuto, e fin anche di un padre che aveva un ciglio eccessivamente inarcato,
       ed un altro naturale e composto<note n="a" place="bottom">L’attore si valeva di tal maschera
        volgendosi al popolo da quel lato che secondo il progresso dell’azione richiedeva ora sdegno
-       e turbamento ora dolcezza e serenità. <quote><hi rend="i">Pater ille</hi><seg type="exquote"> (così la descrisse
-       Quintiliano <hi rend="i">Instit. Orat.</hi> lib. XI cap. 3)</seg> <hi rend="i">cujus praecipuae
-        partes sunt, quia interim concitatus, interim lenis est, altero erecto, altero composito est
-        supercilio; atque id ostendere maxime latus actoribus moris est quod cum iis, quas agunt,
-        partibus congruat.</hi></quote> Con tale meschino artifizio ajustavansi gli antichi attori per
-       esprimere col volto i movimenti dell’animo, che senza la maschera avrebbero mirabilmente
-       dipinto nel sembiante naturale. Di questa maschera fanno parimente menzione <hi rend="i"
-        >Polluce</hi>, e <hi rend="i">Boindin</hi> in una memoria consegnata all’Accademia delle
-       Belle Lettere di Parigi, e Metastasio nel capitolo V dell’<hi rend="i">Estratto della Poetica
-        di Aristotile</hi>.</note>; di <pb n="209" xml:id="p209"/>giovani diversi, del bruno, del
-      ricciuto, dell’appassionato, del gioviale, del rustico, del minaccevole, del ben costumato; di
-      donne diverse, di matrone, di più di una ruffiana, di due false vergini, della meretrice
-      magnifica, della nobile, della coronata, di quella che portava l’acconciatura de’ capelli che
-      terminava in una punta; in fine di varii servi, soldati, mercatanti, eroi, numi, e di altre
-      mentovate nell’<hi rend="i">Onomastico</hi> di Giulio Polluce nel libro IV, capo 20. E di
-      questa naturale imitazione della maschera approfittandosi Nerone, si compiacque, allorchè
-      cantava, di fare nelle maschere ritrarre il proprio volto e quello di <pb n="210"
-       xml:id="p210"/>Sabina e di altre dame, come leggesi nelle opere di Suetonio e di
-      Sifilino.</p>
+       e turbamento ora dolcezza e serenità. <quote><hi rend="i">Pater ille</hi><seg type="exquote">
+         (così la descrisse Quintiliano <hi rend="i">Instit. Orat.</hi> lib. XI cap. 3)</seg>
+        <hi rend="i">cujus praecipuae partes sunt, quia interim concitatus, interim lenis est,
+         altero erecto, altero composito est supercilio; atque id ostendere maxime latus actoribus
+         moris est quod cum iis, quas agunt, partibus congruat.</hi></quote> Con tale meschino
+       artifizio ajustavansi gli antichi attori per esprimere col volto i movimenti dell’animo, che
+       senza la maschera avrebbero mirabilmente dipinto nel sembiante naturale. Di questa maschera
+       fanno parimente menzione <hi rend="i">Polluce</hi>, e <hi rend="i">Boindin</hi> in una
+       memoria consegnata all’Accademia delle Belle Lettere di Parigi, e Metastasio nel capitolo V
+        dell’<hi rend="i">Estratto della Poetica di Aristotile</hi>.</note>; di <pb n="209"
+       xml:id="p209"/>giovani diversi, del bruno, del ricciuto, dell’appassionato, del gioviale, del
+      rustico, del minaccevole, del ben costumato; di donne diverse, di matrone, di più di una
+      ruffiana, di due false vergini, della meretrice magnifica, della nobile, della coronata, di
+      quella che portava l’acconciatura de’ capelli che terminava in una punta; in fine di varii
+      servi, soldati, mercatanti, eroi, numi, e di altre mentovate nell’<hi rend="i">Onomastico</hi>
+      di Giulio Polluce nel libro IV, capo 20. E di questa naturale imitazione della maschera
+      approfittandosi Nerone, si compiacque, allorchè cantava, di fare nelle maschere ritrarre il
+      proprio volto e quello di <pb n="210" xml:id="p210"/>Sabina e di altre dame, come leggesi
+      nelle opere di Suetonio e di Sifilino.</p>
      <p>Finalmente, oltre all’imitare e coprire L’attore, erano le antiche maschere necessarie per
       altro uso. Lungo tempo in Grecia e in Italia si diedero gli spettacoli scenici in teatri
       aperti e senza tetto in piazze spaziosissime, dove la voce naturale degli attori dissipata per
@@ -2914,8 +2928,8 @@
       altrui sembianti, si cercò di farla servire per una specie di tromba da spingere oltre la
       voce, e perciò la facevano capace di coprire il capo tutto, non già il solo volto, affinchè
       raccolto ne uscisse il siato, e producesse un’articolazione piena chiara e sonora<note n="a"
-       place="bottom">Si vegga il notissimo passo di Aulo Gellio nel libro V, cap. 7.</note>. Nè
-      poi questa maschera di <pb n="211" xml:id="p211"/>tutto il capo rimase inutile allorchè si
+       place="bottom">Si vegga il notissimo passo di Aulo Gellio nel libro V, cap. 7.</note>. Nè poi
+      questa maschera di <pb n="211" xml:id="p211"/>tutto il capo rimase inutile allorchè si
       costruirono i teatri chiusi, come quelli di Corinto e di Atene fatti a spese di Erode Attico,
       e gli altri de’ Romani; poichè in quel tempo ancora l’uditorio rimaneva allo scoperto, e que’
       teatri erano così vasti e magnifici che potevano agiatamente contenere quale venti, quale
@@ -2936,10 +2950,10 @@
      <head type="sur">CAPO XVII ultimo. </head>
      <head type="main"><hi rend="i">Teatro Materiale, ove de’ più rinomati Teatri, e della
        condizione degli Attori Greci.</hi></head>
-     <p>Poichè sul teatro Greco οιδικῶ, <hi rend="i">formale</hi>, preso come
-      spettacolo abbiamo in grazia della gioventù ragionato a sufficienza, non increscerà per
-      diletto ed erudizione, quando per altro non fosse, formarsi di esso una meno confusa idea,
-      considerandone la struttura ιλικην, <hi rend="i">materiale</hi>.</p>
+     <p>Poichè sul teatro Greco οιδικῶ, <hi rend="i">formale</hi>, preso come spettacolo abbiamo in
+      grazia della gioventù ragionato a sufficienza, non increscerà per diletto ed erudizione,
+      quando per altro non fosse, formarsi di esso una meno confusa idea, considerandone la
+      struttura ιλικην, <hi rend="i">materiale</hi>.</p>
      <p>Copiose ricerche intorno al teatro materiale degli antichi trova nsi sparse <pb n="213"
        xml:id="p213"/>nelle opere degli eruditi<note n="a" place="bottom">Trovansene ne’ libri
         dell’<hi rend="i">Architettura</hi> di Vitruvio; nel Gallucei della <hi rend="i">Tragedia, e
@@ -2977,7 +2991,8 @@
       trecento passi lontano dal mare, che riguarda la punta del gran <hi rend="i">Rematiari</hi>,
       qualche reliquia di un bel teatro di marmo, il cui diametro preso con tutta la profondità
       degli scaglioni, è di 250 piedi, e la periferia di 500<note n="b" place="bottom"><hi rend="i"
-        >Tournefort</hi> <hi rend="i">Voy. au Lev.</hi> tom. I lett. VI.</note>. Oggi pure si osserva in Samo lo
+        >Tournefort</hi>
+       <hi rend="i">Voy. au Lev.</hi> tom. I lett. VI.</note>. Oggi pure si osserva in Samo lo
       spazio che occupava il suo teatro, i cui marmi si <pb n="216" xml:id="p216"/>trasportarono per
       edificarne Cora<note n="a" place="bottom">Lo stesso <hi rend="i">Tournefort</hi> tom. IV,
        lett. X.</note>. Uno de’ più magnifici teatri di marmo dell’Asia Minore era quello di Smirne,
@@ -3008,22 +3023,22 @@
       canne siciliane, e dagli avanzi chiaramente si scorge che era diviso in tre ordini tagliati da
       otto cunei equidistanti. Nè della scena nè delle colonne e de’ fregi che l’adornavano, rimane
       alcun vestigio. Merita tra le reliquie di questo teatro particolare attenzione il più basso
-      scalino della gradinata di mezzo. Vi si erano osservate queste lettere greche <quote>ΚΛΕΟΣ - ΠΑΤ -
-      ΦΡΟΝ</quote>, logore e guaste in modo che non si curarono mai. Riescì al lodato Conte Gaetani nel 1756
-      di scoprire nella parte opposta in faccia al levante quest’altre lettere belle ed intere
-      <quote>ΒΑΣΙΛΙΣΣΑΣ ΦΙΛΙΣΤΙΔΟΣ, <hi rend="i">Reginae Philistidis</hi></quote>, che non improbabilmente potrebbe
-      credersi una regina che dominò in Siracusa al cui tempo forse potè edificarsi il <pb n="219"
-       xml:id="p219"/>teatro<note n="a" place="bottom">Il primo a pubblicare questa iscrizione fu
-       l’ingegnere militare Andrea Piconati Siracusano, che dal nomato Conte Gaetani ebbe la pianta
-       del teatro, per inserirla nel di lui <hi rend="i">Stato presente de’ Monumenti antichi
-        Siciliani</hi> del 1767. La rapportò poscia il principe di Torremuzza nel 1784 fralle <hi
-        rend="i">Iscrizioni di Sicilia</hi>.</note>. L’esistenza di tal regina de’ Siracusani si
-      compruova con un gran numero di medaglie registrate nell’edizioni della <hi rend="i">Sicilia
-       Numismatica</hi> fatte dall’<hi rend="i">Agostino</hi>, dal <hi rend="i">Mayer</hi>, dall’
-       <hi rend="i">Avercampio</hi>. Il Gaetani molte ne vide di argento, e qualcheduna di rame. Il
-       Torremuzza<note n="b" place="bottom"><hi rend="i">Medaglie antiche di Sicilia</hi>
-       1781.</note> altre ne reca tutte di argento, che rappresentano Filistide in varie età,
-      giovanetta, matura, vicino alla vecchiaja, vecchia affatto e rugosa.</p>
+      scalino della gradinata di mezzo. Vi si erano osservate queste lettere greche <quote>ΚΛΕΟΣ -
+       ΠΑΤ - ΦΡΟΝ</quote>, logore e guaste in modo che non si curarono mai. Riescì al lodato Conte
+      Gaetani nel 1756 di scoprire nella parte opposta in faccia al levante quest’altre lettere
+      belle ed intere <quote>ΒΑΣΙΛΙΣΣΑΣ ΦΙΛΙΣΤΙΔΟΣ, <hi rend="i">Reginae Philistidis</hi></quote>,
+      che non improbabilmente potrebbe credersi una regina che dominò in Siracusa al cui tempo forse
+      potè edificarsi il <pb n="219" xml:id="p219"/>teatro<note n="a" place="bottom">Il primo a
+       pubblicare questa iscrizione fu l’ingegnere militare Andrea Piconati Siracusano, che dal
+       nomato Conte Gaetani ebbe la pianta del teatro, per inserirla nel di lui <hi rend="i">Stato
+        presente de’ Monumenti antichi Siciliani</hi> del 1767. La rapportò poscia il principe di
+       Torremuzza nel 1784 fralle <hi rend="i">Iscrizioni di Sicilia</hi>.</note>. L’esistenza di
+      tal regina de’ Siracusani si compruova con un gran numero di medaglie registrate nell’edizioni
+      della <hi rend="i">Sicilia Numismatica</hi> fatte dall’<hi rend="i">Agostino</hi>, dal <hi
+       rend="i">Mayer</hi>, dall’ <hi rend="i">Avercampio</hi>. Il Gaetani molte ne vide di argento,
+      e qualcheduna di rame. Il Torremuzza<note n="b" place="bottom"><hi rend="i">Medaglie antiche
+        di Sicilia</hi> 1781.</note> altre ne reca tutte di argento, che rappresentano Filistide in
+      varie età, giovanetta, matura, vicino alla vecchiaja, vecchia affatto e rugosa.</p>
      <p>Oltre de’ teatri di Siracusa e di Agira, abbiamo con qualche particolarità rammentato
        altrove<note n="c" place="bottom"><hi rend="i">Vicende della Coltura delle Sicilie</hi>
        tomo I.</note> quelli di <pb n="220" xml:id="p220"/>Palermo, di Agrigento, di Catania, di
@@ -3042,11 +3057,10 @@
       nel secolo XVI n’esistevano varii rottami. Tralle ruine di un tempio dedicato, come si crede a
       Bacco, il medesimo Polidoro assicura di aver trovata la seguente iscrizione: </p>
      <quote>
-     <p rend="i">Q. Aurelius Mitranus C.F.P.N.</p>
-     <p rend="i">Porticum restituit Gradus fecit.</p>
-      </quote>
-     <p>la qual lapida verisimilmente appartenne
-      ad Ansano.</p>
+      <p rend="i">Q. Aurelius Mitranus C.F.P.N.</p>
+      <p rend="i">Porticum restituit Gradus fecit.</p>
+     </quote>
+     <p>la qual lapida verisimilmente appartenne ad Ansano.</p>
      <p>Sparta medesima, l’austera Sparta, ebbe un teatro assai magnifico, della cui bellezza
       favellano Pausania e Plutarco nella <hi rend="i">Vita di Agesilao</hi>. In fattinulla parmi
       che si possa aggiungere a ciò che adduce m. <hi rend="i">Guillet</hi><note n="a"
@@ -3134,7 +3148,7 @@
       dipintura e farne comparire un’altra. Nell’alto della scena era ancor situata la macchina
       versatile, dalla quale Giove <hi rend="i">lanciava i suoi fulmini</hi>, come dinota la voce
       Κεραυνοσκοπειον che le diedero<note n="c" place="bottom">Esse perciò si dissero <hi rend="i"
-       >ductiles, e versatiles</hi>; e forse a tal uso era destinata la machina chiamata Εξοστρα ed
+        >ductiles, e versatiles</hi>; e forse a tal uso era destinata la machina chiamata Εξοστρα ed
        altrimente Εννυκλημα da Esichio e da Polluce nel lib. IV.</note> Dietro della scena era <pb
        n="229" xml:id="p229"/>il Βροντειον, il luogo, in cui con otri ripieni di selci che si
       agitavano, <hi rend="i">imitavasi lo strepito de’ tuoni.</hi> Anche al di dietro era il <hi
@@ -3196,10 +3210,10 @@
       nell’uno e nell’altro si gareggiava per la palma drammatica. Quale ardore destar non <pb
        n="234" xml:id="p234"/>doveva ne’ generosì scrittori un’ adunanza composta di quanto avea di
       più cospicuo la dotta Grecia destinata ad assistere al certame e pronta a coronare il
-      vincitore! Questa onorata fiamma di gloria, questa <quote><hi rend="i">bella utile contesa</hi></quote> così
-      chiamata da Esiodo perchè nulla avea di quella bassa malignità che tormenta gl’invidi
-      impostori e gli stimola a perseguitare il merito innocente; questa, dico, regnava
-      singolarmente in Atene. Quivi colloco il suo luminoso trono la gloria drammatica; e le
+      vincitore! Questa onorata fiamma di gloria, questa <quote><hi rend="i">bella utile
+        contesa</hi></quote> così chiamata da Esiodo perchè nulla avea di quella bassa malignità che
+      tormenta gl’invidi impostori e gli stimola a perseguitare il merito innocente; questa, dico,
+      regnava singolarmente in Atene. Quivi colloco il suo luminoso trono la gloria drammatica; e le
       sceniche contese accadute in sì celebre città vinsero di gran lunga di fama le stesse gare
       Olimpiche. Nelle più sodenni feste di Minerva dette <hi rend="i">Panatenee</hi> e di Bacco
       dette <hi rend="i">Dionisie</hi> famose pel gran concorso de’ Greci aveano luogo gli
@@ -3253,15 +3267,14 @@
      <pb n="239" xml:id="p239"/>
      <head type="sur">CONCHIUSIONE</head>
      <head type="main"><hi rend="i">Dell’antica storia teatrale.</hi></head>
-     <p>Tale fu del mondo conosciuto l’antico stato degli spettacoli teatrali.
-      L’utile curiosità congiunta al bisogno che si ha di esempli che riscaldino ed alimentino il
-      genio, ne renderà sempre accetta la narrazione con gusto e con giudizio particolareggiata, la
-      quale per gradi e con sicurezza ammaestra, e la preferirà a certi rapidi abbozzi poetici, pe’
-      quali si vanno scegliendo i colori più vivaci in detrimento della verità istorica, ed a
-      capriccio vi si compartono le ombre ed i lumi, e dipignesi d’idea e di maniera per illudere
-      l’occhio e far pompa di eloquenza. Eccone intanto i principali lineamenti raccolti in un sol
-      quadro somministrati dalla storia verace che nulla vela nel suo corso con maligna
-      reticenza.</p>
+     <p>Tale fu del mondo conosciuto l’antico stato degli spettacoli teatrali. L’utile curiosità
+      congiunta al bisogno che si ha di esempli che riscaldino ed alimentino il genio, ne renderà
+      sempre accetta la narrazione con gusto e con giudizio particolareggiata, la quale per gradi e
+      con sicurezza ammaestra, e la preferirà a certi rapidi abbozzi poetici, pe’ quali si vanno
+      scegliendo i colori più vivaci in detrimento della verità istorica, ed a capriccio vi si
+      compartono le ombre ed i lumi, e dipignesi d’idea e di maniera per illudere l’occhio e far
+      pompa di eloquenza. Eccone intanto i principali lineamenti raccolti in un sol quadro
+      somministrati dalla storia verace che nulla vela nel suo corso con maligna reticenza.</p>
      <p>L’uomo da pertutto imitatore da <pb n="240" xml:id="p240"/>pertutto osserva e contraffà i
       suoi simili per natural pendio e per proprio giocondo trattenimento. I Selvaggi di Ulietea,
       anzi di ogni contrada e di ogni tempo, non oltrepassando i balli e i pantomimi accompagnati
@@ -3289,14 +3302,15 @@
        >Prometeo</hi>, ne’ <hi rend="i">Persi</hi>, ne’ <hi rend="i">Sette a Tebe</hi>. Sofocle su
       di lui si forma, rende il proprio stile più grave, più maestoso, più sublime, aggiugne alla
       scena tragica vivacità, decenza, verità e splendidezza, diviene modello a’ posteri più colti
-      con <hi rend="i">Edipo</hi>, <hi rend="i">Antigone</hi>, <hi rend="i">Elettra</hi>, <hi rend="i">Filottete</hi>. Dove siffatti atleti coglievano
-      palme sì invidiabili, si presenta Euripide, ed occupa il raro intatto pregio di parlare al
-      cuore avvivando col più vigoroso colorito tutte le interne mozioni che alla compassione
-      appartengono. L’eloquenza la gravità e la copia delle sentenze filosofiche caratterizzano lo
-      stile di Euripide. Qualche negligenza nell’economia scenica, certo pendio ad apparire
-      eloquente, manifesta che mentre attendeva a colorir con vivacità la natura, non lasciava di
-      consigliarsi coll’arte. Ma le <hi rend="i">Ifigenie</hi>, <hi rend="i">Alcestide</hi>, <hi rend="i">le Trojane</hi>, <hi rend="i">Ippolito,
-       Medea</hi>, s’imitano sempre e non si oscurano mai.</p>
+      con <hi rend="i">Edipo</hi>, <hi rend="i">Antigone</hi>, <hi rend="i">Elettra</hi>, <hi
+       rend="i">Filottete</hi>. Dove siffatti atleti coglievano palme sì invidiabili, si presenta
+      Euripide, ed occupa il raro intatto pregio di parlare al cuore avvivando col più vigoroso
+      colorito tutte le interne mozioni che alla compassione appartengono. L’eloquenza la gravità e
+      la copia delle sentenze filosofiche caratterizzano lo stile di Euripide. Qualche negligenza
+      nell’economia scenica, certo pendio ad apparire eloquente, manifesta che mentre attendeva a
+      colorir con vivacità la natura, non lasciava di consigliarsi coll’arte. Ma le <hi rend="i"
+       >Ifigenie</hi>, <hi rend="i">Alcestide</hi>, <hi rend="i">le Trojane</hi>, <hi rend="i"
+       >Ippolito, Medea</hi>, s’imitano sempre e non si oscurano mai.</p>
      <p>Questi tre rari ingegni spiegavano <pb n="243" xml:id="p243"/>tutta la loro energia nel
       delineare con maestria singolare le umane passioni, nel dipignere con verità e naturalezza i
       costumi, nel trionfare per una inimitabile semplicità di azione, sapendosi per tutto ciò
@@ -3324,8 +3338,8 @@
       Di buona fede siamo noi sicuri che a’ di di Aristofane sarebbero state accolte con pari
       effetto da que’ repubblicani baldanzosi e pieni <pb n="245" xml:id="p245"/>sotanto della loro
       potenza e libertà finanche le greche favole, la <hi rend="i">Perintia</hi>, l’<hi rend="i"
-       >Andria</hi>, non che le straniere posteriori, l’<hi rend="i">Euclione</hi>, <hi rend="i">l’Eunuco</hi>, gli
-       <hi rend="i">Adelfi</hi>, il <hi rend="i">Misantropo</hi>?</p>
+       >Andria</hi>, non che le straniere posteriori, l’<hi rend="i">Euclione</hi>, <hi rend="i"
+       >l’Eunuco</hi>, gli <hi rend="i">Adelfi</hi>, il <hi rend="i">Misantropo</hi>?</p>
      <p>Alesside illustrò la commedia <hi rend="i">Mezzana</hi> colla grazia e colla vivacità della
       satira senza appressarsi alla soverchia mordacità di Aristofane. Non fu tragico Anassandride,
       come lo reputò lo spagnuolo Andres nel parlar rapidamente di ogni letteratura, ma comico della

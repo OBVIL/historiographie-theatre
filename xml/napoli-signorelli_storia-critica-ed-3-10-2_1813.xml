@@ -51,8 +51,8 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Pietro Napoli Signorelli, Storia critica dei teatri antichi e moderni divisa
-                    in dieci tomi, tomo X, parte 2, <edition>[3e éd.]</edition>,
+                <bibl><author>Pietro Napoli Signorelli</author>, <title><hi rend="i">Storia critica dei teatri antichi e moderni divisa
+                    in dieci tomi</hi></title>, <biblScope>tomo X</biblScope>, <biblScope>parte 2</biblScope>, <edition>[3e éd.]</edition>,
                         <pubPlace>Napoli</pubPlace>, <publisher>presso Vincenzo Orsino</publisher>,
                         <date>1813</date>, 245 p. PDF : <ref
                         target="https://books.google.fr/books?vid=IBNF:CF990964657"

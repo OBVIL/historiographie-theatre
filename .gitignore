@@ -1,1 +1,13 @@
 .DS_Store
+*.xpr
+html/
+markdown/
+iramutek/
+toc/
+doc/
+epub/
+conf.php
+kindle/
+article/
+.htaccess
+*.sqlite

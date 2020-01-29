@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--Odette: 2018-10-16T16:20:40+02:00-->
@@ -31,19 +31,19 @@
         <date when="2018"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/historiographie-theatre/planelli_opera-in-musica_1772/</idno>
         <availability status="restricted">
-          <licence target="#http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence
-              « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
-              BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+              Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+              sur les bases de données (L341-1) est mise à disposition de la communauté
+              scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+              Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+              3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication
+              dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+              l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+              toute utilisation commerciale est interdite.</p>
             <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
               électronique, notamment en intégrant toutes les contributions extérieures, la
               diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
@@ -51,7 +51,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Antonio Planelli, <hi rend="i">Dell’opera in musica, tratatto del cavaliere Antonio Planelli, dell’ordine gerosolimitano</hi>, <pubPlace>Napoli</pubPlace>, <publisher>Nella Stamperia di Donato Campo</publisher>, <date>1772</date>, in-8º, 272 p. PDF : <ref target="#https://archive.org/details/delloperainmusic00plan">Internet Archive</ref>.</bibl>
+        <bibl><author>Antonio Planelli</author>, <title><hi rend="i">Dell’opera in musica, tratatto del cavaliere Antonio Planelli, dell’ordine gerosolimitano</hi></title>, <pubPlace>Napoli</pubPlace>, <publisher>Nella Stamperia di Donato Campo</publisher>, <date>1772</date>, in-8º, 272 p. PDF : <ref target="#https://archive.org/details/delloperainmusic00plan">Internet Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

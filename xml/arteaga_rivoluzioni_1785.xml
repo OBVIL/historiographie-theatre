@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2019-03-06T13:13:50+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ita">
   <teiHeader>
@@ -29,26 +29,28 @@
         <idno>http://www.obvil.sorbonne-universite.site/corpus/historiographie-theatre/arteaga_rivoluzioni_1785</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons :
-              «Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+            <p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+              Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+              sur les bases de données (L341-1) est mise à disposition de la communauté
+              scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+              Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+              3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication
+              dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+              l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+              toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
               électronique, notamment en intégrant toutes les contributions extérieures, la
               diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Esteban De Arteaga, <hi rend="i">Le rivoluzioni del teatro musicale italiano dalla sua
+        <bibl><author>Esteban De Arteaga</author>, <title><hi rend="i">Le rivoluzioni del teatro musicale italiano dalla sua
             origine fino al presente opera di Stefano Arteaga socio dell’Accademia delle Scienze,
-            Arti, e Belle lettere di Padova</hi>, <edition>Seconda edizione accresciuta, variata, e
+            Arti, e Belle lettere di Padova</hi></title>, <edition>Seconda edizione accresciuta, variata, e
             corretta dall’autore</edition>, <pubPlace>Venezia</pubPlace>, nella stamperia di
             <publisher>Carlo Palese</publisher>, <date>1785</date>. PDF : Bayerische
           Staatsbibliothek (<ref
@@ -62,7 +64,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1783"/>
+        <date when="1785"/>
       </creation>
       <langUsage>
         <language ident="ita"/>
@@ -85,7 +87,7 @@
       </div>
       <div type="epigraph" xml:id="testo_epigrafo">
         <head>[Epigrafo]</head>
-        <epigraph>
+        <epigraph xml:lang="fre">
           <l>«Il faut se rendre à ce palais magique,</l>
           <l>Où les beaux vers, la danse, la musique,</l>
           <l>L’art de tromper les yeux par les couleurs,</l>
