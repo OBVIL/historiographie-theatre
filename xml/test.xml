@@ -8827,7 +8827,7 @@
                 <p xml:id="note.1.46"><ref target="#note.1.46_">[1.46]</ref> cinq … Scaramouche: le
                     maschere della commedia dell’Arte: il Dottore, Pantalone, Arlecchino, Brighella,
                     Scaramuccia.</p>
-                </div>
+                
                 <div>
                 <head>De l’Opéra</head>
                 <p xml:id="note.2.1"><ref target="#note.2.1_">[2.1]</ref> bon siècle: il
@@ -8991,6 +8991,7 @@
                     historiques: riferimento a molti drammi per musica di Apostolo Zeno e di
                     Metastasio, che Riccoboni evita di nominare, nonostante il successo ormai
                     acclarato del secondo, poeta cesareo alla corte di Vienna dal 1730.</p>
+                </div>
                 </div>
                 <div>
                 <head>Théâtre espagnol</head>
@@ -10141,9 +10142,11 @@
                     lamentarsi con un linguaggio pedestre.</p>
                     </div>
                 </div>
+            </div>
                 <div>
                 <head>Critique d’un ami anonyme sur le Caton</head>
-                <p rend="center">Réponse de l’auteur aux critiques ci-dessus</p>
+                    <div>
+                <head>Réponse de l’auteur aux critiques ci-dessus</head>
                 <p xml:id="reponse.2"><ref target="#reponse.2_">[Réponse.2]</ref> Homère: quasi
                     sicuramente esistito, forse nato nella penisola dell’Ermo o nell’isola di Chio,
                     ritenuto già nel VII secolo l’autore dell’Iliade e dell’Odissea, da intendersi
