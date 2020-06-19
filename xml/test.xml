@@ -8424,7 +8424,7 @@
             <div>
                 <head>Réflexions historiques et critiques sur les différents théâtres de
                     l’Europe.</head>
-                <p rend="center">Avec les Pensées sur la déclamation, 1738</p>
+                <div><head>Avec les Pensées sur la déclamation, 1738</head>
                 <p rend="center">Nota al testo</p>
                 <p>In alcune edizioni delle <hi rend="i">Réflexions</hi>, prima dell’avviso «Au
                     lecteur» compare la dedica:</p>
@@ -8472,8 +8472,8 @@
                     sottoscrivermi</p>
                 <p rend="sc">Della Reale Vostra Maestà,</p>
                 <p>Umilissimo ed ossequiosissimo Servidore</p>
-                <p rend="sc">Luigi Riccoboni.</p>
-                <p rend="center">Commento</p>
+                <p rend="sc">Luigi Riccoboni.</p></div>
+                <div><head>Commento</head>
                 <p rend="center">Au lecteur</p>
                 <p xml:id="avis.1"><ref target="#avis.1_">[Avis.1]</ref> réforme: sulla necessità
                     che il teatro italiano dovesse essere riformato dalla sua prospettiva di attore,
@@ -8486,8 +8486,8 @@
                     anche la commedia.</p>
                 <p xml:id="avis.4"><ref target="#avis.4_">[Avis.4]</ref> ordre […] du temps:
                     Riccoboni avverte il lettore che seguirà un ordine cronologico rispetto alla
-                    rinascita del teatro nel Medioevo.</p>
-                <p rend="center">Théâtre italien</p>
+                    rinascita del teatro nel Medioevo.</p></div>
+                <head>Théâtre italien</head>
                 <p xml:id="note.1.1"><ref target="#note.1.1_">[1.1]</ref> en Italie: Riccoboni si
                     riferisce alla sua Histoire du théâtre italien depuis la décadence de la comédie
                     latine, …, Paris, Delormel, 1728; poi riedita in due voll., Paris, Cailleau,
@@ -8825,7 +8825,7 @@
                 <p xml:id="note.1.46"><ref target="#note.1.46_">[1.46]</ref> cinq … Scaramouche: le
                     maschere della commedia dell’Arte: il Dottore, Pantalone, Arlecchino, Brighella,
                     Scaramuccia.</p>
-                <p rend="center">De l’Opéra</p>
+                <head>De l’Opéra</head>
                 <p xml:id="note.2.1"><ref target="#note.2.1_">[2.1]</ref> bon siècle: il
                     Cinquecento, durante il quale si ha la rinascita del cosiddetto teatro regolare,
                     tragedia e commedia, improntato ai modelli degli antichi.</p>
@@ -8987,7 +8987,7 @@
                     historiques: riferimento a molti drammi per musica di Apostolo Zeno e di
                     Metastasio, che Riccoboni evita di nominare, nonostante il successo ormai
                     acclarato del secondo, poeta cesareo alla corte di Vienna dal 1730.</p>
-                <p rend="center">Théâtre espagnol</p>
+                <head>Théâtre espagnol</head>
                 <p xml:id="note.3.3"><ref target="#note.3.3_">[3.3]</ref> entremessés: entremés,
                     genere teatrale molto diffuso in Spagna nel Cinquecento, consistente in una
                     rappresentazione comica inserita fra una giornata e l’altra di un dramma serio o
@@ -9117,7 +9117,7 @@
                 <p><hi rend="i">La Maison à deux portes</hi>: canovaccio rappresentato alla
                     Comédie-Italienne da Luigi Riccoboni nel 1716, ripreso da <hi rend="i">Casa con
                         dos puertas males es de guardar</hi> di Calderón de la Barca.</p>
-                <p rend="center">Théâtre français</p>
+                <head>Théâtre français</head>
                 <p xml:id="note.4.2"><ref target="#note.4.2_">[4.2]</ref> une histoire… imprimeé en
                     1734: Si tratta della Histoire du théâtre françois depuis son origine jusqu’à
                     present, tome premier, Paris, Le Mercier, 1734, scritta da François e Claude
@@ -9471,7 +9471,7 @@
                     danse, istituita nel 1661 d Luigi XIV, con l’Académie de musique nel 1671. Solo
                     a questo teatro era concesso il privilegio di rappresentare pezzi teatrali in
                     musica.</p>
-                <p rend="center">Parallèle des théatres italien, espagnol et français</p>
+                <head>Parallèle des théatres italien, espagnol et français</head>
                 <p xml:id="note.5.2"><ref target="#note.5.2_">[5.2]</ref> Plaute: Plauto, noto
                     commediografo latino (Sarsina, 250 a. C. ca – Roma ?, 184 a. C), autore di
                     almeno 21 commedie certe, fra cui Amphitruo, Menaechmi, Miles gloriorious.</p>
@@ -9487,7 +9487,7 @@
                     (1737) di Pierre-Claude Nivelle de La Chaussé (Parigi, 1692 – Parigi, 1754), su
                     cui Riccoboni aveva scritto la Lettre sur L’Écoles des amis, Paris, Prault,
                     1737.</p>
-                <p rend="center">Théâtre anglais</p>
+                <head>Théâtre anglais</head>
                 <p xml:id="note.6.2"><ref target="#note.6.2_">[6.2]</ref> Edouard III: Edoardo,
                     santo, il Confessore (Islip, 1002 – Westmeister, 1666), regna dal 1043.</p>
                 <p xml:id="note.6.5"><ref target="#note.6.5_">[6.5]</ref> Antiquité de Londres: la
@@ -9616,7 +9616,7 @@
                 <p xml:id="note.6.42"><ref target="#note.6.42_">[6.42]</ref> Guérin: Isaac-François
                     Guérin (Paris, 1636 ca –ivi, 1728), attore francese, dopo aver fatto parte della
                     troupe del teatro del Marais entra a far parte della Comédie-Française.</p>
-                <p rend="center">Théâtre hollandais</p>
+                <head>Théâtre hollandais</head>
                 <p rend="center">Théâtre flamand et hollandais</p>
                 <p xml:id="note.7.1"><ref target="#note.7.1_">[7.1]</ref> Langage flamand:
                     fiammingo, lingua del ceppo germanico parlata anche oggi nel Belgio
@@ -9833,7 +9833,7 @@
                 <p><hi rend="i">musiciens … Empereur</hi>: ad esempio Giovanni Bononcini, già
                     ricordato, o Antonio Caldara (Venezia, 1670 – Vienna, 1736), compositore sia nel
                     genere operistico che nella musica sacra.</p>
-                <p rend="center">Extrait de l’allemand</p>
+                <head>Extrait de l’allemand</head>
                 <p rend="center">Extrait</p>
                 <p xml:id="extrait.1.2"><ref target="#extrait.1.2_">[Extrait.1.2]</ref> Le Caton
                     mourant: traduzione del titolo della tragedia Sterbender Cato, Leipsig, 1735 di
@@ -9998,7 +9998,7 @@
                     filosofia in ogni ambito ha dominato la cultura occidentale sino al primo
                     Settecento. In quello teatrale la sua Poetica ha dettato le regole, costituendo
                     il testo fondatore del classicismo.</p>
-                <p rend="center">Petit traité de M. Fénelon</p>
+                <head>Petit traité de M. Fénelon</head>
                 <p xml:id="traite.1.1"><ref target="#traite.1.1_">[Traité.1.1]</ref> M. de Cambray:
                     François de Salignac de la Mothe (Périgord, 1651 – Cambrai, 1715), filosofo,
                     autore delle celebri Aventures de Télemaque (1699), in cui si prospetta il
@@ -10008,7 +10008,7 @@
                         Grammaire, la Rhétorique, la Poetique et l’Histoire</hi>…, par M. de
                     Fénelon, Archevesque Duc de Cambray, l’un des Quarante de l’Académie, Paris,
                     Coignard, 1716.</p>
-                <p rend="center">Sentiments de M. Fénelon.</p>
+                <head>Sentiments de M. Fénelon.</head>
                 <p rend="center">Projet d’un traité sur la tragédie</p>
                 <p xml:id="traite.2.2"><ref target="#traite.2.2_">[Traité.2.2]</ref> Platon: Platone
                     (Atene, 428/427 a. C. – ivi, 348-347), filosofo greco che ha fondato la
@@ -10121,7 +10121,7 @@
                 <p xml:id="traite.2.23"><ref target="#traite.2.23_">[Traité.2.23]</ref> Et tragicus…
                     pedestri: Ars poetica, v. 95. In un significato più ampio: il tragico usa
                     lamentarsi con un linguaggio pedestre.</p>
-                <p rend="center">Critique d’un ami anonyme sur le Caton</p>
+                <head>Critique d’un ami anonyme sur le Caton</head>
                 <p rend="center">Réponse de l’auteur aux critiques ci-dessus</p>
                 <p xml:id="reponse.2"><ref target="#reponse.2_">[Réponse.2]</ref> Homère: quasi
                     sicuramente esistito, forse nato nella penisola dell’Ermo o nell’isola di Chio,
@@ -10208,7 +10208,7 @@
                 <p><hi rend="i">Pièces… Lohenstein: Kleopatra</hi> (1661), <hi rend="i"
                         >Sophonisbe</hi> (1680), <hi rend="i">Ibrahim Bassa</hi> (1650), <hi
                         rend="i">Agrippina</hi> (1665), <hi rend="i">Epicharis</hi> (1665).</p>
-                <p rend="center">Pensées sur la déclamation</p>
+                <head>Pensées sur la déclamation</head>
                 <p xml:id="pensees.4"><ref target="#pensees.4_">[Pensées.4]</ref> Démosthene:
                     Demostene (384 a. C. – 322 a. C.), uomo politico e oratore ateniese assunto, sin
                     dal 3° secolo a. C. come il retore per eccellenza; in lui l’oratoria è rivolta
